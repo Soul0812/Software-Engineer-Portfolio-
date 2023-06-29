@@ -1,8 +1,8 @@
 # Software-Engineer-Portfolio
 
-## Feedbacks
+## Project Feedbacks
 
-#### EPAM Systems
+### EPAM Systems
   - March 2023, [Customer Feedback](feedbacks/2023-March-EPAM-Summary-Feedback-from-Customers.PNG)
     <br>*Description:* Half-year summary as part of constant feedback process. 
     Collected from **Product Owner**, **Scrum Master** (customer side) and **Delivery Manager** (EPAM side) feedbacks.
@@ -34,7 +34,7 @@
     <br>That time, I didn't follow some coding best practices due to lack of working in an IT company.
     However, I was friendly Team Lead and quite effective Developer at the same time.
 
-#### Institute of Radio Astronomy
+### Institute of Radio Astronomy
 
   - September 2020, [Quit Project Feedback](feedbacks/2020-September-RINANU-Quit-Project-Feedback-from-ProjectManager.PNG)
     <br>*Description:* Quit feedback to sum up the entire work path on a project. 
@@ -44,46 +44,52 @@
 
 ## Self-education
 
-#### Language trainings completed
-  - Apr 2023 - Jul 2023 (26 live sessions). EPAM training: English for Virtual Communication (B1+/B2/B2+).
-  - Oct 2022 - Apr 2023 (41 live sessions). EPAM training: Business English (B1+/B2).
-  - Sep 2022 - Nov 2022 (17 live sessions). EPAM training: IT Grammar in English (B1+/B2).
-  - Jun 2022 - Jul 2022 (8 live sessions). EPAM training: English for Socializing (B1/B1+).
-  - Mar 2022 - Jul 2022 (17 live sessions). EPAM training: IT Grammar in English (A2+/B1).
-  - Jan 2022 - Feb 2022 (10 live sessions). EPAM training: Project Interviews in English (A2+/B1/B1+).
-  - Nov 2021 - Dec 2021 (11 live sessions). EPAM training: Breaking the Language Barrier in English (A2+/B1).
-  - Apr 2021 - Oct 2021 (40 live sessions). EPAM training: Business English (A2+/B1).
-  - Mar 2021 - May 2022 (10 live sessions). EPAM training: English Speaking Club (B1/B2/C1/C2).
+### Languages & Soft Skills
 
-#### Programming trainings completed
-- Jun 2022 - Aug 2022 (7 self-completed modules). EPAM training: Cloud Platforms for developers **AWS Developer**:
+#### EPAM English classes. Completed 9 trainings:
+  - Apr 2023 - Jul 2023 (26 live sessions). English for Virtual Communication (B1+/B2/B2+).
+  - Oct 2022 - Apr 2023 (41 live sessions). Business English (B1+/B2).
+  - Sep 2022 - Nov 2022 (17 live sessions). IT Grammar in English (B1+/B2).
+  - Jun 2022 - Jul 2022 (8 live sessions). English for Socializing (B1/B1+).
+  - Mar 2022 - Jul 2022 (17 live sessions). IT Grammar in English (A2+/B1).
+  - Jan 2022 - Feb 2022 (10 live sessions). Project Interviews in English (A2+/B1/B1+).
+  - Nov 2021 - Dec 2021 (11 live sessions). Breaking the Language Barrier in English (A2+/B1).
+  - Apr 2021 - Oct 2021 (40 live sessions). Business English (A2+/B1).
+  - Mar 2021 - May 2022 (10 live sessions). English Speaking Club (B1/B2/C1/C2).
+
+### Programming & Hard Skills
+
+#### EPAM Education. Completed 1 program:
+- Jun 2022 - Aug 2022. Cloud Platforms for developers - AWS Developer. 
+  <br>7 self-study modules with Mentor review:
   - AWS Essential, AWS Account
   - IAM, S3, EC2, VPC
   - Cloud Formation
-  
-- May 2021 - Sep 2022 (17 self-completed courses). LinkedIn Learning courses:
+
+#### LinkedIn Learning. Completed 17 self-study courses:
+
   - Learning Spring with Spring Boot
   - Spring Boot 2.0 Essential Training
   - Spring: Framework in Depth
-  - Learning REST APIs
-  - SQL vs NoSQL: Which Database Type Is Right for You?
-  - Git: Branches, Merges, and Remotes
-  - AWS Essential Training for Developers (2019)
-  - Git Essential Training: The Basics (2019)
-  - Java EE: Servlets and JavaServer Pages (JSP)
-  - Learning Terraform (2020)
   - Building Full-Stack Apps with React and Spring
-  - Advanced SQL for Query Tuning and Performance Optimization
   - Spring: Test-Driven Development with JUnit
-  - Introduction to Linux
-  - Programming Foundations: Algorithms
-  - Practical Test-Driven Development for Java Programmers
+  - Java EE: Servlets and JavaServer Pages (JSP)
   - Learning Cloud Computing: Core Concepts
+  - AWS Essential Training for Developers 
+  - Learning Terraform 
+  - SQL vs NoSQL: Which Database Type Is Right for You?
+  - Advanced SQL for Query Tuning and Performance Optimization
+  - Git Essential Training: The Basics
+  - Git: Branches, Merges, and Remotes
+  - Introduction to Linux
+  - Practical Test-Driven Development for Java Programmers
+  - Programming Foundations: Algorithms
+  - Learning REST APIs
   
   My repositories for exercises
-  - https://github.com/Yevhen-Tkachenko-1/Spring-Boot-Demo-Application
-  - https://github.com/Yevhen-Tkachenko-1/Spring-Demo-Application
-  - https://github.com/Yevhen-Tkachenko-1/Java-SDK-Research-and-Play
+  - [Spring Boot Demo App](https://github.com/Yevhen-Tkachenko-1/Spring-Boot-Demo-Application)
+  - [Spring Demo App](https://github.com/Yevhen-Tkachenko-1/Spring-Demo-Application)
+  - [Java SDK: Research and Play](https://github.com/Yevhen-Tkachenko-1/Java-SDK-Research-and-Play)
 
 
 
