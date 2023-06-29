@@ -1,4 +1,27 @@
-# Software-Engineer-Portfolio
+# Software Engineer Portfolio
+Welcome to Senior Software Engineer's page!
+
+## About me
+
+Having **Java** as a primary skill, I‘ve been doing commercial development for **5 years** so far.
+Working on **Backend**, **Frontend**, **Cloud**, **REST API** apps, 
+I‘ve got experience with **Java 8**, **JavaEE**, **Spring**, **AWS**, **SQL**, **Git**, **Scrum**, **Windows**.
+
+I've come across different stages of development such as **Research**, **Software Design**, **Development**, **Testing**, **Deployment**. 
+In addition to development itself, I had wide range of responsibilities: 
+from **Requirements Clarification** to **Product Release**.
+
+Thanks to fluent **English** and good soft skills, I‘m an efficient **Team Player** even in case of international teams. 
+In fact, I’ve been communicating with foreign colleagues and stakeholders for more than 2 years already.
+
+I consider myself as a responsible person and also can take care about others.
+In one project I was a **Team Lead**. In addition, have **Mentoring** experience as non-project activities.
+Personally, I'm happy to **share** experience and **help** others. Project colleagues often ask me for advice.
+
+I'm always open to **feedback** about my work. 
+On each project, my professional and personal qualities met or even exceeded expectations.
+At the same time, I see the ways for self-improvement and continue working on my hard, soft, and leadership skills. 
+In the future, I plan to take Lead Software Engineer position
 
 ## Project Feedbacks
 
@@ -41,6 +64,33 @@
     Asked **Project Manager** with which I worked most of the time.
     There are original and English versions.
     <br>Leaving this project, I left successfully implemented application as well as positive impression about myself.
+
+
+## Project Solutions
+
+#### Java Enterprise Web App
+//TODO: add description
+
+#### Cloud-based REST API with Java, Spring
+//TODO: add description
+
+#### AWS Lambda with Java
+//TODO: add description
+
+#### Java Convert Tool
+//TODO: add description
+
+#### JavaFX Desktop App
+//TODO: add description
+
+## Mentoring Experience
+
+#### EPAM Educational Programs. Participated as a Mentor in 2 runs:
+- Jul 2022 - Oct 2022 (supported 5 students). Pre-Production program: RD Java Lab.
+- Oct 2021 - Feb 2022 (supported 2 students). Pre-Production program: RD Java Lab. 
+
+#### Private Tutoring
+- Jan 2016 - Dec 2017 (supported 12 students). Mathematics for schoolchildren and students.
 
 ## Self-education
 
@@ -91,5 +141,7 @@
   - [Spring Demo App](https://github.com/Yevhen-Tkachenko-1/Spring-Demo-Application)
   - [Java SDK: Research and Play](https://github.com/Yevhen-Tkachenko-1/Java-SDK-Research-and-Play)
 
+#### Book Library
+- // TODO: add
 
 
