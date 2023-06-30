@@ -4,7 +4,7 @@ Welcome to Senior Software Engineer's page!
 ## About me
 
 Having **Java** as a primary skill, I‘ve been doing commercial development for **5 years** so far.
-Working on **Backend**, **Frontend**, **Cloud**, **REST API** apps, 
+Working on **Backend**, **REST API**, **Frontend**, **Cloud** apps, 
 I‘ve got experience with **Java 8**, **JavaEE**, **Spring**, **AWS**, **SQL**, **Git**, **Scrum**, **Windows**.
 
 I've come across different stages of development such as **Research**, **Software Design**, **Development**, **Testing**, **Deployment**. 
@@ -12,11 +12,11 @@ In addition to development itself, I had wide range of responsibilities:
 from **Requirements Clarification** to **Product Release**.
 
 Thanks to fluent **English** and good soft skills, I‘m an efficient **Team Player** even in case of international teams. 
-In fact, I’ve been communicating with foreign colleagues and stakeholders for more than 2 years already.
+In fact, I’ve been communicating with **foreign** colleagues and stakeholders for more than **2 years** already.
 
-I consider myself as a responsible person and also can take care about others.
-In one project I was a **Team Lead**. In addition, have **Mentoring** experience as non-project activities.
-Personally, I'm happy to **share** experience and **help** others. Project colleagues often ask me for advice.
+I consider myself as a responsible person and also take care about others.
+I have production experience of **Team Leading**  and was a **Mentor** for education programs.
+Personally, I'm happy to **share** experience and **help** others. Colleagues often ask me for advice.
 
 I'm always open to **feedback** about my work. 
 On each project, my professional and personal qualities met or even exceeded expectations.
@@ -54,7 +54,7 @@ In the future, I plan to take Lead Software Engineer position
   - January 2021, [Project Feedback](feedbacks/2021-January-Simple-Project-Feedback-from-Dev.PNG)
     <br>*Description:* Simple one as part of constant feedback process.
     Asked current project **Developer** (EPAM side) where I played Team Lead role.
-    <br>That time, I didn't follow some coding best practices due to lack of working in an IT company.
+    <br>That time, I didn't follow some coding best practices.
     However, I was friendly Team Lead and quite effective Developer at the same time.
 
 ### Institute of Radio Astronomy
@@ -64,24 +64,6 @@ In the future, I plan to take Lead Software Engineer position
     Asked **Project Manager** with which I worked most of the time.
     There are original and English versions.
     <br>Leaving this project, I left successfully implemented application as well as positive impression about myself.
-
-
-## Project Solutions
-
-#### Java Enterprise Web App
-//TODO: add description
-
-#### Cloud-based REST API with Java, Spring
-//TODO: add description
-
-#### AWS Lambda with Java
-//TODO: add description
-
-#### Java Convert Tool
-//TODO: add description
-
-#### JavaFX Desktop App
-//TODO: add description
 
 ## Mentoring Experience
 
@@ -109,13 +91,6 @@ In the future, I plan to take Lead Software Engineer position
 
 ### Programming & Hard Skills
 
-#### EPAM Education. Completed 1 program:
-- Jun 2022 - Aug 2022. Cloud Platforms for developers - AWS Developer. 
-  <br>7 self-study modules with Mentor review:
-  - AWS Essential, AWS Account
-  - IAM, S3, EC2, VPC
-  - Cloud Formation
-
 #### LinkedIn Learning. Completed 17 self-study courses:
 
   - Learning Spring with Spring Boot
@@ -136,12 +111,28 @@ In the future, I plan to take Lead Software Engineer position
   - Programming Foundations: Algorithms
   - Learning REST APIs
   
-  My repositories for exercises
+  With some repositories for exercises
   - [Spring Boot Demo App](https://github.com/Yevhen-Tkachenko-1/Spring-Boot-Demo-Application)
   - [Spring Demo App](https://github.com/Yevhen-Tkachenko-1/Spring-Demo-Application)
   - [Java SDK: Research and Play](https://github.com/Yevhen-Tkachenko-1/Java-SDK-Research-and-Play)
 
+#### EPAM Learning. Completed educational program:
+- Jun 2022 - Aug 2022. Cloud Platforms for developers - AWS Developer.
+  <br>7 self-study modules with Mentor review:
+    - AWS Essential, AWS Account
+    - IAM, S3, EC2, VPC
+    - Cloud Formation
+
 #### Book Library
-- // TODO: add
+- **Designing** Data-Intensive Applications - Martin Kleppmann
+- **Design Patterns** - Head First 
+- **Java XML and JSON**: Document processing for Java SE - Jeff Friesen
+- **Kotlin** - Head First
+- **Android** Development - Head First
+- Effective **Java** - Joshua Bloch
+- **Java**: A Beginner's Guide - Herbert Schildt
+- **JavaFX** 8: Introduction By Example - Apress
+- Learn **JavaFX** 8: Building User Experience and Interfaces - Kishori Sharan
+- Pro **JavaFX** 8: Building Desktop, Mobile, and Embedded Java Clients - Apress
 
 
