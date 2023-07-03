@@ -1,9 +1,14 @@
 # Software Engineer Portfolio
-Welcome to Developer's page!
 
 ![meme](resources/Meme-Recruiter-CV-Protfolio.PNG)
 
-## About me
+Welcome to Developer's page!
+- [About](#about)
+- [Feedbacks](#project-feedbacks)
+- [Leadership](#leadership)
+- [Self-Education](#self-education)
+
+## About
 
 Having **Java** as a primary skill, I‘ve been doing commercial development for **5 years** so far.
 Working on **Backend**, **REST API**, **Frontend**, **Cloud** apps, 
@@ -69,7 +74,13 @@ In the future, I plan to take Lead Software Engineer position
     There are original and English versions.
     <br>Leaving this project, I left successfully implemented application as well as positive impression about myself.
 
-## Mentoring Experience
+## Leadership
+
+![meme](resources/Meme-Leader.jpg)
+
+#### Project Team Leading. Was the Lead Developer on a short-term project:
+
+- Oct 2021 - Dec 2021 (managed 2 developers). Work planning, meeting holding, development support.
 
 #### EPAM Educational Programs. Participated as a Mentor in 2 runs:
 - Jul 2022 - Oct 2022 (supported 5 students). Pre-Production program: RD Java Lab.
@@ -79,6 +90,8 @@ In the future, I plan to take Lead Software Engineer position
 - Jan 2016 - Dec 2017 (supported 12 students). Mathematics for schoolchildren and students.
 
 ## Self-education
+
+![meme](resources/Meme-Learning.jpg)
 
 #### EPAM English classes. Completed 9 trainings:
   - Apr 2023 - Jul 2023 (26 live sessions). English for Virtual Communication (B1+/B2/B2+).
