@@ -1,6 +1,6 @@
 # Software Engineer Portfolio
 
-![meme](resources/Meme-Recruiter-CV-Protfolio.PNG)
+![meme](resources/memes/Meme-Recruiter-CV-Protfolio.PNG)
 
 Welcome to Developer's page!
 - [About](#about)
@@ -32,35 +32,35 @@ In the future, I plan to take Lead Software Engineer position
 
 ## Project Feedbacks
 
-![meme](resources/Meme-Feedback.jpg)
+![meme](resources/memes/Meme-Feedback.jpg)
 
 #### EPAM Systems
-  - March 2023, [Customer Feedback](feedbacks/2023-March-EPAM-Summary-Feedback-from-Customers.PNG)
+  - March 2023, [Customer Feedback](resources/feedbacks/2023-March-EPAM-Summary-Feedback-from-Customers.PNG)
     <br>*Description:* Half-year summary as part of constant feedback process. 
     Collected from **Product Owner**, **Scrum Master** (customer side) and **Delivery Manager** (EPAM side) feedbacks.
     <br>According to my Resource Manager (who shared more details in person), 
     feedbacks were quite positive and customers appreciated my contribution. 
     As a result, I was paid an extra bonus.
   
-  - September 2022, [Customer Feedback](feedbacks/2022-September-EPAM-Summary-Feedback-from-Customers.PNG)
+  - September 2022, [Customer Feedback](resources/feedbacks/2022-September-EPAM-Summary-Feedback-from-Customers.PNG)
     <br>*Description:* Half-year summary as part of constant feedback process.
     Collected from **Product Owner**, **Scrum Master**, **Tech Lead** (customer side) feedbacks.
     <br>General impression is good: I did great job and also had some points to improve.
   
-  - June 2022, [Level-up Feedback 1](feedbacks/2022-EPAM-LevelUp-Feedback-from-TeamLead.PNG) 
-    and [Level-up Feedback 2](feedbacks/2022-EPAM-LevelUp-Feedback-from-TechLead.PNG)
+  - June 2022, [Level-up Feedback 1](resources/feedbacks/2022-EPAM-LevelUp-Feedback-from-TeamLead.PNG) 
+    and [Level-up Feedback 2](resources/feedbacks/2022-EPAM-LevelUp-Feedback-from-TechLead.PNG)
     <br>*Description*: Part of assessment preparation. When I was applying for Senior level, 
     I asked **Team Lead** and **Tech Lead** (EPAM side) for feedback.
     <br>This helped assessment committee to decide whether I'm ready to be promoted.
     According to these feedbacks I was recognized as a Senior. 
     Finally, I got promoted.
 
-  - June 2021, [Project Feedback](feedbacks/2021-June-Simple-Project-Feedback-from-TeamLead.PNG)
+  - June 2021, [Project Feedback](resources/feedbacks/2021-June-Simple-Project-Feedback-from-TeamLead.PNG)
     <br>*Description:* Half-year simple one as part of constant feedback process.
     Asked current project **Team Lead** (EPAM side).
     <br>Summing up, I was recognized as an excellent Key Developer and good Team Player.
   
-  - January 2021, [Project Feedback](feedbacks/2021-January-Simple-Project-Feedback-from-Dev.PNG)
+  - January 2021, [Project Feedback](resources/feedbacks/2021-January-Simple-Project-Feedback-from-Dev.PNG)
     <br>*Description:* Simple one as part of constant feedback process.
     Asked current project **Developer** (EPAM side) where I played Team Lead role.
     <br>That time, I didn't follow some coding best practices.
@@ -68,7 +68,7 @@ In the future, I plan to take Lead Software Engineer position
 
 #### Institute of Radio Astronomy
 
-  - September 2020, [Quit Project Feedback](feedbacks/2020-September-RINANU-Quit-Project-Feedback-from-ProjectManager.PNG)
+  - September 2020, [Quit Project Feedback](resources/feedbacks/2020-September-RINANU-Quit-Project-Feedback-from-ProjectManager.PNG)
     <br>*Description:* Quit feedback to sum up the entire work path on a project. 
     Asked **Project Manager** with which I worked most of the time.
     There are original and English versions.
@@ -76,7 +76,7 @@ In the future, I plan to take Lead Software Engineer position
 
 ## Leadership
 
-![meme](resources/Meme-Leader.jpg)
+![meme](resources/memes/Meme-Leader.jpg)
 
 #### Project Team Leading. Was the Lead Developer on a short-term project:
 
@@ -86,12 +86,12 @@ In the future, I plan to take Lead Software Engineer position
 - Jul 2022 - Oct 2022 (supported 5 students). Pre-Production program: RD Java Lab.
 - Oct 2021 - Feb 2022 (supported 2 students). Pre-Production program: RD Java Lab. 
 
-#### Private Tutoring. Worked as Math teacher:
+#### Private Tutoring. Worked as a Math teacher:
 - Jan 2016 - Dec 2017 (supported 12 students). Mathematics for schoolchildren and students.
 
 ## Self-education
 
-![meme](resources/Meme-Learning.jpg)
+![meme](resources/memes/Meme-Learning.jpg)
 
 #### EPAM English classes. Completed 9 trainings:
   - Apr 2023 - Jul 2023 (26 live sessions). English for Virtual Communication (B1+/B2/B2+).
