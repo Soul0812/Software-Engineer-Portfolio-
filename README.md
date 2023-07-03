@@ -1,5 +1,7 @@
 # Software Engineer Portfolio
-Welcome to Senior Software Engineer's page!
+Welcome to Developer's page!
+
+![meme](resources/Meme-Recruiter-CV-Protfolio.PNG)
 
 ## About me
 
@@ -25,7 +27,9 @@ In the future, I plan to take Lead Software Engineer position
 
 ## Project Feedbacks
 
-### EPAM Systems
+![meme](resources/Meme-Feedback.jpg)
+
+#### EPAM Systems
   - March 2023, [Customer Feedback](feedbacks/2023-March-EPAM-Summary-Feedback-from-Customers.PNG)
     <br>*Description:* Half-year summary as part of constant feedback process. 
     Collected from **Product Owner**, **Scrum Master** (customer side) and **Delivery Manager** (EPAM side) feedbacks.
@@ -36,7 +40,7 @@ In the future, I plan to take Lead Software Engineer position
   - September 2022, [Customer Feedback](feedbacks/2022-September-EPAM-Summary-Feedback-from-Customers.PNG)
     <br>*Description:* Half-year summary as part of constant feedback process.
     Collected from **Product Owner**, **Scrum Master**, **Tech Lead** (customer side) feedbacks.
-    <br>General impression is good: I did great job, but also had some points to improve.
+    <br>General impression is good: I did great job and also had some points to improve.
   
   - June 2022, [Level-up Feedback 1](feedbacks/2022-EPAM-LevelUp-Feedback-from-TeamLead.PNG) 
     and [Level-up Feedback 2](feedbacks/2022-EPAM-LevelUp-Feedback-from-TechLead.PNG)
@@ -55,9 +59,9 @@ In the future, I plan to take Lead Software Engineer position
     <br>*Description:* Simple one as part of constant feedback process.
     Asked current project **Developer** (EPAM side) where I played Team Lead role.
     <br>That time, I didn't follow some coding best practices.
-    However, I was friendly Team Lead and quite effective Developer at the same time.
+    In general, I was friendly Team Lead and quite effective Developer at the same time.
 
-### Institute of Radio Astronomy
+#### Institute of Radio Astronomy
 
   - September 2020, [Quit Project Feedback](feedbacks/2020-September-RINANU-Quit-Project-Feedback-from-ProjectManager.PNG)
     <br>*Description:* Quit feedback to sum up the entire work path on a project. 
@@ -71,12 +75,10 @@ In the future, I plan to take Lead Software Engineer position
 - Jul 2022 - Oct 2022 (supported 5 students). Pre-Production program: RD Java Lab.
 - Oct 2021 - Feb 2022 (supported 2 students). Pre-Production program: RD Java Lab. 
 
-#### Private Tutoring
+#### Private Tutoring. Worked as Math teacher:
 - Jan 2016 - Dec 2017 (supported 12 students). Mathematics for schoolchildren and students.
 
 ## Self-education
-
-### Languages & Soft Skills
 
 #### EPAM English classes. Completed 9 trainings:
   - Apr 2023 - Jul 2023 (26 live sessions). English for Virtual Communication (B1+/B2/B2+).
@@ -88,8 +90,6 @@ In the future, I plan to take Lead Software Engineer position
   - Nov 2021 - Dec 2021 (11 live sessions). Breaking the Language Barrier in English (A2+/B1).
   - Apr 2021 - Oct 2021 (40 live sessions). Business English (A2+/B1).
   - Mar 2021 - May 2022 (10 live sessions). English Speaking Club (B1/B2/C1/C2).
-
-### Programming & Hard Skills
 
 #### LinkedIn Learning. Completed 17 self-study courses:
 
