@@ -62,9 +62,9 @@ In the future, I plan to take Lead Software Engineer position
   
   - January 2021, [Project Feedback](resources/feedbacks/2021-January-Simple-Project-Feedback-from-Dev.PNG)
     <br>*Description:* Simple one as part of constant feedback process.
-    Asked current project **Developer** (EPAM side) where I played Team Lead role.
+    Asked current project **Developer** (EPAM side) where I played Lead Developer role.
     <br>That time, I didn't follow some coding best practices.
-    In general, I was friendly Team Lead and quite effective Developer at the same time.
+    In general, I was friendly Lead and quite effective Developer at the same time.
 
 #### Institute of Radio Astronomy
 
