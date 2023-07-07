@@ -1,4 +1,4 @@
-## Project Challenges
+# Project Challenges
 
 Overview of the most challenging tasks, taken actions and achieved results  
 

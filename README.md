@@ -8,7 +8,7 @@ Welcome to Developer's page!
 - [Leadership](#leadership)
 - [Self-Education](#self-education)
 
-## About
+# About
 
 Having **Java** as a primary skill, I‘ve been doing commercial development for **5 years** so far.
 Working on **Backend**, **REST API**, **Frontend**, **Cloud** apps, 
@@ -30,11 +30,11 @@ On each project, my professional and personal qualities met or even exceeded exp
 At the same time, I see the ways for self-improvement and continue working on my hard, soft, and leadership skills. 
 In the future, I plan to take Lead Software Engineer position
 
-## Project Feedbacks
+# Project Feedbacks
 
 ![meme](resources/memes/Meme-Feedback.jpg)
 
-#### EPAM Systems
+### EPAM Systems
   - March 2023, [Customer Feedback](resources/feedbacks/2023-March-EPAM-Summary-Feedback-from-Customers.PNG)
     <br>*Description:* Half-year summary as part of constant feedback process. 
     Collected from **Product Owner**, **Scrum Master** (customer side) and **Delivery Manager** (EPAM side) feedbacks.
@@ -66,7 +66,7 @@ In the future, I plan to take Lead Software Engineer position
     <br>That time, I didn't follow some coding best practices.
     In general, I was friendly Lead and quite effective Developer at the same time.
 
-#### Institute of Radio Astronomy
+### Institute of Radio Astronomy
 
   - September 2020, [Quit Project Feedback](resources/feedbacks/2020-September-RINANU-Quit-Project-Feedback-from-ProjectManager.PNG)
     <br>*Description:* Quit feedback to sum up the entire work path on a project. 
@@ -74,7 +74,7 @@ In the future, I plan to take Lead Software Engineer position
     There are original and English versions.
     <br>Leaving this project, I left successfully implemented application as well as positive impression about myself.
 
-## Leadership
+# Leadership
 
 ![meme](resources/memes/Meme-Leader.jpg)
 
@@ -89,7 +89,7 @@ In the future, I plan to take Lead Software Engineer position
 #### Private Tutoring. Worked as a Math teacher:
 - Jan 2016 - Dec 2017 (supported 12 students). Mathematics for schoolchildren and students.
 
-## Self-education
+# Self-education
 
 ![meme](resources/memes/Meme-Learning.jpg)
 

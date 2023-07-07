@@ -1,10 +1,15 @@
-Working for RINANU, I was a member of big project named OKO.
-This department develops Radar Stations which includes scientific research, hardware and software implementations.
+# 2019 - Complex App
 
-My task was to develop new Desktop app for using Radar Stations.
-There was already existing Radar GUI Client, however, it had limitations as was made by outdated technologies.
-I supposed to implement similar app in order to have better view and new functional features.
-There is how previous implementation looks like:
+Working at RINANU, I was a member of big project named OKO.
+This department develops **Radar Stations** including scientific research, hardware and software implementations.
+
+My **task** was to develop new Desktop app for using Radar Stations.
+There was already existing Radar Client, however, it had limitations as was made by outdated technologies.
+I supposed to implement similar app which has better view and new functional features.
+
+There is how **previous** implementation looks like:
+
+![](OKO/2D_OKO_Client_Previous.png)
 
 
 
