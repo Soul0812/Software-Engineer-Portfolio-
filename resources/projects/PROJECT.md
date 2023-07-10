@@ -1,4 +1,5 @@
 # Project Challenges
+![](../pictures/Star-Technique.png)
 
 Overview of the most challenging tasks, taken actions and achieved results  
 
@@ -8,6 +9,7 @@ Challenges with supporting multi-component app and it's infrastructure:
 - Large codebase
 - Complex domain
 - Dependencies
+- Another particular issues
 
 Please, visit [this page](2023-ENTERPRISE-APP.md) for details.
 
@@ -39,7 +41,8 @@ Please, visit [this page](2020-MY-FIRST-PROJECT-AT-EPAM.md) for details.
 
 ### 2019 - Complex App
 Challenges with implementation of multifunctional app from scratch: 
-- Architecture building 
+- Technologies research
+- Architecture building
 - Maintenance and expansion
 - Testing
 

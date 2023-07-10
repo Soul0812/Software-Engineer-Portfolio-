@@ -1,6 +1,6 @@
 # Software Engineer Portfolio
 
-![meme](resources/memes/Meme-Recruiter-CV-Protfolio.PNG)
+![meme](resources/memes/Meme-Protfolio.PNG)
 
 Welcome to Developer's page!
 - [About](#about)
@@ -11,24 +11,25 @@ Welcome to Developer's page!
 # About
 
 Having **Java** as a primary skill, I‘ve been doing commercial development for **5 years** so far.
-Working on **Backend**, **REST API**, **Frontend**, **Cloud** apps, 
-I‘ve got experience with **Java 8**, **JavaEE**, **Spring**, **AWS**, **SQL**, **Git**, **Scrum**, **Windows**.
+Working on Backend, REST API, Frontend, Cloud, Desktop **apps**,
+I‘ve got experience with such **skills** as Java 8, JavaEE, Spring, AWS, SQL, JavaFX, Git, Scrum, Windows.
 
-I've come across different stages of development such as **Research**, **Software Design**, **Development**, **Testing**, **Deployment**. 
-In addition to development itself, I had wide range of responsibilities: 
-from **Requirements Clarification** to **Product Release**.
+I've come across different **stages of development** such as Research, Software Design, Implementation, Testing, Deployment. 
+In addition to development itself, I had wide range of **responsibilities**: 
+from Requirements Clarification to Product Release.
 
 Thanks to fluent **English** and good soft skills, I‘m an efficient **Team Player** even in case of international teams. 
-In fact, I’ve been communicating with **foreign** colleagues and stakeholders for more than **2 years** already.
+In fact, I’ve been communicating with foreign colleagues and stakeholders for more than **2 years** already.
 
 I consider myself as a responsible person and also take care about others.
-I have production experience of **Team Leading**  and was a **Mentor** for education programs.
-Personally, I'm happy to **share** experience and **help** others. Colleagues often ask me for advice.
+I have production experience of **Team Leading** and was a Mentor for education programs.
+Personally, I'm happy to share experience and help others. Colleagues often ask me for advice.
 
 I'm always open to **feedback** about my work. 
 On each project, my professional and personal qualities met or even exceeded expectations.
 At the same time, I see the ways for self-improvement and continue working on my hard, soft, and leadership skills. 
-In the future, I plan to take Lead Software Engineer position
+
+In the **future** I plan to take Lead Software Engineer position
 
 # Project Feedbacks
 
@@ -70,7 +71,7 @@ In the future, I plan to take Lead Software Engineer position
 
   - September 2020, [Quit Project Feedback](resources/feedbacks/2020-September-RINANU-Quit-Project-Feedback-from-ProjectManager.PNG)
     <br>*Description:* Quit feedback to sum up the entire work path on a project. 
-    Asked **Project Manager** with which I worked most of the time.
+    Asked **Project Manager** with whom I worked most of the time.
     There are original and English versions.
     <br>Leaving this project, I left successfully implemented application as well as positive impression about myself.
 
