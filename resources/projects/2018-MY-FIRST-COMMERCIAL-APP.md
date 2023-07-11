@@ -1,9 +1,9 @@
 ### 2018 - My first Commercial App
-![](../pictures/Quadcopter-Radar.jpg)
+![](../pictures/OKO/Quadcopter-Radar.jpg)
 
 There was **need** to test a Radar Station.
-For this, was used a Quadcopter which writes flight logs. 
-These logs are written as binary files, so not possible directly open and read.
+For this, was used a Quadcopter which collects flight logs as binary files. 
+Such files you can't directly open and read.
 
 My **task** was to make desktop app which parses log files and creates human-readable text.
 It was not hard in terms of programming itself, but **challenge** was the binary files. 

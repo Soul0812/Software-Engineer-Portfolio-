@@ -1,25 +1,25 @@
 # Software Engineer Portfolio
 
-![meme](resources/memes/Meme-Protfolio.PNG)
+![meme](resources/pictures/memes/Meme-Protfolio.PNG)
 
 Welcome to Developer's page!
 - [About](#about)
-- [Feedbacks](#project-feedbacks)
-- [Leadership](#leadership)
+- [Project Feedbacks](#project-feedbacks)
+- [Leadership Skills](#leadership)
 - [Self-Education](#self-education)
 
 # About
 
 Having **Java** as a primary skill, I‘ve been doing commercial development for **5 years** so far.
-Working on Backend, REST API, Frontend, Cloud, Desktop **apps**,
+Working on Backend, REST API, Frontend, Cloud, Desktop apps,
 I‘ve got experience with such **skills** as Java 8, JavaEE, Spring, AWS, SQL, JavaFX, Git, Scrum, Windows.
 
-I've come across different **stages of development** such as Research, Software Design, Implementation, Testing, Deployment. 
+I've come across different **stages** of development such as Research, Software Design, Implementation, Testing, Deployment. 
 In addition to development itself, I had wide range of **responsibilities**: 
 from Requirements Clarification to Product Release.
 
 Thanks to fluent **English** and good soft skills, I‘m an efficient **Team Player** even in case of international teams. 
-In fact, I’ve been communicating with foreign colleagues and stakeholders for more than **2 years** already.
+In fact, I’ve been communicating with foreign colleagues and stakeholders for more than 2 years already.
 
 I consider myself as a responsible person and also take care about others.
 I have production experience of **Team Leading** and was a Mentor for education programs.
@@ -33,35 +33,35 @@ In the **future** I plan to take Lead Software Engineer position
 
 # Project Feedbacks
 
-![meme](resources/memes/Meme-Feedback.jpg)
+![meme](resources/pictures/memes/Meme-Feedback.jpg)
 
 ### EPAM Systems
-  - March 2023, [Customer Feedback](resources/feedbacks/2023-March-EPAM-Summary-Feedback-from-Customers.PNG)
+  - March 2023, [Customer Feedback](resources/pictures/feedbacks/2023-March-EPAM-Summary-Feedback-from-Customers.PNG)
     <br>*Description:* Half-year summary as part of constant feedback process. 
     Collected from **Product Owner**, **Scrum Master** (customer side) and **Delivery Manager** (EPAM side) feedbacks.
     <br>According to my Resource Manager (who shared more details in person), 
     feedbacks were quite positive and customers appreciated my contribution. 
     As a result, I was paid an extra bonus.
   
-  - September 2022, [Customer Feedback](resources/feedbacks/2022-September-EPAM-Summary-Feedback-from-Customers.PNG)
+  - September 2022, [Customer Feedback](resources/pictures/feedbacks/2022-September-EPAM-Summary-Feedback-from-Customers.PNG)
     <br>*Description:* Half-year summary as part of constant feedback process.
     Collected from **Product Owner**, **Scrum Master**, **Tech Lead** (customer side) feedbacks.
     <br>General impression is good: I did great job and also had some points to improve.
   
-  - June 2022, [Level-up Feedback 1](resources/feedbacks/2022-EPAM-LevelUp-Feedback-from-TeamLead.PNG) 
-    and [Level-up Feedback 2](resources/feedbacks/2022-EPAM-LevelUp-Feedback-from-TechLead.PNG)
+  - June 2022, [Level-up Feedback 1](resources/pictures/feedbacks/2022-EPAM-LevelUp-Feedback-from-TeamLead.PNG) 
+    and [Level-up Feedback 2](resources/pictures/feedbacks/2022-EPAM-LevelUp-Feedback-from-TechLead.PNG)
     <br>*Description*: Part of assessment preparation. When I was applying for Senior level, 
     I asked **Team Lead** and **Tech Lead** (EPAM side) for feedback.
     <br>This helped assessment committee to decide whether I'm ready to be promoted.
     According to these feedbacks I was recognized as a Senior. 
     Finally, I got promoted.
 
-  - June 2021, [Project Feedback](resources/feedbacks/2021-June-Simple-Project-Feedback-from-TeamLead.PNG)
+  - June 2021, [Project Feedback](resources/pictures/feedbacks/2021-June-Simple-Project-Feedback-from-TeamLead.PNG)
     <br>*Description:* Half-year simple one as part of constant feedback process.
     Asked current project **Team Lead** (EPAM side).
     <br>Summing up, I was recognized as an excellent Key Developer and good Team Player.
   
-  - January 2021, [Project Feedback](resources/feedbacks/2021-January-Simple-Project-Feedback-from-Dev.PNG)
+  - January 2021, [Project Feedback](resources/pictures/feedbacks/2021-January-Simple-Project-Feedback-from-Dev.PNG)
     <br>*Description:* Simple one as part of constant feedback process.
     Asked current project **Developer** (EPAM side) where I played Lead Developer role.
     <br>That time, I didn't follow some coding best practices.
@@ -69,7 +69,7 @@ In the **future** I plan to take Lead Software Engineer position
 
 ### Institute of Radio Astronomy
 
-  - September 2020, [Quit Project Feedback](resources/feedbacks/2020-September-RINANU-Quit-Project-Feedback-from-ProjectManager.PNG)
+  - September 2020, [Quit Project Feedback](resources/pictures/feedbacks/2020-September-RINANU-Quit-Project-Feedback-from-ProjectManager.PNG)
     <br>*Description:* Quit feedback to sum up the entire work path on a project. 
     Asked **Project Manager** with whom I worked most of the time.
     There are original and English versions.
@@ -77,7 +77,7 @@ In the **future** I plan to take Lead Software Engineer position
 
 # Leadership
 
-![meme](resources/memes/Meme-Leader.jpg)
+![meme](resources/pictures/memes/Meme-Leader.jpg)
 
 #### Project Team Leading. Was the Lead Developer on a short-term project:
 
@@ -92,7 +92,7 @@ In the **future** I plan to take Lead Software Engineer position
 
 # Self-education
 
-![meme](resources/memes/Meme-Learning.jpg)
+![meme](resources/pictures/memes/Meme-Learning.jpg)
 
 #### EPAM English classes. Completed 9 trainings:
   - Apr 2023 - Jul 2023 (26 live sessions). English for Virtual Communication (B1+/B2/B2+).
@@ -107,23 +107,23 @@ In the **future** I plan to take Lead Software Engineer position
 
 #### LinkedIn Learning. Completed 17 self-study courses:
 
-  - Learning Spring with Spring Boot
-  - Spring Boot 2.0 Essential Training
-  - Spring: Framework in Depth
-  - Building Full-Stack Apps with React and Spring
-  - Spring: Test-Driven Development with JUnit
-  - Java EE: Servlets and JavaServer Pages (JSP)
-  - Learning Cloud Computing: Core Concepts
-  - AWS Essential Training for Developers 
-  - Learning Terraform 
-  - SQL vs NoSQL: Which Database Type Is Right for You?
-  - Advanced SQL for Query Tuning and Performance Optimization
-  - Git Essential Training: The Basics
-  - Git: Branches, Merges, and Remotes
-  - Introduction to Linux
-  - Practical Test-Driven Development for Java Programmers
-  - Programming Foundations: Algorithms
-  - Learning REST APIs
+  - 2023, SQL vs NoSQL: Which Database Type Is Right for You?
+  - 2023, Learning REST APIs
+  - 2022, Java EE: Servlets and JavaServer Pages (JSP)
+  - 2022, Learning Spring with Spring Boot
+  - 2022, Spring Boot 2.0 Essential Training
+  - 2022, AWS Essential Training for Developers 
+  - 2022, Learning Terraform 
+  - 2022, Git Essential Training: The Basics
+  - 2022, Git: Branches, Merges, and Remotes
+  - 2021, Spring: Framework in Depth
+  - 2021, Building Full-Stack Apps with React and Spring
+  - 2021, Spring: Test-Driven Development with JUnit
+  - 2021, Learning Cloud Computing: Core Concepts
+  - 2021, Advanced SQL for Query Tuning and Performance Optimization
+  - 2021, Introduction to Linux
+  - 2021, Practical Test-Driven Development for Java Programmers
+  - 2021, Programming Foundations: Algorithms
   
   With some repositories for exercises
   - [Spring Boot Demo App](https://github.com/Yevhen-Tkachenko-1/Spring-Boot-Demo-Application)
@@ -138,15 +138,15 @@ In the **future** I plan to take Lead Software Engineer position
     - Cloud Formation
 
 #### Book Library
-- **Designing** Data-Intensive Applications - Martin Kleppmann
-- **Design Patterns** - Head First 
-- **Java XML and JSON**: Document processing for Java SE - Jeff Friesen
-- **Kotlin** - Head First
-- **Android** Development - Head First
-- Effective **Java** - Joshua Bloch
-- **Java**: A Beginner's Guide - Herbert Schildt
-- **JavaFX** 8: Introduction By Example - Apress
-- Learn **JavaFX** 8: Building User Experience and Interfaces - Kishori Sharan
-- Pro **JavaFX** 8: Building Desktop, Mobile, and Embedded Java Clients - Apress
+- 2023, Designing Data-Intensive Applications - Martin Kleppmann
+- 2020, Java XML and JSON: Document processing for Java SE - Jeff Friesen
+- 2019, Kotlin - Head First
+- 2019, Android Development - Head First
+- 2019, Design Patterns - Head First
+- 2019, Pro JavaFX 8: Building Desktop, Mobile, and Embedded Java Clients - Apress
+- 2018, Learn JavaFX 8: Building User Experience and Interfaces - Kishori Sharan
+- 2018, JavaFX 8: Introduction By Example - Apress
+- 2018, Java: A Beginner's Guide - Herbert Schildt
+- 2018, Effective Java - Joshua Bloch
 
 
