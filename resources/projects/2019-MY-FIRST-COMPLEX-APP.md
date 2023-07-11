@@ -7,19 +7,23 @@ This department develops Radar Stations including scientific research, hardware 
 
 My **task** was to develop new Desktop app for using Radar Stations.
 There was already existing Radar Client, however, it had limitations as was made by outdated technologies.
-I supposed to implement similar app which has better view and new functional features.
+I supposed to implement similar app which has better UI/UX and new functional features 
+(such as cross-platforming, 3D graphics, internationalization).
 
 While working on it, I faced challenges at each stage of development:
 
-- Start point was technology stack research. It was not clear which language and tools to use for development.
-    There were 2 main options: `Java/JavaFX` and `.Net`. 
-    In order to help us decide, I reviewed pros and cons and implemented POCs. 
-    `Java` was chosen as ideal for the requirements and ease of implementation.
+- Start point was **technology stack** research. It was not clear which language and tools to use for development.
+    There were 2 main options: `Java/JavaFX` and `.Net`. I reviewed pros and cons and implemented POCs. 
+    <br>
+    As a result, it became clear that `Java` is a good choice to meet requirements with a simpler implementation.
   
-- Before development can be started, it's important to be clear about requirements. 
-    I managed to learn how to use current Radar Client and kept it as an example. 
-    Another requirements regarding new features, I supposed to clarify with Project Manager.
+- I pay attention to be clear about **requirements**. 
+    First of all, I got to know how to use the current Radar Client and kept it as an example. 
+    Sometimes, I reviewed sources of this app to gain general code such as calculation functions.
+    Another requirements regarding deep details or new features, I was clarifying with Project Manager.
 
+    As a result, 
+    
 - It's worse to notice, that there were no other Java developers,
     and I was trusted to deal with implementation by myself.
 
@@ -81,12 +85,25 @@ While working on it, I faced challenges at each stage of development:
 
     ![](../pictures/OKO/OKO_Client_Aceptance_Testing.png)
 
-- Finally, I was working on application self-packaging (and testing) for Windows and Linux.
+- Finally, I was working on application self-packaging (and testing) for Windows and Linux. 
+  <br>
+  Also, I was responsible for knowledge transfer. Before left this project, 
+  I made rich technical documentation for newcomers to get started.
+  I covered project architecture and development stages.
 
-As a **result**, OKO department got new GUI Client app, that has better view and new features 
-(such as cross-platforming, embedded 3D view, internationalization) which was not possible to implement with previous app. 
+Summing up, my **impact** on this project is that OKO department got new GUI Client app for Radar Stations.
+There are main achievements:
 
-There is how **previous** implementation looks like:
+- Now the development team can easily build 
+  and distribute apps for different platforms including Windows, Linux, and macOS.
+- Now Radar Operators work with modern UI, have more convenient way to navigate through app,
+  and there are more settings to customize view.
+- Now it's possible to use 3D Radar Station.
+- Now GUI Client is more eligible for distribution to different countries  
+  as it has target language support for UI (in addition to default English). 
+- Now source code were used by foreign colleagues to build their own OKO Client. 
+
+For comparison, there is how **previous** implementation looks like:
 
 ![](../pictures/OKO/2D_OKO_Client_Previous.png)
 
@@ -97,8 +114,3 @@ There is how **new** implementation of 2D Client looks like:
 There is how **new** implementation of 3D Client looks like:
 
 ![](../pictures/OKO/3D_OKO_Client.png)
-
-Also, sources of the app were used by foreign colleagues to build their own OKO Client. 
-
-Before I left this project, I wrote rich documentation for newcomers to get started.
-I covered project architecture and main stages of development.

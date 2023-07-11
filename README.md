@@ -149,4 +149,11 @@ In the **future** I plan to take Lead Software Engineer position
 - 2018, Java: A Beginner's Guide - Herbert Schildt
 - 2018, Effective Java - Joshua Bloch
 
-
+# Programming habits
+Some tips and approaches for programmers that I noticed and personally found useful:
+- Working from office helps be more efficient and keep work-life balance.
+- Refactoring helps fix a bug.
+- Writing documentation helps better understand what you've done, 
+  structurise gained knowledge and release memory. 
+  Once important details are covered, you can forget about it and easily switch to other task.
+- 
