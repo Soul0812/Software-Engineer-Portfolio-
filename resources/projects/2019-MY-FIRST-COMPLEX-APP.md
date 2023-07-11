@@ -13,32 +13,27 @@ I supposed to implement similar app which has better UI/UX and new functional fe
 While working on it, I faced challenges at each stage of development:
 
 - Start point was **technology stack** research. It was not clear which language and tools to use for development.
-    There were 2 main options: `Java/JavaFX` and `.Net`. I reviewed pros and cons and implemented POCs. 
-    <br>
+    There were 2 main options: `Java/JavaFX` and `.Net`. I reviewed pros and cons and implemented POCs.<br>
     As a result, it became clear that `Java` is a good choice to meet requirements with a simpler implementation.
   
 - I pay attention to be clear about **requirements**. 
-    First of all, I got to know how to use the current Radar Client and kept it as an example. 
+    First, I got to know how to use the current Radar Client as an example and had been coming back to it constantly. 
     Sometimes, I reviewed sources of this app to gain general code such as calculation functions.
-    Another requirements regarding deep details or new features, I was clarifying with Project Manager.
-
-    As a result, 
+    Another requirements regarding deep details or new features, I had been clarifying with Project Manager.<br>
+    As a result, features were implemented as expected. Moreover, I spent time and resources in a quite efficient way: 
+    there was no unnecessary work on wrongly understandable requirements.
     
 - It's worse to notice, that there were no other Java developers,
-    and I was trusted to deal with implementation by myself.
-
+    and I was trusted to deal with implementation by myself.<br>
     The biggest challenge for **development** was the huge number of application features.
     So, I started implementation from completing tasks one by one.
     However, at some point it became hard to maintain codebase.
-    To resolve this problem, I was doing code refactoring and keeping project structure clean and clear.
-    It helped for some period, but was not enough for the large application.
-    
+    To resolve this problem, I was doing code refactoring and keeping project structure clean and clear.<br>
+    This helped for some period, but was not enough for the large application.<br>
     Then, I started thinking about project architecture and using design patterns wider across application.
     I refactored codebase to implemented MVC pattern, 
-    and it became clear what code needs to be changed to expend application.
-    
-    As a result, I was able to add new features quite fast.
-
+    and it became clear what code needs to be changed to expend application.<br>
+    As a result, I was able to add new features quite fast.<br>
     There is diagram of high-level design and data flow:
 
     ![](../pictures/OKO/OKO_Dataflow.png)
@@ -48,12 +43,10 @@ While working on it, I faced challenges at each stage of development:
     Once this requirement took place, I refactored codebase and changed development approaches 
     to have 2 separate applications. At the same time, 
     I left original app as a Base part where placed as much implementation as possible. 
-    Target apps have independent slices with specification 
-    and most of the dependencies between app components are defined in Base app.
-
+    Target apps have independent slices with specification, 
+    and most of the dependencies between app components are defined in Base app.<br>
     As a result, bigger part of code was in one place and reused by 2 applications 
-    so that code duplication is minimal.
-
+    so that code duplication is minimal.<br>
     There is diagram of cross-app design at high level:
 
     ![](../pictures/OKO/OKO_Client_Hierarchy.PNG)
@@ -64,11 +57,9 @@ While working on it, I faced challenges at each stage of development:
     Such approach helped a lot with application **integration testing**.    
     Having additional layer of UI-side data, I was testing UI manually even without actual Radar Data.
     The second part for testing was Data Processor, for which I implemented mock UI 
-    and was able to test interaction with Radar Server directly.
-
+    and was able to test interaction with Radar Server directly.<br>
     As a result, it was easy to test UI changes quickly (without the need connect to Radar Server).
-    Also, there was a way to test Data Processor at low level (without impact from UI side).
-
+    Also, there was a way to test Data Processor at low level (without impact from UI side).<br>
     There is diagram of high-level testing approach:
 
     ![](../pictures/OKO/OKO_Client_Intergation_Testing.png)
@@ -77,31 +68,25 @@ While working on it, I faced challenges at each stage of development:
     For this, I found a way to package app as a single `.jar` file and quickly deliver it. 
     PM and I were running application with connection to Radar Server simulator.
     This Server acts exactly as real Radar Station by producing Target Data at runtime 
-    and sending batches for about 30 times per second.
-    
-    As a result, our testing was quite effective, I was able to get quick feedback and make changes as needed.
-
+    and sending batches for about 30 times per second.<br>
+    As a result, our testing was quite effective, I was able to get quick feedback and make changes as needed.<br>
     There is diagram of high-level acceptance testing:
 
     ![](../pictures/OKO/OKO_Client_Aceptance_Testing.png)
 
-- Finally, I was working on application self-packaging (and testing) for Windows and Linux. 
-  <br>
+- Finally, I was working on application self-packaging (and testing) for Windows and Linux.<br>
   Also, I was responsible for knowledge transfer. Before left this project, 
-  I made rich technical documentation for newcomers to get started.
-  I covered project architecture and development stages.
+  I made rich technical documentation for newcomers to get started where covered project architecture and development stages.
 
-Summing up, my **impact** on this project is that OKO department got new GUI Client app for Radar Stations.
+Summing up, my **impact** on this project is that OKO department got new GUI Client app for Radar Stations.<br>
 There are main achievements:
 
-- Now the development team can easily build 
-  and distribute apps for different platforms including Windows, Linux, and macOS.
-- Now Radar Operators work with modern UI, have more convenient way to navigate through app,
-  and there are more settings to customize view.
-- Now it's possible to use 3D Radar Station.
-- Now GUI Client is more eligible for distribution to different countries  
-  as it has target language support for UI (in addition to default English). 
-- Now source code were used by foreign colleagues to build their own OKO Client. 
+- Now Radar Operators can work with 3D Radar Stations.
+- Now Radar Operators can work on different platforms including Windows, Linux, and macOS.
+- Now Radar Operators can work with modern UI, have more convenient way to navigate through app, and more settings to customize view.
+- Now Radar Operators can work in different countries, more legally, thanks to target language support.
+- Now Developer Team has established processes and clear architecture for supporting OKO Client.
+- Now Foreign Developers use our source code to build their own OKO Client.
 
 For comparison, there is how **previous** implementation looks like:
 
