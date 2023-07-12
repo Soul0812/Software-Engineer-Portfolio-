@@ -6,7 +6,9 @@
 
 The portfolio is created for any interested IT specialist such as Researcher, Recruiter, HR, PM or Technical Specialist.<br>
 The portfolio shows interesting facts about my programming experience and personal qualities.<br>
-The portfolio consists of topics which are NOT included in my CV:
+The portfolio consists of additional topics which are NOT included in my CV.
+
+Here we go:
 
 - [About](#about)
 - [Project Feedbacks](#project-feedbacks)
@@ -94,6 +96,16 @@ In the **future** I plan to take Lead Software Engineer position
 ![](resources/pictures/Star-Technique.png)
 
 Overview of the most challenging tasks, taken actions and achieved results
+
+### 2020 - My first project at EPAM
+
+Challenges with wide range of responsibilities:
+- Requirements clarification & Demo
+- Research on solution
+- Development
+- Team management
+
+Please, visit [this page](resources/projects/2020-MY-FIRST-PROJECT-AT-EPAM.md) for details.
 
 ### 2019 - My first Complex App
 
