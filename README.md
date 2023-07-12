@@ -10,6 +10,7 @@ The portfolio consists of topics which are NOT included in my CV:
 
 - [About](#about)
 - [Project Feedbacks](#project-feedbacks)
+- [Project Challenges](#project-challenges)
 - [Leadership Skills](#leadership-skills)
 - [Self-Education](#self-education)
 
