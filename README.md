@@ -2,10 +2,6 @@
 
 ![meme](resources/pictures/memes/Meme-Protfolio.PNG)
 
-> **Note!**<br>
-> If you are looking for CV, let me know in [LinkedIn](https://www.linkedin.com/in/ytj/)<br>
-> "You shouldn't refer to Portfolio as a CV, this is special, this is different :)" - Robert Downey Jr
-
 ### Welcome to Developer's page!
 
 The portfolio is created for any interested IT specialist such as Researcher, Recruiter, HR, PM or Technical Specialist.<br>
@@ -91,6 +87,31 @@ In the **future** I plan to take Lead Software Engineer position
     Asked **Project Manager** with whom I worked most of the time.
     There are original and English versions.
     Leaving this project, I left successfully implemented application as well as positive impression about myself.
+
+# Project Challenges
+
+![](resources/pictures/Star-Technique.png)
+
+Overview of the most challenging tasks, taken actions and achieved results
+
+### 2019 - My first Complex App
+
+Challenges with implementation of multifunctional app from scratch:
+- Technologies research
+- Requirements clarification
+- Architecture building
+- Development, maintenance and expansion
+- Integration testing
+- Acceptance testing
+- Packaging and cross-platforming
+
+Please, visit [this page](resources/projects/2019-MY-FIRST-COMPLEX-APP.md) for details.
+
+### 2018 - My first Commercial App
+
+Challenge with finding decoding algorithm.
+
+Please, visit [this page](resources/projects/2018-MY-FIRST-COMMERCIAL-APP.md) for details.
 
 # Leadership Skills
 
