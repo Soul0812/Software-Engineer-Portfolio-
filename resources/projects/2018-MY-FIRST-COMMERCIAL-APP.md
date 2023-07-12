@@ -3,7 +3,7 @@
 
 There was **need** to test a Radar Station.
 For this, was used a Quadcopter which collects flight logs as binary files. 
-Such files you can't directly open and read.
+Such files you can not directly open and read.
 
 My **task** was to make desktop app which parses log files and creates human-readable text.
 It was not hard in terms of programming itself, but **challenge** was the binary files. 

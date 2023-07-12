@@ -99,31 +99,20 @@ Overview of the most challenging tasks, taken actions and achieved results
 
 ### 2020 - My first project at EPAM
 
-Challenges with wide range of responsibilities:
-- Requirements clarification & Demo
-- Research on solution
-- Development
-- Team management
-
+Challenges with wide range of responsibilities: 
+Requirements Clarification & Demo, Research, Development, Team management.<br>
 Please, visit [this page](resources/projects/2020-MY-FIRST-PROJECT-AT-EPAM.md) for details.
 
 ### 2019 - My first Complex App
 
-Challenges with implementation of multifunctional app from scratch:
-- Technologies research
-- Requirements clarification
-- Architecture building
-- Development, maintenance and expansion
-- Integration testing
-- Acceptance testing
-- Packaging and cross-platforming
-
+Challenges with implementation of multifunctional app from scratch: 
+Technologies research, Requirements Clarification, Architecture, Development, Maintenance and Expansion,
+Integration testing, Acceptance testing, Packaging and Cross-Platforming.<br>
 Please, visit [this page](resources/projects/2019-MY-FIRST-COMPLEX-APP.md) for details.
 
 ### 2018 - My first Commercial App
 
-Challenge with finding decoding algorithm.
-
+Challenge with finding decoding algorithm.<br>
 Please, visit [this page](resources/projects/2018-MY-FIRST-COMMERCIAL-APP.md) for details.
 
 # Leadership Skills
@@ -146,7 +135,7 @@ Please, visit [this page](resources/projects/2018-MY-FIRST-COMMERCIAL-APP.md) fo
 
 # Self-education
 
-![meme](resources/pictures/memes/Meme-Learning.jpg)
+![meme](resources/pictures/memes/Meme-Self-Education.PNG)
 
 #### EPAM English classes. Completed 9 trainings:
 

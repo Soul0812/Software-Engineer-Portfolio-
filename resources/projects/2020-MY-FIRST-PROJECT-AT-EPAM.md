@@ -24,7 +24,7 @@ It was short-term experience, however, full of challenges:
   Also, I immediately considered to attend English classes and learn language strenuously.<br>
   As a **result**, customers were able to see development progress and provide feedbacks.
  
-- Before start development, our team was supposed to find implementation way. 
+- Before start development, our team was supposed to find **implementation way**. 
   Customers expected us to integrate some existing open-source solution.
   Our team spent about 1 month for searching for working tool, but actually, there was no such available.
   This situation put us under the pressure by fact that we need implement solution from scratch in 2 months.
@@ -32,7 +32,7 @@ It was short-term experience, however, full of challenges:
   As a **result**, we realized that it's possible to meet deadlines and our team started development without worries.
 
 - First, I designed application structure. 
-  Then our team started development which seemed to me not so hard.
+  Then our team started **development** which seemed to me not so hard.
   I had been holding daily meeting where we were discussing all the details.
   Development was smoothly for me, but not for teammates.
   They had good programming skills, so it was not clear what is the problem.
