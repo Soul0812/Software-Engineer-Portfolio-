@@ -2,13 +2,15 @@
 
 ![meme](resources/pictures/memes/Meme-Protfolio.PNG)
 
-> **Note!** <br>
-> If you are looking for my CV, let me know in [LinkedIn](https://www.linkedin.com/in/ytj/)  
+> **Note!**<br>
+> If you are looking for CV, let me know in [LinkedIn](https://www.linkedin.com/in/ytj/)<br>
+> "You shouldn't refer to Portfolio as a CV, this is special, this is different :)" - Robert Downey Jr
 
 ### Welcome to Developer's page!
+
 The portfolio is created for any interested IT specialist such as Researcher, Recruiter, HR, PM or Technical Specialist.<br>
-The portfolio shows interesting facts about my programming experience 
-and provides additional topics which are not included in my CV:
+The portfolio shows interesting facts about my programming experience and personal qualities.<br>
+The portfolio consists of topics which are NOT included in my CV:
 
 - [About](#about)
 - [Project Feedbacks](#project-feedbacks)
@@ -17,21 +19,21 @@ and provides additional topics which are not included in my CV:
 
 # About
 
-Having **Java** as a primary skill, I‘ve been doing commercial development for **5 years** so far.<br>
+Having **Java** as a primary skill, I‘ve been doing commercial development for **5 years** so far.
 Working on Backend, REST API, Frontend, Cloud, Desktop apps,
-I‘ve got experience with such **skills** as Java 8, JavaEE, Spring, AWS, SQL, JavaFX, Git, Scrum, Windows.<br>
-I've come across different **stages** of development such as Research, Software Design, Implementation, Testing, Deployment.<br>
+I‘ve got experience with such **skills** as Java 8, JavaEE, Spring, AWS, SQL, JavaFX, Git, Scrum, Windows.
+I've come across different **stages** of development such as Research, Software Design, Implementation, Testing, Deployment.
 In addition to development itself, I had wide range of **responsibilities**: from Requirements Clarification to Product Release.
 
-Thanks to fluent **English** and good soft skills, I‘m an efficient **Team Player** even in case of international teams.<br>
-In fact, I’ve been communicating with foreign colleagues and stakeholders for more than 2 years already.<br>
+Thanks to fluent **English** and good soft skills, I‘m an efficient **Team Player** even in case of international teams.
+In fact, I’ve been communicating with foreign colleagues and stakeholders for more than 2 years already.
 I consider myself as a responsible person and also take care about others.
-I have production experience of **Team Leading** and was a Mentor for education programs.<br>
+I have production experience of **Team Leading** and was a Mentor for education programs.
 Personally, I'm happy to share experience and help others. Colleagues often ask me for advice.
 
 I'm always open to **feedback** about my work. 
-On each project, my professional and personal qualities met or even exceeded expectations.<br>
-At the same time, I see the ways for self-improvement and continue working on my hard, soft, and leadership skills.<br>
+On each project, my professional and personal qualities met or even exceeded expectations.
+At the same time, I see the ways for self-improvement and continue working on my hard, soft, and leadership skills.
 In the **future** I plan to take Lead Software Engineer position
 
 # Project Feedbacks
@@ -43,7 +45,7 @@ In the **future** I plan to take Lead Software Engineer position
     [Customer Feedback](resources/pictures/feedbacks/2023-March-EPAM-Summary-Feedback-from-Customers.PNG)<br>
     *Description:* 
     Half-year summary as part of constant feedback process. 
-    Collected from **Product Owner**, **Scrum Master** (customer side) and **Delivery Manager** (EPAM side) feedbacks.<br>
+    Collected from **Product Owner**, **Scrum Master** (customer side) and **Delivery Manager** (EPAM side) feedbacks.
     According to my Resource Manager (who shared more details in person), 
     feedbacks were quite positive and customers appreciated my contribution.
     As a result, I was paid an extra bonus.
@@ -52,7 +54,7 @@ In the **future** I plan to take Lead Software Engineer position
     [Customer Feedback](resources/pictures/feedbacks/2022-September-EPAM-Summary-Feedback-from-Customers.PNG)<br>
     *Description:* 
     Half-year summary as part of constant feedback process.
-    Collected from **Product Owner**, **Scrum Master**, **Tech Lead** (customer side) feedbacks.<br>
+    Collected from **Product Owner**, **Scrum Master**, **Tech Lead** (customer side) feedbacks.
     General impression is good: I did great job and also had some points to improve.
   
   - June 2022. 
@@ -60,8 +62,8 @@ In the **future** I plan to take Lead Software Engineer position
     and [Level-up Feedback 2](resources/pictures/feedbacks/2022-EPAM-LevelUp-Feedback-from-TechLead.PNG)<br>
     *Description*: 
     Part of assessment preparation. When I was applying for Senior level, 
-    I asked **Team Lead** and **Tech Lead** (EPAM side) for feedback.<br>
-    This helped assessment committee to decide whether I'm ready to be promoted.<br>
+    I asked **Team Lead** and **Tech Lead** (EPAM side) for feedback.
+    This helped assessment committee to decide whether I'm ready to be promoted.
     According to these feedbacks I was recognized as a Senior.
     Finally, I got promoted.
 
@@ -69,14 +71,14 @@ In the **future** I plan to take Lead Software Engineer position
     [Project Feedback](resources/pictures/feedbacks/2021-June-Simple-Project-Feedback-from-TeamLead.PNG)<br>
     *Description:* 
     Half-year simple one as part of constant feedback process.
-    Asked current project **Team Lead** (EPAM side).<br>
+    Asked current project **Team Lead** (EPAM side).
     Summing up, I was recognized as an excellent Key Developer and good Team Player.
   
   - January 2021. 
     [Project Feedback](resources/pictures/feedbacks/2021-January-Simple-Project-Feedback-from-Dev.PNG)<br>
     *Description:* 
     Simple one as part of constant feedback process.
-    Asked current project **Developer** (EPAM side) where I played Lead Developer role.<br>
+    Asked current project **Developer** (EPAM side) where I played Lead Developer role.
     That time, I didn't follow some coding best practices.
     In general, I was friendly Lead and quite effective Developer at the same time.
 
@@ -87,7 +89,7 @@ In the **future** I plan to take Lead Software Engineer position
     *Description:* 
     Quit feedback to sum up the entire work path on a project. 
     Asked **Project Manager** with whom I worked most of the time.
-    There are original and English versions.<br>
+    There are original and English versions.
     Leaving this project, I left successfully implemented application as well as positive impression about myself.
 
 # Leadership Skills
@@ -168,6 +170,8 @@ In the **future** I plan to take Lead Software Engineer position
 - 2018\. JavaFX 8: Introduction By Example - Apress
 - 2018\. Java: A Beginner's Guide - Herbert Schildt
 - 2018\. Effective Java - Joshua Bloch
+- 2018\. The C++ Programming Language - Bjarne Stroustrup
+- 2018\. The C Programming Language - Brian W.Kernighan, Dennis M.Ritchie
 
 # Programming habits
 
@@ -175,5 +179,5 @@ Some tips and approaches for programmers that I noticed and personally found use
 - Working from office helps be more efficient and keep work-life balance.
 - Refactoring helps fix a bug.
 - Writing documentation helps better understand what you've done, 
-  structurise gained knowledge and release memory.<br>
+  structurise gained knowledge and release memory.
   Once important details are covered, you can forget about it and easily switch to the next task.
