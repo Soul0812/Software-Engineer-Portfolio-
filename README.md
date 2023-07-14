@@ -39,7 +39,7 @@ In the **future** I plan to take Lead Software Engineer position
 
 ![meme](resources/pictures/memes/Meme-Feedback.jpg)
 
-### EPAM Systems
+#### EPAM Systems
   - March 2023. 
     [Customer Feedback](resources/pictures/feedbacks/2023-March-EPAM-Summary-Feedback-from-Customers.PNG)<br>
     *Description:* 
@@ -81,7 +81,7 @@ In the **future** I plan to take Lead Software Engineer position
     That time, I didn't follow some coding best practices.
     In general, I was friendly Lead and quite effective Developer at the same time.
 
-### Institute of Radio Astronomy
+#### Institute of Radio Astronomy
 
   - September 2020. 
     [Quit Project Feedback](resources/pictures/feedbacks/2020-September-RINANU-Quit-Project-Feedback-from-ProjectManager.PNG)<br>
@@ -97,20 +97,20 @@ In the **future** I plan to take Lead Software Engineer position
 
 Overview of the most challenging tasks, taken actions and achieved results
 
-### 2020 - My first project at EPAM
+#### 2020 - My first project at EPAM
 
 Challenges with wide range of responsibilities: 
 Requirements Clarification & Demo, Research, Development, Team management.<br>
 Please, visit [this page](resources/projects/2020-MY-FIRST-PROJECT-AT-EPAM.md) for details.
 
-### 2019 - My first Complex App
+#### 2019 - My first Complex App
 
 Challenges with implementation of multifunctional app from scratch: 
 Technologies research, Requirements Clarification, Architecture, Development, Maintenance and Expansion,
 Integration testing, Acceptance testing, Packaging and Cross-Platforming.<br>
 Please, visit [this page](resources/projects/2019-MY-FIRST-COMPLEX-APP.md) for details.
 
-### 2018 - My first Commercial App
+#### 2018 - My first Commercial App
 
 Challenge with finding decoding algorithm.<br>
 Please, visit [this page](resources/projects/2018-MY-FIRST-COMMERCIAL-APP.md) for details.
@@ -199,8 +199,13 @@ Please, visit [this page](resources/projects/2018-MY-FIRST-COMMERCIAL-APP.md) fo
 # Programming habits
 
 Some tips and approaches for programmers that I noticed and personally found useful:
-- Working from office helps be more efficient and keep work-life balance.
-- Refactoring helps fix a bug.
+- Work from office helps be more efficient and keep work-life balance.
+  Also, it's more secure and company is less concerned about employee's doings. 
+- Refactoring helps fix bugs. 
+  For example, in `Java` it's nice to use `Stream API`, but sometimes it's overcomplicated. 
+  When we have many invocations in a row, such code is not possible to understand.
+  I would rather have plain Java implementation then complex constructions.
+  This way, refactoring helped me several times to find an issue.
 - Writing documentation helps better understand what you've done, 
   structurise gained knowledge and release memory.
   Once important details are covered, you can forget about it and easily switch to the next task.
