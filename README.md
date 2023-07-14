@@ -151,27 +151,27 @@ Please, visit [this page](resources/projects/2018-MY-FIRST-COMMERCIAL-APP.md) fo
 
 #### LinkedIn Learning. Completed 17 self-study courses:
 
-  - 2023\. SQL vs NoSQL: Which Database Type Is Right for You?
-  - 2023\. Learning REST APIs.
-  - 2022\. Java EE: Servlets and JavaServer Pages (JSP).
-  - 2022\. Learning Spring with Spring Boot.
+  - Apr 2023. Learning REST APIs.
+  - Mar 2023. SQL vs NoSQL: Which Database Type Is Right for You?
+  - Sep 2022. Spring Boot 2.0 Essential Training.
     My [repository](https://github.com/Yevhen-Tkachenko-1/Spring-Boot-Demo-Application) for exercises.
-  - 2022\. Spring Boot 2.0 Essential Training.
+  - Sep 2022. Learning Spring with Spring Boot.
     My [repository](https://github.com/Yevhen-Tkachenko-1/Spring-Boot-Demo-Application) for exercises.
-  - 2022\. AWS Essential Training for Developers.
-  - 2022\. Learning Terraform.
-  - 2022\. Git Essential Training: The Basics.
-  - 2022\. Git: Branches, Merges, and Remotes.
-  - 2021\. Spring: Framework in Depth.
+  - Sep 2022. Git: Branches, Merges, and Remotes.
+  - Aug 2022. AWS Essential Training for Developers.
+  - Aug 2022. Git Essential Training: The Basics.
+  - Jul 2022. Java EE: Servlets and JavaServer Pages (JSP).
+  - Nov 2021. Learning Terraform.
+  - Oct 2021. Building Full-Stack Apps with React and Spring.
+  - Oct 2021. Advanced SQL for Query Tuning and Performance Optimization.
+  - Aug 2021. Spring: Framework in Depth.
     My [repository](https://github.com/Yevhen-Tkachenko-1/Spring-Demo-Application) for exercises.
-  - 2021\. Building Full-Stack Apps with React and Spring.
-  - 2021\. Spring: Test-Driven Development with JUnit.
-  - 2021\. Learning Cloud Computing: Core Concepts.
-  - 2021\. Advanced SQL for Query Tuning and Performance Optimization.
-  - 2021\. Introduction to Linux.
-  - 2021\. Practical Test-Driven Development for Java Programmers.
-  - 2021\. Programming Foundations: Algorithms.
+  - Aug 2021. Spring: Test-Driven Development with JUnit.
+  - Aug 2021. Introduction to Linux.
+  - Aug 2021. Programming Foundations: Algorithms.
     My [repository](https://github.com/Yevhen-Tkachenko-1/Java-SDK-Research-and-Play) for exercises.
+  - Aug 2021. Practical Test-Driven Development for Java Programmers.
+  - Jul 2021. Learning Cloud Computing: Core Concepts.
 
 #### EPAM Learning. Completed educational program:
 
