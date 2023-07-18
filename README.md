@@ -163,6 +163,7 @@ Please, visit [this page](resources/projects/2018-MY-FIRST-COMMERCIAL-APP.md) fo
   - Jul 2022. Java EE: Servlets and JavaServer Pages (JSP).
   - Nov 2021. Learning Terraform.
   - Oct 2021. Building Full-Stack Apps with React and Spring.
+    My [repository](https://github.com/Yevhen-Tkachenko-1/Full-Stack-Demo-Application-with-Spring-and-React) for exercises.
   - Oct 2021. Advanced SQL for Query Tuning and Performance Optimization.
   - Aug 2021. Spring: Framework in Depth.
     My [repository](https://github.com/Yevhen-Tkachenko-1/Spring-Demo-Application) for exercises.
@@ -209,3 +210,8 @@ Some tips and approaches for programmers that I noticed and personally found use
 - Writing documentation helps better understand what you've done, 
   structurise gained knowledge and release memory.
   Once important details are covered, you can forget about it and easily switch to the next task.
+- Adjusting the video playback speed helps learn quickly. 
+  I like watching tutorials, but sometimes it's very detailed and takes much time.
+  Advice is quite simple but helped me a lot.
+  Most recordings have good quality, so it's possible to speed up playback to 1.5 without losing understanding.
+  With this my learning becomes faster and as a result, I feel comfortable to continue learning this way.
