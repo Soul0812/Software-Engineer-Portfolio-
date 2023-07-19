@@ -14,10 +14,11 @@ Challenges with AWS components selection, configuration and deployment:
 - Local and remote testing
 - Deployment automation
 
-### 2021 - My first App Support
+### 2021 - My first App Improvement
 
 Challenges with app improvement to make it ready for production:
 - Bug fixes and extension
 - Codebase refactoring
-- Testing
+- Local testing
+- Remote debug
 - Knowledge transfer
