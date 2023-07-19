@@ -154,22 +154,22 @@ Please, visit [this page](resources/projects/2018-MY-FIRST-COMMERCIAL-APP.md) fo
   - Apr 2023. [Learning REST APIs](https://www.linkedin.com/learning/learning-rest-apis)
   - Mar 2023. [SQL vs NoSQL: Which Database Type Is Right for You?](https://www.linkedin.com/learning/sql-vs-nosql-which-database-type-is-right-for-you)
   - Sep 2022. [Spring Boot 2.0 Essential Training](https://www.linkedin.com/learning/spring-boot-2-0-essential-training-2)
-  - Sep 2022. [Learning Spring with Spring Boot](https://www.linkedin.com/learning/learning-spring-with-spring-boot-13886371)<br>
-    My [repository](https://github.com/Yevhen-Tkachenko-1/Spring-Boot-Demo-Application) for exercises.
+  - Sep 2022. [Learning Spring with Spring Boot](https://www.linkedin.com/learning/learning-spring-with-spring-boot-13886371)
+    with my [repository](https://github.com/Yevhen-Tkachenko-1/Spring-Boot-Demo-Application) for exercises.
   - Sep 2022. [Git: Branches, Merges, and Remotes](https://www.linkedin.com/learning/git-branches-merges-and-remotes)
   - Aug 2022. [AWS Essential Training for Developers](https://www.linkedin.com/learning/aws-essential-training-for-developers-2019)
   - Aug 2022. [Git Essential Training: The Basics](https://www.linkedin.com/learning/git-essential-training-the-basics-2019)
   - Jul 2022. [Java EE: Servlets and JavaServer Pages (JSP)](https://www.linkedin.com/learning/java-ee-servlets-and-javaserver-pages-jsp)
   - Nov 2021. [Learning Terraform](https://www.linkedin.com/learning/learning-terraform-2020)
-  - Oct 2021. [Building Full-Stack Apps with React and Spring](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring)<br>
-    My [repository](https://github.com/Yevhen-Tkachenko-1/Full-Stack-Demo-Application-with-Spring-and-React) for exercises.
+  - Oct 2021. [Building Full-Stack Apps with React and Spring](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring)
+    with my [repository](https://github.com/Yevhen-Tkachenko-1/Full-Stack-Demo-Application-with-Spring-and-React) for exercises.
   - Oct 2021. [Advanced SQL for Query Tuning and Performance Optimization](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization)
-  - Aug 2021. [Spring: Framework in Depth](https://www.linkedin.com/learning/spring-framework-in-depth-2)<br>
-    My [repository](https://github.com/Yevhen-Tkachenko-1/Spring-Demo-Application) for exercises.
+  - Aug 2021. [Spring: Framework in Depth](https://www.linkedin.com/learning/spring-framework-in-depth-2)
+    with my [repository](https://github.com/Yevhen-Tkachenko-1/Spring-Demo-Application) for exercises.
   - Aug 2021. [Spring: Test-Driven Development with JUnit](https://www.linkedin.com/learning/spring-test-driven-development-with-junit)
   - Aug 2021. [Introduction to Linux](https://www.linkedin.com/learning/introduction-to-linux)
-  - Aug 2021. [Programming Foundations: Algorithms](https://www.linkedin.com/learning/programming-foundations-algorithms)<br>
-    My [repository](https://github.com/Yevhen-Tkachenko-1/Java-SDK-Research-and-Play) for exercises.
+  - Aug 2021. [Programming Foundations: Algorithms](https://www.linkedin.com/learning/programming-foundations-algorithms)
+    with my [repository](https://github.com/Yevhen-Tkachenko-1/Java-SDK-Research-and-Play) for exercises.
   - Aug 2021. [Practical Test-Driven Development for Java Programmers](https://www.linkedin.com/learning/practical-test-driven-development-for-java-programmers)
   - Jul 2021. [Learning Cloud Computing: Core Concepts](https://www.linkedin.com/learning/learning-cloud-computing-core-concepts-13966302)
 
