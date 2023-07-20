@@ -100,7 +100,7 @@ Overview of the most challenging tasks, taken actions and achieved results
 #### 2021 - My first App Improvement
 
 Challenges with app improvement to make it ready for production:
-Bug fixes and Extension, Codebase refactoring, Local testing, Remote debug, Knowledge transfer.<br>
+Bug fixing, Codebase refactoring, Extension, Local testing, Remote debug, Knowledge transfer.<br>
 Please, visit [this page](resources/projects/2021-MY-FIRST-APP-IMPROVEMENT.md) for details.
 
 #### 2020 - My first project at EPAM
