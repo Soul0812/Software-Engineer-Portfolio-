@@ -143,4 +143,5 @@ During development, testing and delivering, I faced several **challenges**:
 released stable version of Cloud Pipeline and passed it to support.
 My contribution was not limited to AWS Lambda release,
 but also I made internal improvements: codebase was refactored
-and development approaches were established that had positive impact to further application support.
+and development approaches were established.
+Eventually, such improvements had a positive impact on further application support.
