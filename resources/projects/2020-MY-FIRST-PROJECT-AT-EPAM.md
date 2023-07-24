@@ -4,9 +4,8 @@
 
 There was **need** for USA company to implement Tool that allows Book Publishers to take step back in their workflow.
 Such app is supposed to convert `.XML` based manuscript from `.ICML` to `.DITA` format.
-For this was allocated fixed budget for 3 months and collected small team of 3 Developers.
-In this team I was Lead Developer that responsible for Requirements Clarification, Development, Demo, and Release. 
-Also, there were 2 Junior Developers to help with implementation.
+For this task was allocated fixed budget for 3 months and collected small team of 3 Developers.
+In this team I was Lead Developer that responsible for Requirements Clarification, Development, Demo, and Release.
 
 It was short-term experience, however, full of challenges:
 

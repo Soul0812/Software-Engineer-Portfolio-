@@ -3,7 +3,7 @@
 Working at RINANU, I was a member of big project named OKO.
 This department develops Radar Stations including scientific research, hardware and software implementation:
 
-![](../pictures/OKO/2D_OKO_Radar.jpg)
+![](../pictures/OKO/OKO-Client-and-Radar.jpg)
 
 My **task** was to develop new Desktop app for using Radar Stations.
 There was already existing Radar Client, however, it had limitations as was made by outdated technologies.
