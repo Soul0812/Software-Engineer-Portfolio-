@@ -3,7 +3,7 @@
 Working at RINANU, I was a member of big project named OKO.
 This department develops Radar Stations including scientific research, hardware and software implementation:
 
-![](../pictures/OKO/OKO-Client-and-Radar.jpg)
+![](../pictures/OKO/OKO-Software-Hardware-Research.jpg)
 
 My **task** was to develop new Desktop app for using Radar Stations.
 There was already existing Radar Client, however, it had limitations as was made by outdated technologies.
@@ -14,16 +14,18 @@ While working on it, I faced challenges at each stage of development:
 
 - Start point was **technology stack** research.
     It was not clear which language and tools to use for development.
-    There were 2 main options: `Java/JavaFX` and `.Net`. 
+    There were 2 main options: `Java/JavaFX` and `.Net`.
     I reviewed pros and cons and implemented POCs.<br>
     As a **result**, it became clear that `Java` is a good choice to meet requirements with a simpler implementation.
   
-- I pay attention to be clear about **requirements**. 
-    First, I got to know how to use the current Radar Client as an example and had been coming back to it constantly. 
-    Sometimes, I reviewed sources of this app to gain general code such as calculation functions.
-    Another requirements regarding deep details or new features, I had been clarifying with Project Manager.<br>
-    As a **result**, features were implemented as expected. Moreover, I spent time and resources in a quite efficient way: 
-    there was no unnecessary work on wrongly understandable requirements.
+- I pay attention to be clear about **requirements**.
+    First, Project Manager showed me brief overview How to use the current Radar Client
+    and I got to know about installation and running processes.
+    Then, I use this app as an example in my day-to-day work.
+    Sometimes, I reviewed sources to gain general code (such as calculation functions) by converting `C++` into `Java`.
+    This way a got to know most of the requirements in a quite fast manner, 
+    and was asking Project Manager only for deep details and new features.<br>
+    As a **result**, application was implemented as expected with minimal impact on Project Manager's work.
     
 - It's worse to notice, that there were no other Java developers,
     and I was trusted to deal with implementation by myself.
