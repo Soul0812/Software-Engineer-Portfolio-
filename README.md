@@ -220,3 +220,32 @@ Some tips and approaches for programmers that I noticed and personally found use
   Advice is quite simple but helped me a lot.
   Most recordings have good quality, so it's possible to speed up playback to 1.5 without losing understanding.
   With this my learning becomes faster and as a result, I feel comfortable to continue learning this way.
+
+# Project Interest
+
+Points I usually check when considering project as a new opportunity: 
+
+- Why is position open?
+- Project Domain
+- Development Type: from scratch, support, migration, ...
+- Are there any specific Tasks for newcomer? What are they about? How long are they expected to take? Any urgent deadlines?
+- Tech stack, Java version, Databases
+- Development methodologies, processes
+- How is the task formulated? How is the solution tested and deployed?
+- How many regular meetings?
+- Team composition: size, kinds of specialists, presents of local and foreign colleagues 
+- Interaction with customers and English-speaking colleagues
+- Is work laptop provided? Which OS: Windows, Linux, Mac
+- Tools: IDE, VCS, app for chatting, online meetings, task tracking
+- Is there possibility to play mentor role?
+- Are there experienced colleagues to get help?
+- Work hours (time zone dependencies)
+- General work tempo: Any pressure to be fast? Any lack of tasks so it gets slow?
+- Is there overtime work? If so, is it compensated?
+- Is there activity tracker (mouse moving, screen capture)?
+- Onboarding: Is there any specific flow to help newcomer understand project? 
+- Probation period: How long does it take? How much time newcomer has to start development in a regular pace?
+- Project Stability: Will I have work in 1 year?
+- Project Perspectives: grow and take next level tasks and responsibilities
+- Office and its location
+- Non-project activities (team-building)
