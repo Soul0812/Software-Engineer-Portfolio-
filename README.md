@@ -1,6 +1,6 @@
 # Software Engineer Portfolio
 
-![meme](resources/pictures/memes/Meme-Protfolio.PNG)
+![picture](resources/pictures/memes/Meme-Protfolio.PNG)
 
 ### Welcome to Developer's page!
 
@@ -15,6 +15,7 @@ Here we go:
 - [Project Challenges](#project-challenges)
 - [Leadership Skills](#leadership-skills)
 - [Self-Education](#self-education)
+- [Project Interests](#project-interests)
 
 # About
 
@@ -37,7 +38,7 @@ In the **future** I plan to take Lead Software Engineer position
 
 # Project Feedbacks
 
-![meme](resources/pictures/memes/Meme-Feedback.jpg)
+![picture](resources/pictures/memes/Meme-Feedback.jpg)
 
 #### EPAM Systems
   - March 2023. 
@@ -93,7 +94,7 @@ In the **future** I plan to take Lead Software Engineer position
 
 # Project Challenges
 
-![](resources/pictures/Star-Technique.png)
+![picture](resources/pictures/Star-Technique.png)
 
 Overview of the most challenging tasks, taken actions and achieved results
 
@@ -123,7 +124,7 @@ Please, visit [this page](resources/projects/2018-MY-FIRST-COMMERCIAL-APP.md) fo
 
 # Leadership Skills
 
-![meme](resources/pictures/memes/Meme-Leader.jpg)
+![picture](resources/pictures/memes/Meme-Leader.jpg)
 
 #### Project Team Leading. Was the Lead Developer on a short-term project:
 
@@ -141,7 +142,7 @@ Please, visit [this page](resources/projects/2018-MY-FIRST-COMMERCIAL-APP.md) fo
 
 # Self-education
 
-![meme](resources/pictures/memes/Meme-Self-Education.PNG)
+![picture](resources/pictures/memes/Meme-Self-Education.PNG)
 
 #### EPAM English classes. Completed 9 trainings:
 
@@ -202,28 +203,29 @@ Please, visit [this page](resources/projects/2018-MY-FIRST-COMMERCIAL-APP.md) fo
 - 2018\. The C++ Programming Language - Bjarne Stroustrup
 - 2018\. The C Programming Language - Brian W.Kernighan, Dennis M.Ritchie
 
-# Programming habits
-
-Some tips and approaches for programmers that I noticed and personally found useful:
-- Work from office helps be more efficient and keep work-life balance.
-  Also, it's more secure and company is less concerned about employee's doings. 
-- Refactoring helps fix bugs. 
-  For example, in `Java` it's nice to use `Stream API`, but sometimes it's overcomplicated. 
-  When we have many invocations in a row, such code is not possible to understand.
-  I would rather have plain Java implementation then complex constructions.
-  This way, refactoring helped me several times to find an issue.
-- Writing documentation helps better understand what you've done, 
-  structurise gained knowledge and release memory.
-  Once important details are covered, you can forget about it and easily switch to the next task.
-- Adjusting the video playback speed helps learn quickly. 
-  I like watching tutorials, but sometimes it's very detailed and takes much time.
-  Advice is quite simple but helped me a lot.
-  Most recordings have good quality, so it's possible to speed up playback to 1.5 without losing understanding.
-  With this my learning becomes faster and as a result, I feel comfortable to continue learning this way.
-
 # Project Interests
 
-Points I usually check when considering project as a new opportunity: 
+Personally, I really like stable companies and projects where I can work for a long period: 2 years and more.
+Long term assignment is profitable for both: developer and company.
+For example, working on large enterprise apps, first you have to spend some time and resources to get to know the project.
+It's kinda an investment that later brings benefits such as satisfaction from your work, 
+possibilities to make bigger impact and finally, bringing more value to the project.
+Even when building large app from scratch, you need to define the architecture and establish the development processes 
+that is also beneficial only in long term run.
+
+Such commitment also has other side. 
+That's great if on your project you always have opportunities and space to grow.
+However, at some projects, at some point, for example in 2 years of development,
+you may find yourself doing the same job day in and day out and no one can help you with it.
+In such situations I would consider to switch to another project.
+
+I realize importance and risks of such decisions for myself, my current project and future project.
+First of all, I ask project managers to check, if possible to make my work better.
+Then if not, there are a lot of possible projects to join.
+I try to find the best fit and finally accept offer very carefully.
+Joining new project is weighted decision that means I commit for long term cooperation.
+
+So, I have some points to check when applying for new projects:
 
 - Why is position open?
 - Project Domain: what is it about? what is outcome? which impact does it make?
@@ -236,9 +238,9 @@ Points I usually check when considering project as a new opportunity:
 - Project Team: size, kinds of specialists, presents of local and foreign colleagues.
 - Interaction with customers and English-speaking colleagues.
 - Is work laptop provided? Which OS, e.g. Windows, Linux, Mac.
-- Tools: IDE, VCS, app for chatting, online meetings, task tracking.
-- Is there possibility to play mentor role?
-- Are there experienced colleagues to ask for help?
+- Tools: IDE, VCS, apps for chatting, online meetings, task tracking.
+- Are there less experienced colleagues to play mentor role?
+- Are there more experienced colleagues to ask for help?
 - Work hours (time zone dependencies).
 - General work tempo: Any constant pressure to be fast? Any lack of tasks so it gets slow?
 - Is there overtime work? If so, is it compensated?
@@ -253,3 +255,22 @@ Points I usually check when considering project as a new opportunity:
 - Additional bonuses for good performance and released features.
 - Range of compensation for the position.
 - Compensation review: What to do to get it? How often? Constant or by asking? Which amount is it possible to have in 2 years?
+
+# Programming Habits
+
+Some tips and approaches for programmers that I noticed and personally found useful:
+- Work from office helps be more efficient and keep work-life balance.
+  Also, it's more secure and company is less concerned about employee's doings.
+- Refactoring helps fix bugs.
+  For example, in `Java` it's nice to use `Stream API`, but sometimes it's overcomplicated.
+  When we have many invocations in a row, such code is not possible to understand.
+  I would rather have plain Java implementation then complex constructions.
+  This way, refactoring helped me several times to find an issue.
+- Writing documentation helps better understand what you've done,
+  structurise gained knowledge and release memory.
+  Once important details are covered, you can forget about it and easily switch to the next task.
+- Adjusting the video playback speed helps learn quickly.
+  I like watching tutorials, but sometimes it's very detailed and takes much time.
+  Advice is quite simple but helped me a lot.
+  Most recordings have good quality, so it's possible to speed up playback to 1.5 without losing understanding.
+  With this my learning becomes faster and as a result, I feel comfortable to continue learning this way.
