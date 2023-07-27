@@ -215,46 +215,47 @@ that is also beneficial only in long term run.
 
 Such commitment also has other side. 
 That's great if on your project you always have opportunities and space to grow.
-However, at some projects, at some point, for example in 2 years of development,
-you may find yourself doing the same job day in and day out and no one can help you with it.
+However, at some projects, at some point (for example in 2 years of development),
+you may find yourself doing the same job day-to-day, and it can't be changed.
 In such situations I would consider to switch to another project.
 
-I realize importance and risks of such decisions for myself, my current project and future project.
-First of all, I ask project managers to check, if possible to make my work better.
-Then if not, there are a lot of possible projects to join.
-I try to find the best fit and finally accept offer very carefully.
+I realize importance and risks of such decision for myself, my current project and future project.
+In such cases, first of all, I talk about my concerns with project managers.
+If we can't find solution, there are many other projects to join.
+I try to find the best fit and finally accept the offer very carefully.
 Joining new project is weighted decision that means I commit for long term cooperation.
 
 So, I have some points to check when applying for new projects:
 
 - Why is position open?
 - Project Domain: what is it about? what is outcome? which impact does it make?
-- Tech stack: key language, frameworks, versions, databases.
+- Tech Stack, e.g. key language, frameworks, versions, databases.
 - Development Type, e.g. full cycle, support, migration.
 - Development Responsibilities, e.g. design, research, implementation, delivery.
-- What are tasks about? Any specific work scope for newcomer? Any specific release dates? Any urgent deadlines?
+- What do regular tasks look like? Any specific work scope for newcomer? Any specific release dates? Any urgent deadlines?
 - Development Methodology, e.g. Scrum. Any specific processes? How many regular meetings?
 - How is the task formulated? How developer is involved in requirements clarification, testing and deployment?
-- Project Team: size, kinds of specialists, presents of local and foreign colleagues.
+- Project Team, e.g. size, kinds of specialists, presents of local and foreign colleagues.
 - Interaction with customers and English-speaking colleagues.
 - Is work laptop provided? Which OS, e.g. Windows, Linux, Mac.
-- Tools: IDE, VCS, apps for chatting, online meetings, task tracking.
+- Project Tools, e.g. IDE, VCS, apps for chatting, online meetings, task tracking.
 - Are there less experienced colleagues to play mentor role?
 - Are there more experienced colleagues to ask for help?
 - Work hours (time zone dependencies).
 - General work tempo: Any constant pressure to be fast? Any lack of tasks so it gets slow?
 - Is there overtime work? If so, is it compensated?
-- Is there activity tracker, e.g. tracking mouse movement, screen capture?
-- Onboarding: Is there any specific flow to help newcomer understand project?
+- Is there activity tracker, e.g. mouse movement tracking, screen capture?
+- Onboarding: Are there any flow and materials to help newcomer understand project? How much time allocated?
 - Probation period: Is it present? How long does it take? In which period is it expected for newcomer to get started with regular pace?
 - Project Stability: Will there be work in 1 year?
-- Project Perspectives: space to grow and take more complex tasks and next level responsibilities.
-- Office, its location and benefits.
-- Non-project activities, e.g. team-buildings.
+- Project Perspectives: Is there space to grow and take more complex tasks and next level responsibilities?
+- Office, its location, workplace and benefits.
+- Non-project activities, e.g. team-buildings, events, conferences, hackathons.
 - Education support, sport compensation, health insurance.
-- Additional bonuses for good performance and released features.
-- Range of compensation for the position.
-- Compensation review: What to do to get it? How often? Constant or by asking? Which amount is it possible to have in 2 years?
+- Are there any business trip? (especially interesting if it helps you meet your implementation in real life)
+- Additional bonuses for good performance, successfully released features, resolving additional tasks asked by customer, providing better solution. 
+- Compensation Range for the position.
+- Compensation Review: What to do to get it? How often? Regular or by asking? Which amount is it possible to have in 2 years?
 
 # Programming Habits
 
