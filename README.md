@@ -15,9 +15,11 @@ Here we go:
 - [Project Challenges](#project-challenges)
 - [Leadership Skills](#leadership-skills)
 - [Self-Education](#self-education)
-- [Project Interests](#project-interests)
+- [Project Changing](#project-changing)
 
 # About
+
+![picture](resources/pictures/memes/Meme-Software-Engineer.PNG)
 
 Having **Java** as a primary skill, I‘ve been doing commercial development for **5 years** so far.
 Working on Backend, REST API, Frontend, Cloud, Desktop apps,
@@ -203,9 +205,13 @@ Please, visit [this page](resources/projects/2018-MY-FIRST-COMMERCIAL-APP.md) fo
 - 2018\. The C++ Programming Language - Bjarne Stroustrup
 - 2018\. The C Programming Language - Brian W.Kernighan, Dennis M.Ritchie
 
-# Project Interests
+# Project Changing
 
-Personally, I really like stable companies and projects where I can work for a long period: 2 years and more.
+![picture](resources/pictures/memes/Meme-Handshake.PNG)
+
+My thoughts on changing the project: When it's appropriate to look for new opportunities and How to find the best fit.
+
+Personally, I really like stable companies and projects where I can work for a long period, e.g. 2 years and more.
 Long term assignment is profitable for both: developer and company.
 For example, working on large enterprise apps, first you have to spend some time and resources to get to know the project.
 It's kinda an investment that later brings benefits such as satisfaction from your work, 
@@ -213,7 +219,7 @@ possibilities to make bigger impact and finally, bringing more value to the proj
 Even when building large app from scratch, you need to define the architecture and establish the development processes 
 that is also beneficial only in long term run.
 
-Such commitment also has other side. 
+Such commitment also has other side.
 That's great if on your project you always have opportunities and space to grow.
 However, at some projects, at some point (for example in 2 years of development),
 you may find yourself doing the same job day-to-day, and it can't be changed.
