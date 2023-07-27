@@ -1,6 +1,6 @@
 ### 2020 - My first project at EPAM
 
-![](../pictures/My-First-Project-At-EPAM.png)
+![](../pictures/projects/My-First-Project-At-EPAM.png)
 
 There was **need** for USA company to implement Tool that allows Book Publishers to take step back in their workflow.
 Such app is supposed to convert `.XML` based manuscript from `.ICML` to `.DITA` format.

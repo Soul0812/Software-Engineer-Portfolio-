@@ -96,7 +96,7 @@ In the **future** I plan to take Lead Software Engineer position
 
 # Project Challenges
 
-![picture](resources/pictures/Star-Technique.png)
+![picture](resources/pictures/memes/Meme-Star-Technique.jpg)
 
 Overview of the most challenging tasks, taken actions and achieved results
 
