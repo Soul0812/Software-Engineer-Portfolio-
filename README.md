@@ -36,7 +36,7 @@ Personally, I'm happy to share experience and help others. Colleagues often ask 
 I'm always open to **feedback** about my work. 
 On each project, my professional and personal qualities met or even exceeded expectations.
 At the same time, I see the ways for self-improvement and continue working on my hard, soft, and leadership skills.
-In the **future** I plan to take Lead Software Engineer position
+In the **future** I plan to take Lead Software Engineer position.
 
 # Project Feedbacks
 
@@ -98,25 +98,25 @@ In the **future** I plan to take Lead Software Engineer position
 
 ![picture](resources/pictures/memes/Meme-Star-Technique.jpg)
 
-Overview of the most challenging tasks, taken actions and achieved results
+Overview of the most challenging tasks, taken actions and achieved results:
 
 #### 2021 - My first App Improvement
 
-Challenges with app improvement to make it ready for production:
-Bug fixing, Codebase refactoring, Extension, Local testing, Remote debug, Knowledge transfer.<br>
+Challenges with app improvement to make it ready for production:<br>
+Bug Fixing, Codebase Refactoring, Extension, Local Testing, Remote Debug, Knowledge Transfer.<br>
 Please, visit [this page](resources/projects/2021-MY-FIRST-APP-IMPROVEMENT.md) for details.
 
 #### 2020 - My first project at EPAM
 
-Challenges with wide range of responsibilities: 
-Requirements Clarification & Demo, Research, Development, Team management.<br>
+Challenges with wide range of responsibilities:<br>
+Requirements Clarification & Demo, Research, Development, Team Leading.<br>
 Please, visit [this page](resources/projects/2020-MY-FIRST-PROJECT-AT-EPAM.md) for details.
 
 #### 2019 - My first Complex App
 
-Challenges with implementation of multifunctional app from scratch: 
-Technologies research, Requirements Clarification, Architecture, Development, Maintenance and Expansion,
-Integration testing, Acceptance testing, Packaging and Cross-Platforming.<br>
+Challenges with implementation of multifunctional app from scratch:<br>
+Technologies Research, Requirements Clarification, Architecture, Development, Maintenance and Expansion,
+Integration Testing, Acceptance Testing, Packaging and Cross-Platforming.<br>
 Please, visit [this page](resources/projects/2019-MY-FIRST-COMPLEX-APP.md) for details.
 
 #### 2018 - My first Commercial App
@@ -128,9 +128,11 @@ Please, visit [this page](resources/projects/2018-MY-FIRST-COMMERCIAL-APP.md) fo
 
 ![picture](resources/pictures/memes/Meme-Leader.jpg)
 
+Cases where I organized and supported processes for work and education:
+
 #### Project Team Leading. Was the Lead Developer on a short-term project:
 
-- Oct 2021 - Dec 2021. Managed 2 developers: work planning, meeting holding, development support.
+- Oct 2021 - Dec 2021. Organized work in a team of 3 developers: work planning, meeting holding, development support.
 
 #### EPAM Educational Programs. Participated as a Mentor in 2 runs:
 
@@ -146,6 +148,8 @@ Please, visit [this page](resources/projects/2018-MY-FIRST-COMMERCIAL-APP.md) fo
 
 ![picture](resources/pictures/memes/Meme-Self-Education.PNG)
 
+Working on hard and soft skills, I've been using different kinds of learning and have next achievements so far:
+
 #### EPAM English classes. Completed 9 trainings:
 
   - Apr 2023 - Jul 2023 (26 live sessions). English for Virtual Communication (B1+/B2/B2+).
@@ -160,27 +164,27 @@ Please, visit [this page](resources/projects/2018-MY-FIRST-COMMERCIAL-APP.md) fo
 
 #### LinkedIn Learning. Completed 17 self-study courses:
 
-  - Apr 2023. [Learning REST APIs](https://www.linkedin.com/learning/learning-rest-apis)
-  - Mar 2023. [SQL vs NoSQL: Which Database Type Is Right for You?](https://www.linkedin.com/learning/sql-vs-nosql-which-database-type-is-right-for-you)
-  - Sep 2022. [Spring Boot 2.0 Essential Training](https://www.linkedin.com/learning/spring-boot-2-0-essential-training-2)
+  - Apr 2023. [Learning REST APIs](https://www.linkedin.com/learning/learning-rest-apis).
+  - Mar 2023. [SQL vs NoSQL: Which Database Type Is Right for You?](https://www.linkedin.com/learning/sql-vs-nosql-which-database-type-is-right-for-you).
+  - Sep 2022. [Spring Boot 2.0 Essential Training](https://www.linkedin.com/learning/spring-boot-2-0-essential-training-2).
   - Sep 2022. [Learning Spring with Spring Boot](https://www.linkedin.com/learning/learning-spring-with-spring-boot-13886371)
     with my [repository](https://github.com/Yevhen-Tkachenko-1/Spring-Boot-Demo-Application) for exercises.
-  - Sep 2022. [Git: Branches, Merges, and Remotes](https://www.linkedin.com/learning/git-branches-merges-and-remotes)
+  - Sep 2022. [Git: Branches, Merges, and Remotes](https://www.linkedin.com/learning/git-branches-merges-and-remotes).
   - Aug 2022. [AWS Essential Training for Developers](https://www.linkedin.com/learning/aws-essential-training-for-developers-2019)
-  - Aug 2022. [Git Essential Training: The Basics](https://www.linkedin.com/learning/git-essential-training-the-basics-2019)
-  - Jul 2022. [Java EE: Servlets and JavaServer Pages (JSP)](https://www.linkedin.com/learning/java-ee-servlets-and-javaserver-pages-jsp)
-  - Nov 2021. [Learning Terraform](https://www.linkedin.com/learning/learning-terraform-2020)
-  - Oct 2021. [Building Full-Stack Apps with React and Spring](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring)
+  - Aug 2022. [Git Essential Training: The Basics](https://www.linkedin.com/learning/git-essential-training-the-basics-2019).
+  - Jul 2022. [Java EE: Servlets and JavaServer Pages (JSP)](https://www.linkedin.com/learning/java-ee-servlets-and-javaserver-pages-jsp).
+  - Nov 2021. [Learning Terraform](https://www.linkedin.com/learning/learning-terraform-2020).
+  - Oct 2021. [Building Full-Stack Apps with React and Spring](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring).
     with my [repository](https://github.com/Yevhen-Tkachenko-1/Full-Stack-Demo-Application-with-Spring-and-React) for exercises.
-  - Oct 2021. [Advanced SQL for Query Tuning and Performance Optimization](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization)
-  - Aug 2021. [Spring: Framework in Depth](https://www.linkedin.com/learning/spring-framework-in-depth-2)
+  - Oct 2021. [Advanced SQL for Query Tuning and Performance Optimization](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization).
+  - Aug 2021. [Spring: Framework in Depth](https://www.linkedin.com/learning/spring-framework-in-depth-2).
     with my [repository](https://github.com/Yevhen-Tkachenko-1/Spring-Demo-Application) for exercises.
-  - Aug 2021. [Spring: Test-Driven Development with JUnit](https://www.linkedin.com/learning/spring-test-driven-development-with-junit)
-  - Aug 2021. [Introduction to Linux](https://www.linkedin.com/learning/introduction-to-linux)
-  - Aug 2021. [Programming Foundations: Algorithms](https://www.linkedin.com/learning/programming-foundations-algorithms)
+  - Aug 2021. [Spring: Test-Driven Development with JUnit](https://www.linkedin.com/learning/spring-test-driven-development-with-junit).
+  - Aug 2021. [Introduction to Linux](https://www.linkedin.com/learning/introduction-to-linux).
+  - Aug 2021. [Programming Foundations: Algorithms](https://www.linkedin.com/learning/programming-foundations-algorithms).
     with my [repository](https://github.com/Yevhen-Tkachenko-1/Java-SDK-Research-and-Play) for exercises.
-  - Aug 2021. [Practical Test-Driven Development for Java Programmers](https://www.linkedin.com/learning/practical-test-driven-development-for-java-programmers)
-  - Jul 2021. [Learning Cloud Computing: Core Concepts](https://www.linkedin.com/learning/learning-cloud-computing-core-concepts-13966302)
+  - Aug 2021. [Practical Test-Driven Development for Java Programmers](https://www.linkedin.com/learning/practical-test-driven-development-for-java-programmers).
+  - Jul 2021. [Learning Cloud Computing: Core Concepts](https://www.linkedin.com/learning/learning-cloud-computing-core-concepts-13966302).
 
 #### EPAM Learning. Completed educational program:
 
@@ -192,24 +196,26 @@ Please, visit [this page](resources/projects/2018-MY-FIRST-COMMERCIAL-APP.md) fo
 
 #### Book Library
 
-- 2023\. Designing Data-Intensive Applications - Martin Kleppmann
-- 2020\. Java XML and JSON: Document processing for Java SE - Jeff Friesen
-- 2019\. Kotlin - Head First
-- 2019\. Android Development - Head First
-- 2019\. Design Patterns - Head First
-- 2019\. Pro JavaFX 8: Building Desktop, Mobile, and Embedded Java Clients - Apress
-- 2018\. Learn JavaFX 8: Building User Experience and Interfaces - Kishori Sharan
-- 2018\. JavaFX 8: Introduction By Example - Apress
-- 2018\. Java: A Beginner's Guide - Herbert Schildt
-- 2018\. Effective Java - Joshua Bloch
-- 2018\. The C++ Programming Language - Bjarne Stroustrup
-- 2018\. The C Programming Language - Brian W.Kernighan, Dennis M.Ritchie
+- 2023\. Designing Data-Intensive Applications - Martin Kleppmann.
+- 2020\. Java XML and JSON: Document processing for Java SE - Jeff Friesen.
+- 2019\. Kotlin - Head First.
+- 2019\. Android Development - Head First.
+- 2019\. Design Patterns - Head First.
+- 2019\. Pro JavaFX 8: Building Desktop, Mobile, and Embedded Java Clients - Apress.
+- 2018\. Learn JavaFX 8: Building User Experience and Interfaces - Kishori Sharan.
+- 2018\. JavaFX 8: Introduction By Example - Apress.
+- 2018\. Java: A Beginner's Guide - Herbert Schildt.
+- 2018\. Effective Java - Joshua Bloch.
+- 2018\. The C++ Programming Language - Bjarne Stroustrup.
+- 2018\. The C Programming Language - Brian W.Kernighan, Dennis M.Ritchie.
 
 # Project Changing
 
 ![picture](resources/pictures/memes/Meme-Handshake.PNG)
 
-My thoughts on changing the project: When it's appropriate to look for new opportunities and How to find the best fit.
+My thoughts on changing the project: 
+- When is the right time to look for new opportunities?
+- What to check to find the best fit?
 
 Personally, I really like stable companies and projects where I can work for a long period, e.g. 2 years and more.
 Long term assignment is profitable for both: developer and company.
@@ -266,6 +272,7 @@ So, I have some points to check when applying for new projects:
 # Programming Habits
 
 Some tips and approaches for programmers that I noticed and personally found useful:
+
 - Work from office helps be more efficient and keep work-life balance.
   Also, it's more secure and company is less concerned about employee's doings.
 - Refactoring helps fix bugs.
