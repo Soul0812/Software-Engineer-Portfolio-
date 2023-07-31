@@ -13,7 +13,7 @@ Here we go:
 - [About](#about)
 - [Project Feedbacks](#project-feedbacks)
 - [Project Challenges](#project-challenges)
-- [Leadership Skills](#leadership-skills)
+- [Leadership Experience](#leadership-experience)
 - [Self-Education](#self-education)
 - [Project Changing](#project-changing)
 
@@ -25,7 +25,7 @@ Having **Java** as a primary skill, I‘ve been doing commercial development for
 Working on Backend, REST API, Frontend, Cloud, Desktop apps,
 I‘ve got experience with such **skills** as Java 8, JavaEE, Spring, AWS, SQL, JavaFX, Git, Scrum, Windows.
 I've come across different **stages** of development such as Research, Software Design, Implementation, Testing, Deployment.
-In addition to development itself, I had wide range of **responsibilities**: from Requirements Clarification to Product Release.
+In addition to development itself, I had wide range of responsibilities: from Requirements Clarification to Product Release.
 
 Thanks to fluent **English** and good soft skills, I‘m an efficient **Team Player** even in case of international teams.
 In fact, I’ve been communicating with foreign colleagues and stakeholders for more than 2 years already.
@@ -36,7 +36,7 @@ Personally, I'm happy to share experience and help others. Colleagues often ask 
 I'm always open to **feedback** about my work. 
 On each project, my professional and personal qualities met or even exceeded expectations.
 At the same time, I see the ways for self-improvement and continue working on my hard, soft, and leadership skills.
-In the **future** I plan to take Lead Software Engineer position.
+Currently, I'm recognized as a Senior and for the future I plan to take Lead Software Engineer position.
 
 # Project Feedbacks
 
@@ -124,25 +124,26 @@ Please, visit [this page](resources/projects/2019-MY-FIRST-COMPLEX-APP.md) for d
 Challenge with finding decoding algorithm.<br>
 Please, visit [this page](resources/projects/2018-MY-FIRST-COMMERCIAL-APP.md) for details.
 
-# Leadership Skills
+# Leadership Experience
 
 ![picture](resources/pictures/memes/Meme-Leader.jpg)
 
 Cases where I organized and supported processes for work and education:
 
-#### Project Team Leading. Was the Lead Developer on a short-term project:
+#### Project Team Leading
 
-- Oct 2021 - Dec 2021. Organized work in a team of 3 developers: work planning, meeting holding, development support.
+- Oct 2021 - Dec 2021. Lead Developer on a 3-month project.<br>
+  Organized work in a team of 3 developers. Was in charge of work planning, meeting holding, development support.
 
-#### EPAM Educational Programs. Participated as a Mentor in 2 runs:
+#### EPAM Educational Programs
 
-- Jul 2022 - Oct 2022. Supported 5 students in Pre-Production program: RD Java Lab.
-- Oct 2021 - Feb 2022. Supported 2 students in Pre-Production program: RD Java Lab. 
+- Jul 2022 - Oct 2022. Mentor in Pre-Production program: \[RD Java Lab Summer 2022\]. Supported 5 students.
+- Oct 2021 - Feb 2022. Mentor in Pre-Production program: \[RD Java Lab Autumn 2021\]. Supported 2 students. 
 
-#### Private Tutoring. Worked as a Math teacher:
+#### Math Teaching
 
-- 2017\. Supported 4 students: High Math for students.
-- 2016\. Supported 8 students: Mathematics for schoolchildren.
+- 2017\. Private Tutor: High Math for students. Supported 4 students.
+- 2016\. Private Tutor: Mathematics for schoolchildren. Supported 8 students.
 
 # Self-education
 
@@ -174,14 +175,14 @@ Working on hard and soft skills, I've been using different kinds of learning and
   - Aug 2022. [Git Essential Training: The Basics](https://www.linkedin.com/learning/git-essential-training-the-basics-2019).
   - Jul 2022. [Java EE: Servlets and JavaServer Pages (JSP)](https://www.linkedin.com/learning/java-ee-servlets-and-javaserver-pages-jsp).
   - Nov 2021. [Learning Terraform](https://www.linkedin.com/learning/learning-terraform-2020).
-  - Oct 2021. [Building Full-Stack Apps with React and Spring](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring).
+  - Oct 2021. [Building Full-Stack Apps with React and Spring](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring)
     with my [repository](https://github.com/Yevhen-Tkachenko-1/Full-Stack-Demo-Application-with-Spring-and-React) for exercises.
   - Oct 2021. [Advanced SQL for Query Tuning and Performance Optimization](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization).
-  - Aug 2021. [Spring: Framework in Depth](https://www.linkedin.com/learning/spring-framework-in-depth-2).
+  - Aug 2021. [Spring: Framework in Depth](https://www.linkedin.com/learning/spring-framework-in-depth-2)
     with my [repository](https://github.com/Yevhen-Tkachenko-1/Spring-Demo-Application) for exercises.
   - Aug 2021. [Spring: Test-Driven Development with JUnit](https://www.linkedin.com/learning/spring-test-driven-development-with-junit).
   - Aug 2021. [Introduction to Linux](https://www.linkedin.com/learning/introduction-to-linux).
-  - Aug 2021. [Programming Foundations: Algorithms](https://www.linkedin.com/learning/programming-foundations-algorithms).
+  - Aug 2021. [Programming Foundations: Algorithms](https://www.linkedin.com/learning/programming-foundations-algorithms)
     with my [repository](https://github.com/Yevhen-Tkachenko-1/Java-SDK-Research-and-Play) for exercises.
   - Aug 2021. [Practical Test-Driven Development for Java Programmers](https://www.linkedin.com/learning/practical-test-driven-development-for-java-programmers).
   - Jul 2021. [Learning Cloud Computing: Core Concepts](https://www.linkedin.com/learning/learning-cloud-computing-core-concepts-13966302).
@@ -254,7 +255,7 @@ So, I have some points to check when applying for new projects:
 - Are there less experienced colleagues to play mentor role?
 - Are there more experienced colleagues to ask for help?
 - Work hours (time zone dependencies).
-- General work tempo: Any constant pressure to be fast? Any lack of tasks so it gets slow?
+- General work tempo: Any constant pressure to be fast? Any lack of tasks or presence of complex processes, so it gets slow?
 - Is there overtime work? If so, is it compensated?
 - Is there activity tracker, e.g. mouse movement tracking, screen capture?
 - Onboarding: Are there any flow and materials to help newcomer understand project? How much time allocated?
