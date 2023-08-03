@@ -137,8 +137,15 @@ Cases where I organized and supported processes for work and education:
 
 #### EPAM Educational Programs
 
-- Jul 2022 - Oct 2022. Mentor in Pre-Production program: \[RD Java Lab Summer 2022\]. Supported 5 students.
-- Oct 2021 - Feb 2022. Mentor in Pre-Production program: \[RD Java Lab Autumn 2021\]. Supported 2 students. 
+Was a Mentor in 2 Pre-Production programs:
+
+- Jul 2022 - Oct 2022. \[RD Java Lab Summer 2022\]. Supported 5 students.
+- Oct 2021 - Feb 2022. \[RD Java Lab Autumn 2021\]. Supported 2 students. 
+
+I was organizing one-to-one sessions with Mentee to discuss task requirements and implementation way, 
+Q&A, progress update, task acceptance.<br>
+Also, as offline activities, I had support chat with Mentee, was doing code review and testing app on my local.<br>
+Finally, I provided the Program Head with feedback on the Mentee performance.
 
 #### Math Teaching
 
@@ -149,22 +156,24 @@ Cases where I organized and supported processes for work and education:
 
 ![picture](resources/pictures/memes/Meme-Self-Education.PNG)
 
-Working on hard and soft skills, I've been using different kinds of learning and have next achievements so far:
+Working on hard and soft skills, I have next achievements so far:
 
-#### EPAM English classes. Completed 9 trainings:
+#### EPAM English classes. Completed 9 live trainings:
 
-  - Apr 2023 - Jul 2023 (26 live sessions). English for Virtual Communication (B1+/B2/B2+).
-  - Oct 2022 - Apr 2023 (41 live sessions). Business English (B1+/B2).
-  - Sep 2022 - Nov 2022 (17 live sessions). IT Grammar in English (B1+/B2).
-  - Jun 2022 - Jul 2022 (8 live sessions). English for Socializing (B1/B1+).
-  - Mar 2022 - Jul 2022 (17 live sessions). IT Grammar in English (A2+/B1).
-  - Jan 2022 - Feb 2022 (10 live sessions). Project Interviews in English (A2+/B1/B1+).
-  - Nov 2021 - Dec 2021 (11 live sessions). Breaking the Language Barrier in English (A2+/B1).
-  - Apr 2021 - Oct 2021 (40 live sessions). Business English (A2+/B1).
-  - Mar 2021 - May 2022 (10 live sessions). English Speaking Club (B1/B2/C1/C2).
+  - Apr 2023 - Jul 2023 (26 sessions). English for Virtual Communication (B1+/B2/B2+).
+  - Oct 2022 - Apr 2023 (41 sessions). Business English (B1+/B2).
+  - Sep 2022 - Nov 2022 (17 sessions). IT Grammar in English (B1+/B2).
+  - Jun 2022 - Jul 2022 (8 sessions). English for Socializing (B1/B1+).
+  - Mar 2022 - Jul 2022 (17 sessions). IT Grammar in English (A2+/B1).
+  - Jan 2022 - Feb 2022 (10 sessions). Project Interviews in English (A2+/B1/B1+).
+  - Nov 2021 - Dec 2021 (11 sessions). Breaking the Language Barrier in English (A2+/B1).
+  - Apr 2021 - Oct 2021 (40 sessions). Business English (A2+/B1).
+  - Mar 2021 - May 2022 (10 sessions). English Speaking Club (B1/B2/C1/C2).
 
 #### LinkedIn Learning. Completed 17 self-study courses:
 
+  - Aug 2023. [Creating Your First Spring Boot Microservice](https://www.linkedin.com/learning/creating-your-first-spring-boot-microservice)
+    with my [repository](https://github.com/Yevhen-Tkachenko-1/Spring-Boot-Demo-Microservice-with-MongoDB) for exercises.
   - Apr 2023. [Learning REST APIs](https://www.linkedin.com/learning/learning-rest-apis).
   - Mar 2023. [SQL vs NoSQL: Which Database Type Is Right for You?](https://www.linkedin.com/learning/sql-vs-nosql-which-database-type-is-right-for-you).
   - Sep 2022. [Spring Boot 2.0 Essential Training](https://www.linkedin.com/learning/spring-boot-2-0-essential-training-2).
