@@ -21,14 +21,14 @@ Here we go:
 
 ![picture](resources/pictures/memes/Meme-Software-Engineer.PNG)
 
-Having **Java** as a primary skill, I‘ve been doing commercial development for **5 years** so far.
+Having **Java** as a primary skill, I've been doing commercial development for **5 years** so far.
 Working on Backend, REST API, Frontend, Cloud, Desktop apps,
-I‘ve got experience with such **skills** as Java 8, JavaEE, Spring, AWS, SQL, JavaFX, Git, Scrum, Windows.
+I've got experience with such **skills** as Java 8, JavaEE, Spring, AWS, SQL, JavaFX, Git, Scrum, Windows.
 I've come across different **stages** of development such as Research, Software Design, Implementation, Testing, Deployment.
 In addition to development itself, I had wide range of responsibilities: from Requirements Clarification to Product Release.
 
-Thanks to fluent **English** and good soft skills, I‘m an efficient **Team Player** even in case of international teams.
-In fact, I’ve been communicating with foreign colleagues and stakeholders for more than 2 years already.
+Thanks to fluent **English** and good soft skills, I'm an efficient **Team Player** even in case of international teams.
+In fact, I've been communicating with foreign colleagues and stakeholders for more than 2 years already.
 I consider myself as a responsible person and also take care about others.
 I have production experience of **Team Leading** and was a Mentor for education programs.
 Personally, I'm happy to share experience and help others. Colleagues often ask me for advice.
@@ -137,7 +137,7 @@ Cases where I organized and supported processes for work and education:
 
 #### EPAM Educational Programs
 
-Was a Mentor in 2 Pre-Production programs:
+Mentor in Pre-Production programs:
 
 - Jul 2022 - Oct 2022. \[RD Java Lab Summer 2022\]. Supported 5 students.
 - Oct 2021 - Feb 2022. \[RD Java Lab Autumn 2021\]. Supported 2 students. 
@@ -170,17 +170,17 @@ Working on hard and soft skills, I have next achievements so far:
   - Apr 2021 - Oct 2021 (40 sessions). Business English (A2+/B1).
   - Mar 2021 - May 2022 (10 sessions). English Speaking Club (B1/B2/C1/C2).
 
-#### LinkedIn Learning. Completed 17 self-study courses:
+#### LinkedIn Learning. Completed 18 self-study courses:
 
   - Aug 2023. [Creating Your First Spring Boot Microservice](https://www.linkedin.com/learning/creating-your-first-spring-boot-microservice)
     with my [repository](https://github.com/Yevhen-Tkachenko-1/Spring-Boot-Demo-Microservice-with-MongoDB) for exercises.
   - Apr 2023. [Learning REST APIs](https://www.linkedin.com/learning/learning-rest-apis).
-  - Mar 2023. [SQL vs NoSQL: Which Database Type Is Right for You?](https://www.linkedin.com/learning/sql-vs-nosql-which-database-type-is-right-for-you).
+  - Mar 2023. [SQL vs NoSQL: Which Database Type Is Right for You?](https://www.linkedin.com/learning/sql-vs-nosql-which-database-type-is-right-for-you)
   - Sep 2022. [Spring Boot 2.0 Essential Training](https://www.linkedin.com/learning/spring-boot-2-0-essential-training-2).
   - Sep 2022. [Learning Spring with Spring Boot](https://www.linkedin.com/learning/learning-spring-with-spring-boot-13886371)
     with my [repository](https://github.com/Yevhen-Tkachenko-1/Spring-Boot-Demo-Application) for exercises.
   - Sep 2022. [Git: Branches, Merges, and Remotes](https://www.linkedin.com/learning/git-branches-merges-and-remotes).
-  - Aug 2022. [AWS Essential Training for Developers](https://www.linkedin.com/learning/aws-essential-training-for-developers-2019)
+  - Aug 2022. [AWS Essential Training for Developers](https://www.linkedin.com/learning/aws-essential-training-for-developers-2019).
   - Aug 2022. [Git Essential Training: The Basics](https://www.linkedin.com/learning/git-essential-training-the-basics-2019).
   - Jul 2022. [Java EE: Servlets and JavaServer Pages (JSP)](https://www.linkedin.com/learning/java-ee-servlets-and-javaserver-pages-jsp).
   - Nov 2021. [Learning Terraform](https://www.linkedin.com/learning/learning-terraform-2020).

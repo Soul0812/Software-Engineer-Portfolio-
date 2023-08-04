@@ -10,7 +10,4 @@ Challenges with supporting multi-component app and it's infrastructure:
 
 ### 2021 - My first Cloud Development
 
-Challenges with AWS components selection, configuration and deployment:
-- POC
-- Local and remote testing
-- Deployment automation
+Challenges with Cloud Microservice development: AWS components selection, configuration, integration and deployment.

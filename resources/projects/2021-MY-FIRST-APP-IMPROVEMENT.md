@@ -1,6 +1,6 @@
 ### 2021 - My first App Improvement
 
-![](../pictures/projects/AWS-Lambda-Pipeline.PNG)
+![picture](../pictures/projects/AWS-Lambda-Pipeline.PNG)
 
 There was automated Cloud Pipeline which had final element as **AWS Lambda** function written in Java.
 AWS Lambda was a complex one which parses custom events, works with PostgreSQL and InfluxDB, calls other services by HTTP, 

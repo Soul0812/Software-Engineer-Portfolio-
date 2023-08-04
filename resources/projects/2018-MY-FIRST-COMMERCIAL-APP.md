@@ -1,5 +1,5 @@
 ### 2018 - My first Commercial App
-![](../pictures/OKO/Quadcopter-Radar.jpg)
+![picture](../pictures/projects/OKO/Quadcopter-Radar.jpg)
 
 There was **need** to test a Radar Station.
 For this, was used a Quadcopter which collects flight logs as binary files. 
