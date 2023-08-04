@@ -137,15 +137,15 @@ Cases where I organized and supported processes for work and education:
 
 #### EPAM Educational Programs
 
-Mentor in Pre-Production programs:
+Was a Mentor in Pre-Production programs:
 
 - Jul 2022 - Oct 2022. \[RD Java Lab Summer 2022\]. Supported 5 students.
 - Oct 2021 - Feb 2022. \[RD Java Lab Autumn 2021\]. Supported 2 students. 
 
-I was organizing one-to-one sessions with Mentee to discuss task requirements and implementation way, 
-Q&A, progress update, task acceptance.<br>
-Also, as offline activities, I had support chat with Mentee, was doing code review and testing app on my local.<br>
-Finally, I provided the Program Head with feedback on the Mentee performance.
+Mentor support includes organizing one-to-one sessions with Mentee to discuss task requirements and implementation way, 
+Q&A, progress update, task acceptance.
+Also, there is direct support chat, regular code review and app testing.
+Finally, Mentor provides the Program Head with feedback on the Mentee performance.
 
 #### Math Teaching
 
