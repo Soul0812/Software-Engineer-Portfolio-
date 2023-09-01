@@ -170,8 +170,10 @@ Working on hard and soft skills, I have next achievements so far:
   - Apr 2021 - Oct 2021 (40 sessions). Business English (A2+/B1).
   - Mar 2021 - May 2022 (10 sessions). English Speaking Club (B1/B2/C1/C2).
 
-#### LinkedIn Learning. Completed 18 self-study courses:
+#### LinkedIn Learning. Completed 20 self-study courses:
 
+  - Aug 2023. [Learning Docker](https://www.linkedin.com/learning/learning-docker-17236240)
+  - Aug 2023. [SQL Essential Training](https://www.linkedin.com/learning/sql-essential-training-20685933)
   - Aug 2023. [Creating Your First Spring Boot Microservice](https://www.linkedin.com/learning/creating-your-first-spring-boot-microservice)
     with my [repository](https://github.com/Yevhen-Tkachenko-1/Spring-Boot-Demo-Microservice-with-MongoDB) for exercises.
   - Apr 2023. [Learning REST APIs](https://www.linkedin.com/learning/learning-rest-apis).
