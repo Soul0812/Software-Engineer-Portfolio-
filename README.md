@@ -170,8 +170,9 @@ Working on hard and soft skills, I have next achievements so far:
   - Apr 2021 - Oct 2021 (40 sessions). Business English (A2+/B1).
   - Mar 2021 - May 2022 (10 sessions). English Speaking Club (B1/B2/C1/C2).
 
-#### LinkedIn Learning. Completed 21 self-study courses:
+#### LinkedIn Learning. Completed 22 self-study courses:
 
+  - Sep 2023. [Microsoft Azure Fundamentals](https://www.linkedin.com/learning/exam-prep-microsoft-azure-fundamentals-az-900-2020)
   - Sep 2023. [Learning Kubernetes](https://www.linkedin.com/learning/learning-kubernetes-16086900)
   - Aug 2023. [Learning Docker](https://www.linkedin.com/learning/learning-docker-17236240)
   - Aug 2023. [SQL Essential Training](https://www.linkedin.com/learning/sql-essential-training-20685933)
