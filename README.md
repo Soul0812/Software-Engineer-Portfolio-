@@ -170,8 +170,10 @@ Working on hard and soft skills, I have next achievements so far:
   - Apr 2021 - Oct 2021 (40 sessions). Business English (A2+/B1).
   - Mar 2021 - May 2022 (10 sessions). English Speaking Club (B1/B2/C1/C2).
 
-#### LinkedIn Learning. Completed 24 self-study courses:
+#### LinkedIn Learning. Completed 26 self-study courses:
 
+  - Sep 2023. [Spring 5.0 and Spring Boot 2.0 New Features](https://www.linkedin.com/learning/spring-5-0-and-spring-boot-2-0-new-features)
+  - Sep 2023. [Spring: Spring Data 2](https://www.linkedin.com/learning/spring-spring-data-2-2017)
   - Sep 2023. [AWS for Developers: SNS, SQS, and SWF](https://www.linkedin.com/learning/aws-for-developers-sns-sqs-and-swf)
   - Sep 2023. [Advanced Spring: Effective Integration Testing with Spring Boot](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot)
   - Sep 2023. [Microsoft Azure Fundamentals](https://www.linkedin.com/learning/exam-prep-microsoft-azure-fundamentals-az-900-2020)
