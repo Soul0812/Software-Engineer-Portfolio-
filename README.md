@@ -22,16 +22,16 @@ Here we go:
 ![picture](resources/pictures/memes/Meme-Software-Engineer.PNG)
 
 Having **Java** as a primary skill, I've been doing commercial development for **5 years** so far.
-Working on Backend, REST API, Frontend, Cloud, Desktop apps,
-I've got experience with such **skills** as Java 8, JavaEE, Spring, AWS, SQL, JavaFX, Git, Scrum, Windows.
-I've come across different **stages** of development such as Research, Software Design, Implementation, Testing, Deployment.
-In addition to development itself, I had wide range of responsibilities: from Requirements Clarification to Product Release.
+I worked on different apps such as Backend, REST API, Cloud, Frontend, Desktop.
+There I've got considerable experience with Java 8, JavaEE, Spring, AWS, SQL, NoSQL, JavaFX, Git, Windows.
+I'm pretty good at Full Cycle development as worked at different **stages** of development: 
+Technical Research, Software Design, Implementation, Testing, Deployment.
 
-Thanks to fluent **English** and good soft skills, I'm an efficient **Team Player** even in case of international teams.
+Thanks to fluent **English** and good soft skills, I'm an efficient Team Player even in case of international teams.
 In fact, I've been communicating with foreign colleagues and stakeholders for more than 2 years already.
-I consider myself as a responsible person and also take care about others.
-I have production experience of **Team Leading** and was a Mentor for education programs.
-Personally, I'm happy to share experience and help others. Colleagues often ask me for advice.
+I consider myself as a responsible person and also can take care about others: have production experience of **Team Leading** and was a Mentor for education programs.
+Personally, I'm happy to share experience and help others and colleagues feel free to contact me.
+In addition to team work, I got deserving experience working as a Key Developer independently.
 
 I'm always open to **feedback** about my work. 
 On each project, my professional and personal qualities met or even exceeded expectations.
@@ -142,10 +142,12 @@ Was a Mentor in Pre-Production programs:
 - Jul 2022 - Oct 2022. \[RD Java Lab Summer 2022\]. Supported 5 students.
 - Oct 2021 - Feb 2022. \[RD Java Lab Autumn 2021\]. Supported 2 students. 
 
-Mentor support includes organizing one-to-one sessions with Mentee to discuss task requirements and implementation way, 
-Q&A, progress update, task acceptance.
-Also, there is direct support chat, regular code review and app testing.
-Finally, Mentor provides the Program Head with feedback on the Mentee performance.
+Educational program consists of theoretical lectures and practical tasks.
+During task completion each Mentee is assigned to specific Mentor.
+That time Mentor supports students by organizing one-to-one sessions to discuss 
+task requirements and implementation way, answer questions, check progress, accept tasks.
+Also, there is offline support using chatting, regular code review and app local testing.
+Finally, Mentor provides feedback on the Mentees performance.
 
 #### Math Teaching
 
@@ -156,10 +158,11 @@ Finally, Mentor provides the Program Head with feedback on the Mentee performanc
 
 ![picture](resources/pictures/memes/Meme-Self-Education.PNG)
 
-Working on hard and soft skills, I have next achievements so far:
+Working on my hard and soft skills, have next achievements so far:
 
-#### EPAM English classes. Completed 9 live trainings:
+#### EPAM English classes. Completed 10 live trainings:
 
+  - Jul 2023 - Sep 2023 (20 sessions). Presenting in English (B1+/B2/B2+).
   - Apr 2023 - Jul 2023 (26 sessions). English for Virtual Communication (B1+/B2/B2+).
   - Oct 2022 - Apr 2023 (41 sessions). Business English (B1+/B2).
   - Sep 2022 - Nov 2022 (17 sessions). IT Grammar in English (B1+/B2).
@@ -245,10 +248,10 @@ Even when building large app from scratch, you need to define the architecture a
 that is also beneficial only in long term run.
 
 Such commitment also has other side.
-That's great if on your project you always have opportunities and space to grow.
+That's great if you are always excited about work you do.
 However, at some projects, at some point (for example in 2 years of development),
-you may find yourself doing the same job day-to-day, and it can't be changed.
-In such situations I would consider to switch to another project.
+you may find yourself doing the same job day-to-day with no opportunity to grow.
+In case this can't be changed due to project limitations I would consider to switch to another project.
 
 I realize importance and risks of such decision for myself, my current project and future project.
 In such cases, first of all, I talk about my concerns with project managers.
