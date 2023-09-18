@@ -22,8 +22,8 @@ Here we go:
 ![picture](resources/pictures/memes/Meme-Software-Engineer.PNG)
 
 Having **Java** as a primary skill, I've been doing commercial development for **5 years** so far.
-I worked on different apps such as Backend, REST API, Cloud, Frontend, Desktop.
-There I've got considerable experience with Java 8, JavaEE, Spring, AWS, SQL, NoSQL, JavaFX, Git, Windows.
+During this time I've come across different apps such as Backend, REST API, Cloud, Frontend, Desktop.
+Working on these apps, I've got considerable experience with Java 8, JavaEE, Spring, AWS, SQL, NoSQL, JavaFX, Git, Windows.
 Regarding responsibilities, I'm familiar with all the main stages of engineering.
 Working on Technical Research, Software Design, Implementation, Testing, Deployment,
 I showed quite efficient work on the Full Cycle development.
@@ -101,9 +101,15 @@ Currently, I'm recognized as a Senior and for the future I plan to take Lead Sof
 
 Overview of the most challenging tasks, taken actions and achieved results:
 
+#### 2021 - My first Cloud Development
+
+Challenges with AWS-based Microservice development:<br>
+POC, refactoring, end-to-end testing, deployment automation.<br>
+Please, visit [this page](resources/projects/2021-MY-FIRST-CLOUD-DEVELOPMENT.md) for details.
+
 #### 2021 - My first App Improvement
 
-Challenges with app improvement to make it ready for production:<br>
+Challenges with app support to release first stable version:<br>
 Bug Fixing, Codebase Refactoring, Extension, Local Testing, Remote Debug, Knowledge Transfer.<br>
 Please, visit [this page](resources/projects/2021-MY-FIRST-APP-IMPROVEMENT.md) for details.
 
