@@ -24,14 +24,15 @@ Here we go:
 Having **Java** as a primary skill, I've been doing commercial development for **5 years** so far.
 I worked on different apps such as Backend, REST API, Cloud, Frontend, Desktop.
 There I've got considerable experience with Java 8, JavaEE, Spring, AWS, SQL, NoSQL, JavaFX, Git, Windows.
-I'm pretty good at Full Cycle development as worked at different **stages** of development: 
-Technical Research, Software Design, Implementation, Testing, Deployment.
+Regarding responsibilities, I'm familiar with all the main stages of engineering.
+Working on Technical Research, Software Design, Implementation, Testing, Deployment,
+I showed quite efficient work on the Full Cycle development.
 
 Thanks to fluent **English** and good soft skills, I'm an efficient Team Player even in case of international teams.
 In fact, I've been communicating with foreign colleagues and stakeholders for more than 2 years already.
-I consider myself as a responsible person and also can take care about others: have production experience of **Team Leading** and was a Mentor for education programs.
-Personally, I'm happy to share experience and help others and colleagues feel free to contact me.
-In addition to team work, I got deserving experience working as a Key Developer independently.
+I consider myself as a responsible person and also can take care about others. 
+I have production experience of **Team Leading** and was a Mentor for education programs.
+In addition to team work, I have more than 2 years of independent work as a **Key Developer**.
 
 I'm always open to **feedback** about my work. 
 On each project, my professional and personal qualities met or even exceeded expectations.
