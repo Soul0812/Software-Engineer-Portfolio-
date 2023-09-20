@@ -2,7 +2,7 @@
 
 ![picture](../pictures/memes/Meme-Skills.jpg)
 
-Table of hard skills with level of experience and time of project work.
+Table of hard skills with level of experience and time of project work:
 
 |                       | Skill              |  Level&ast;  | Project work |
 |:----------------------|:-------------------|:------------:|:------------:|
@@ -19,6 +19,8 @@ Table of hard skills with level of experience and time of project work.
 | **Development Areas** | **Backend**        |   advanced   |  2.5 years   |
 |                       | **Desktop**        |   advanced   |   2 years    |
 |                       | **Cloud**          | intermediate |  1.5 years   |
+|                       | **Microservices**  | intermediate |    1 year    |
+|                       | **Monoliths**      | intermediate |    1 year    |
 |                       | **REST API**       | intermediate |    1 year    |
 |                       | **Fullstack**      |    entry     |   6 months   |
 |                       | **Frontend**       |    entry     |   6 months   |
@@ -54,8 +56,8 @@ Table of hard skills with level of experience and time of project work.
 |                       | **UI/UX**          | intermediate |  1.5 years   |
 |                       | **2D/3D graphics** | intermediate |    1 year    |
 |                       | **JSON/XML**       | intermediate |    1 year    |
-|                       | **AngularJS 2**    |    entry     |   6 months   |
 |                       | **HTML/CSS**       |    entry     |   6 months   |
+|                       | **AngularJS 2**    |    entry     |   6 months   |
 |                       | **Vue.js**         |    entry     |   2 months   |
 |                       |                    |              |              |
 | **Testing**           | **JUnit**          |   advanced   |   3 years    |
@@ -84,13 +86,13 @@ Table of hard skills with level of experience and time of project work.
 |                       | **Linux**          |    entry     |   2 months   |
 
 &ast; used next levels to evaluate skill mastery:
-- **Theoretical** - limited by self-education and non-project development.
+- **theoretical** - limited by self-education and non-project work.
   Able to work in slow pace with help of documentation and colleagues.
-- **Entry** - several months of project work with basic theoretical knowledge.
+- **entry** - several months of project work with basic theoretical knowledge.
   Able to work in moderate pace with help of documentation and peers review.
-- **Intermediate** - about year of project work with good theoretical knowledge.
+- **intermediate** - about year of project work with good theoretical knowledge.
   Able to work in a regular pace independently.
-- **Advanced** - several years of project work with wide theoretical knowledge.
+- **advanced** - several years of project work with wide theoretical knowledge.
   Able to work in fast pace and ready to consult others.
-- **Expert** - several years of project work with wide and deep theoretical knowledge.
+- **expert** - several years of project work with wide and deep theoretical knowledge.
   Able to work in fast pace and free to consult others.
