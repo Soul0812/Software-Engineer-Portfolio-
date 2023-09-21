@@ -44,7 +44,7 @@ Currently, I'm recognized as a Senior and for the future I plan to take Lead Sof
 
 ![picture](resources/pictures/memes/Meme-Feedback.jpg)
 
-Table provides context. In order to see actual Feedbacks follow links:
+The Table provides context. In order to see actual Feedbacks as an Images follow links:
 
 |              Date |     Company     |                               Feedback Link                                | Reviewers                                                                                   | Description                                  |
 |------------------:|:---------------:|:--------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------|----------------------------------------------|
