@@ -44,58 +44,27 @@ Currently, I'm recognized as a Senior and for the future I plan to take Lead Sof
 
 ![picture](resources/pictures/memes/Meme-Feedback.jpg)
 
-#### EPAM Systems
-  - March 2023. 
-    [Customer Feedback](resources/pictures/feedbacks/2023-March-EPAM-Summary-Feedback-from-Customers.PNG)<br>
-    *Description:* 
-    Half-year summary as part of constant feedback process. 
-    Collected from **Product Owner**, **Scrum Master** (customer side) and **Delivery Manager** (EPAM side) feedbacks.
-    According to my Resource Manager (who shared more details in person), 
-    feedbacks were quite positive and customers appreciated my contribution.
-    As a result, I was paid an extra bonus.
+Table provides context. In order to see actual Feedbacks follow links:
+
+|           Date |   Company    |                               Feedback Link                                | Reviewers                                                                                       | Description                                   |        Represented by        |
+|---------------:|:------------:|:--------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------|-----------------------------------------------|:----------------------------:|
+| September 2023 | EPAM Systems |                  [Half-year Feedback Summary][F-sep-2023]                  | Product Owner (customer)<br>Team Lead (customer)<br>Scrum Master (customer)<br>Tech Lead (EPAM) | Summing up the entire work path on a project. |     Relative points only     |
+|     March 2023 | EPAM Systems |                  [Half-year Feedback Summary][F-mar-2023]                  | Product Owner (customer)<br>Team Lead (customer)<br>Scrum Master (customer)<br>Tech Lead (EPAM) | As part of constant feedback process.         |     Relative points only     |
+| September 2022 | EPAM Systems |                  [Half-year Feedback Summary][F-sep-2022]                  | Product Owner (customer)<br>Team Lead (customer)<br>Scrum Master (customer)<br>Tech Lead (EPAM) | As part of constant feedback process.         | Relative points<br>Free text |
+|      June 2022 | EPAM Systems | [Level-up Feedback 1][F-jun-2022-1]<br>[Level-up Feedback 2][F-jun-2022-2] | Team Lead (EPAM)<br>Tech Lead (EPAM)                                                            | As part of LevelUp assessment preparation.    | Free text<br>Relative points |
+|      June 2021 | EPAM Systems |                      [Half-year Feedback][F-jun-2021]                      | Team Lead (EPAM)                                                                                | As part of constant feedback process.         | Free text<br>Relative points |
+|   January 2021 | EPAM Systems |                        [Quit Feedback][F-jan-2021]                         | Developer (EPAM)                                                                                | Summing up the entire work path on a project. | Free text<br>Relative points |
+| September 2020 |    RINANU    |                        [Quit Feedback][F-sep-2020]                         | Project Manager (RINANU)                                                                        | Summing up the entire work path on a project. |          Free text           |
+
+[F-sep-2023]: resources/pictures/feedbacks/2023-September-EPAM-Summary-Feedback-from-Customers.PNG
+[F-mar-2023]: resources/pictures/feedbacks/2023-March-EPAM-Summary-Feedback-from-Customers.PNG
+[F-sep-2022]: resources/pictures/feedbacks/2022-September-EPAM-Summary-Feedback-from-Customers.PNG
+[F-jun-2022-1]: resources/pictures/feedbacks/2022-EPAM-LevelUp-Feedback-from-TeamLead.PNG
+[F-jun-2022-2]: resources/pictures/feedbacks/2022-EPAM-LevelUp-Feedback-from-TechLead.PNG
+[F-jun-2021]: resources/pictures/feedbacks/2021-June-Simple-Project-Feedback-from-TeamLead.PNG
+[F-jan-2021]: resources/pictures/feedbacks/2021-January-Simple-Project-Feedback-from-Dev.PNG
+[F-sep-2020]: resources/pictures/feedbacks/2020-September-RINANU-Quit-Project-Feedback-from-ProjectManager.PNG
   
-  - September 2022. 
-    [Customer Feedback](resources/pictures/feedbacks/2022-September-EPAM-Summary-Feedback-from-Customers.PNG)<br>
-    *Description:* 
-    Half-year summary as part of constant feedback process.
-    Collected from **Product Owner**, **Scrum Master**, **Tech Lead** (customer side) feedbacks.
-    General impression is good: I did great job and also had some points to improve.
-  
-  - June 2022. 
-    [Level-up Feedback 1](resources/pictures/feedbacks/2022-EPAM-LevelUp-Feedback-from-TeamLead.PNG) 
-    and [Level-up Feedback 2](resources/pictures/feedbacks/2022-EPAM-LevelUp-Feedback-from-TechLead.PNG)<br>
-    *Description*: 
-    Part of assessment preparation. When I was applying for Senior level, 
-    I asked **Team Lead** and **Tech Lead** (EPAM side) for feedback.
-    This helped assessment committee to decide whether I'm ready to be promoted.
-    According to these feedbacks I was recognized as a Senior.
-    Finally, I got promoted.
-
-  - June 2021. 
-    [Project Feedback](resources/pictures/feedbacks/2021-June-Simple-Project-Feedback-from-TeamLead.PNG)<br>
-    *Description:* 
-    Half-year simple one as part of constant feedback process.
-    Asked current project **Team Lead** (EPAM side).
-    Summing up, I was recognized as an excellent Key Developer and good Team Player.
-  
-  - January 2021. 
-    [Project Feedback](resources/pictures/feedbacks/2021-January-Simple-Project-Feedback-from-Dev.PNG)<br>
-    *Description:* 
-    Simple one as part of constant feedback process.
-    Asked current project **Developer** (EPAM side) where I played Lead Developer role.
-    That time, I didn't follow some coding best practices.
-    In general, I was friendly Lead and quite effective Developer at the same time.
-
-#### Institute of Radio Astronomy
-
-  - September 2020. 
-    [Quit Project Feedback](resources/pictures/feedbacks/2020-September-RINANU-Quit-Project-Feedback-from-ProjectManager.PNG)<br>
-    *Description:* 
-    Quit feedback to sum up the entire work path on a project. 
-    Asked **Project Manager** with whom I worked most of the time.
-    There are original and English versions.
-    Leaving this project, I left successfully implemented application as well as positive impression about myself.
-
 # Project Challenges
 
 ![picture](resources/pictures/memes/Meme-Star-Technique.jpg)
