@@ -248,18 +248,18 @@ Working on my hard and soft skills, have next achievements so far:
 
 #### EPAM English classes. Completed 10 live trainings:
 
-|        Period        |  Attendance | Course Name                    | Level       |
-|:--------------------:|------------:|:-------------------------------|:------------|
-| Jul 2023 - Sep 2023  | 20 sessions | Presenting and Public Speaking | B1+/B2/B2+  |
-| Apr 2023 - Jul 2023  | 26 sessions | Virtual Communication          | B1+/B2/B2+  |
-| Oct 2022 - Apr 2023  | 41 sessions | Business Communication         | B1+/B2      |
-| Sep 2022 - Nov 2022  | 17 sessions | IT Grammar                     | B1+/B2      |
-| Jun 2022 - Jul 2022  |  8 sessions | Small Talks                    | B1/B1+      |
-| Mar 2022 - Jul 2022  | 17 sessions | IT Grammar                     | A2+/B1      |
-| Jan 2022 - Feb 2022  | 10 sessions | Project Interviews             | A2+/B1/B1+  |
-| Nov 2021 - Dec 2021  | 11 sessions | Breaking the Language Barrier  | A2+/B1      |
-| Apr 2021 - Oct 2021  | 40 sessions | Business Communication         | A2+/B1      |
-| Mar 2021 - May 2022  | 10 sessions | Speaking Club                  | B1/B2/C1/C2 |
+|    Start |      End | Course Name                    | Level       |  Attendance |
+|---------:|---------:|:-------------------------------|:------------|------------:|
+| Jul 2023 | Sep 2023 | Presenting and Public Speaking | B1+/B2/B2+  | 20 sessions |
+| Apr 2023 | Jul 2023 | Virtual Communication          | B1+/B2/B2+  | 26 sessions |
+| Oct 2022 | Apr 2023 | Business Communication         | B1+/B2      | 41 sessions |
+| Sep 2022 | Nov 2022 | IT Grammar                     | B1+/B2      | 17 sessions |
+| Jun 2022 | Jul 2022 | Small Talks                    | B1/B1+      |  8 sessions |
+| Mar 2022 | Jul 2022 | IT Grammar                     | A2+/B1      | 17 sessions |
+| Jan 2022 | Feb 2022 | Project Interviews             | A2+/B1/B1+  | 10 sessions |
+| Nov 2021 | Dec 2021 | Breaking the Language Barrier  | A2+/B1      | 11 sessions |
+| Apr 2021 | Oct 2021 | Business Communication         | A2+/B1      | 40 sessions |
+| Mar 2021 | May 2022 | Speaking Club                  | B1/B2/C1/C2 | 10 sessions |
 
 #### LinkedIn Learning. Completed 27 self-study courses:
 
