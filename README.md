@@ -6,9 +6,7 @@
 
 The portfolio is created for any interested IT specialist such as Researcher, Recruiter, HR, PM or Technical Specialist.<br>
 The portfolio shows interesting facts about my programming experience and personal qualities.<br>
-The portfolio consists of additional topics which are NOT included in my CV.
-
-Here we go:
+The portfolio consists of additional topics which are NOT included in my CV:
 
 - [About](#about)
 - [Project Feedbacks](#project-feedbacks)
