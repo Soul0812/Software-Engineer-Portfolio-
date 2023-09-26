@@ -425,3 +425,7 @@ Some tips and approaches for programmers that I noticed and personally found use
   Advice is quite simple but helped me a lot.
   Most recordings have good quality, so it's possible to speed up playback to 1.5 without losing understanding.
   With this my learning becomes faster and as a result, I feel comfortable to continue learning this way.
+
+# Thanks for attention!
+
+Page is up-to-date for September 2023
