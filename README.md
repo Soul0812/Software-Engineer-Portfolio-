@@ -249,20 +249,30 @@ Working on my hard and soft skills, have next achievements so far:
 
 #### EPAM English classes. Completed 10 live trainings:
 
-|    Start |      End | Course Name                    | Level       |  Attendance |
-|---------:|---------:|:-------------------------------|:------------|------------:|
-| Jul 2023 | Sep 2023 | Presenting and Public Speaking | B1+/B2/B2+  | 20 sessions |
-| Apr 2023 | Jul 2023 | Virtual Communication          | B1+/B2/B2+  | 26 sessions |
-| Oct 2022 | Apr 2023 | Business Communication         | B1+/B2      | 41 sessions |
-| Sep 2022 | Nov 2022 | IT Grammar                     | B1+/B2      | 17 sessions |
-| Jun 2022 | Jul 2022 | Small Talks                    | B1/B1+      |  8 sessions |
-| Mar 2022 | Jul 2022 | IT Grammar                     | A2+/B1      | 17 sessions |
-| Jan 2022 | Feb 2022 | Project Interviews             | A2+/B1/B1+  | 10 sessions |
-| Nov 2021 | Dec 2021 | Breaking the Language Barrier  | A2+/B1      | 11 sessions |
-| Apr 2021 | Oct 2021 | Business Communication         | A2+/B1      | 40 sessions |
-| Mar 2021 | May 2022 | Speaking Club                  | B1/B2/C1/C2 | 10 sessions |
+|    Start |      End | Course Name                    | Level       | Lessons |
+|---------:|---------:|:-------------------------------|:------------|--------:|
+| Jul 2023 | Sep 2023 | Presenting and Public Speaking | B1+/B2/B2+  |      20 |
+| Apr 2023 | Jul 2023 | Virtual Communication          | B1+/B2/B2+  |      26 |
+| Oct 2022 | Apr 2023 | Business Communication         | B1+/B2      |      41 |
+| Sep 2022 | Nov 2022 | IT Grammar                     | B1+/B2      |      17 |
+| Jun 2022 | Jul 2022 | Small Talks                    | B1/B1+      |       8 |
+| Mar 2022 | Jul 2022 | IT Grammar                     | A2+/B1      |      17 |
+| Jan 2022 | Feb 2022 | Project Interviews             | A2+/B1/B1+  |      10 |
+| Nov 2021 | Dec 2021 | Breaking the Language Barrier  | A2+/B1      |      11 |
+| Apr 2021 | Oct 2021 | Business Communication         | A2+/B1      |      40 |
+| Mar 2021 | May 2022 | Speaking Club                  | B1/B2/C1/C2 |      10 |
 
 #### LinkedIn Learning. Completed 27 self-study courses:
+
+| Completed | Course                                                                                                                                                              |                                      Personal Repo                                      |     Level     |                                      Certificate                                       |
+|----------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------:|:-------------:|:--------------------------------------------------------------------------------------:|
+|  Sep 2023 | [Java Database Access with Hibernate](https://www.linkedin.com/learning/java-database-access-with-hibernate)                                                        |                                                                                         | Intermediate  | [Details](resources/certificates/Parallel and Concurrent Programming with Java 1.pdf)  |
+|  Sep 2023 | [Spring 5.0 and Spring Boot 2.0 New Features](https://www.linkedin.com/learning/spring-5-0-and-spring-boot-2-0-new-features)                                        | [Demo & Exercises](https://github.com/Yevhen-Tkachenko-1/Spring-Boot-Demo-Application)  | Intermediate  | [Details](resources/certificates/Parallel and Concurrent Programming with Java 1.pdf)  |
+|  Sep 2023 | [Spring: Spring Data 2](https://www.linkedin.com/learning/spring-spring-data-2-2017)                                                                                | [Demo & Exercises](https://github.com/Yevhen-Tkachenko-1/Spring-Boot-Demo-Application)  | Intermediate  | [Details](resources/certificates/Parallel and Concurrent Programming with Java 1.pdf)  |
+|  Sep 2023 | [AWS for Developers: SNS, SQS, and SWF](https://www.linkedin.com/learning/aws-for-developers-sns-sqs-and-swf)                                                       |                                                                                         |   Advanced    | [Details](resources/certificates/Parallel and Concurrent Programming with Java 1.pdf)  |
+|  Sep 2023 | [Advanced Spring: Effective Integration Testing with Spring Boot](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot) | [Demo & Exercises](https://github.com/Yevhen-Tkachenko-1/Spring-Boot-Demo-Application)  |   Advanced    | [Details](resources/certificates/Parallel and Concurrent Programming with Java 1.pdf)  |
+|  Sep 2023 | [Microsoft Azure Fundamentals](https://www.linkedin.com/learning/exam-prep-microsoft-azure-fundamentals-az-900-2020)                                                |                                                                                         |   Beginner    | [Details](resources/certificates/Parallel and Concurrent Programming with Java 1.pdf)  |
+|  Sep 2023 | [Learning Kubernetes](https://www.linkedin.com/learning/learning-kubernetes-16086900)                                                                               |                                                                                         | Intermediate  | [Details](resources/certificates/Parallel and Concurrent Programming with Java 1.pdf)  |
 
   - Sep 2023. [Java Database Access with Hibernate](https://www.linkedin.com/learning/java-database-access-with-hibernate)
   - Sep 2023. [Spring 5.0 and Spring Boot 2.0 New Features](https://www.linkedin.com/learning/spring-5-0-and-spring-boot-2-0-new-features)
