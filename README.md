@@ -219,8 +219,8 @@ Cases where I organized and supported processes for work and education:
 
 #### Project Team Leading
 
-- Oct 2021 - Dec 2021. Lead Developer on a 3-month project.<br>
-  Organized work in a team of 3 developers. Was in charge of work planning, meeting holding, development support.
+- Oct 2021 - Dec 2021. Lead Developer in a team of 3 developers.<br>
+  Was in charge of work planning, meeting holding, development support.
 
 #### EPAM Educational Programs
 
@@ -249,86 +249,106 @@ Working on my hard and soft skills, have next achievements so far:
 
 #### EPAM English classes. Completed 10 live trainings:
 
-|    Start |      End | Course Name                    | Level       | Lessons |
-|---------:|---------:|:-------------------------------|:------------|--------:|
-| Jul 2023 | Sep 2023 | Presenting and Public Speaking | B1+/B2/B2+  |      20 |
-| Apr 2023 | Jul 2023 | Virtual Communication          | B1+/B2/B2+  |      26 |
-| Oct 2022 | Apr 2023 | Business Communication         | B1+/B2      |      41 |
-| Sep 2022 | Nov 2022 | IT Grammar                     | B1+/B2      |      17 |
-| Jun 2022 | Jul 2022 | Small Talks                    | B1/B1+      |       8 |
-| Mar 2022 | Jul 2022 | IT Grammar                     | A2+/B1      |      17 |
-| Jan 2022 | Feb 2022 | Project Interviews             | A2+/B1/B1+  |      10 |
-| Nov 2021 | Dec 2021 | Breaking the Language Barrier  | A2+/B1      |      11 |
-| Apr 2021 | Oct 2021 | Business Communication         | A2+/B1      |      40 |
-| Mar 2021 | May 2022 | Speaking Club                  | B1/B2/C1/C2 |      10 |
+| Completed | Name                               | Level       |    Efforts |  Duration |
+|----------:|:-----------------------------------|:------------|-----------:|----------:|
+|  Sep 2023 | **Presenting and Public Speaking** | B1+/B2/B2+  | 20 lessons |  3 months |
+|  Jul 2023 | **Virtual Communication**          | B1+/B2/B2+  | 26 lessons |  4 months |
+|  Apr 2023 | **Business Communication**         | B1+/B2      | 41 lessons |  7 months |
+|  Nov 2022 | **IT Grammar**                     | B1+/B2      | 17 lessons |  3 months |
+|  Jul 2022 | **Small Talks**                    | B1/B1+      |  8 lessons |  2 months |
+|  Jul 2022 | **IT Grammar**                     | A2+/B1      | 17 lessons |  4 months |
+|  May 2022 | **Speaking Club**                  | B1/B2/C1/C2 | 10 lessons |  3 months |
+|  Feb 2022 | **Project Interviews**             | A2+/B1/B1+  | 10 lessons |  2 months |
+|  Dec 2021 | **Breaking the Language Barrier**  | A2+/B1      | 11 lessons |  2 months |
+|  Oct 2021 | **Business Communication**         | A2+/B1      | 40 lessons |  7 months |
+
+#### EPAM Learning. Completed 4 trainings:
+
+| Completed | Name                                | Type                |   Efforts | Acceptance    |
+|----------:|:------------------------------------|:--------------------|----------:|:--------------|
+|  Aug 2022 | **CloudX Associate: AWS Developer** | Educational program |  30 hours | Mentor review |
+|  Mar 2021 | **CloudX: Foundations for Tech**    | Self-study course   |   5 hours | Quiz          |
+|  Sep 2021 | **Becoming a Tech Mentor**          | Self-study course   | 1.5 hours | Quiz          |
+|  Jan 2021 | **Getting Ready for Assessment**    | Self-study course   | 1.5 hours | Quiz          |
 
 #### LinkedIn Learning. Completed 27 self-study courses:
 
-| Completed | Course                                                                                                                                                              |                                      Personal Repo                                      |     Level     |                                      Certificate                                       |
-|----------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------:|:-------------:|:--------------------------------------------------------------------------------------:|
-|  Sep 2023 | [Java Database Access with Hibernate](https://www.linkedin.com/learning/java-database-access-with-hibernate)                                                        |                                                                                         | Intermediate  | [Details](resources/certificates/Parallel and Concurrent Programming with Java 1.pdf)  |
-|  Sep 2023 | [Spring 5.0 and Spring Boot 2.0 New Features](https://www.linkedin.com/learning/spring-5-0-and-spring-boot-2-0-new-features)                                        | [Demo & Exercises](https://github.com/Yevhen-Tkachenko-1/Spring-Boot-Demo-Application)  | Intermediate  | [Details](resources/certificates/Parallel and Concurrent Programming with Java 1.pdf)  |
-|  Sep 2023 | [Spring: Spring Data 2](https://www.linkedin.com/learning/spring-spring-data-2-2017)                                                                                | [Demo & Exercises](https://github.com/Yevhen-Tkachenko-1/Spring-Boot-Demo-Application)  | Intermediate  | [Details](resources/certificates/Parallel and Concurrent Programming with Java 1.pdf)  |
-|  Sep 2023 | [AWS for Developers: SNS, SQS, and SWF](https://www.linkedin.com/learning/aws-for-developers-sns-sqs-and-swf)                                                       |                                                                                         |   Advanced    | [Details](resources/certificates/Parallel and Concurrent Programming with Java 1.pdf)  |
-|  Sep 2023 | [Advanced Spring: Effective Integration Testing with Spring Boot](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot) | [Demo & Exercises](https://github.com/Yevhen-Tkachenko-1/Spring-Boot-Demo-Application)  |   Advanced    | [Details](resources/certificates/Parallel and Concurrent Programming with Java 1.pdf)  |
-|  Sep 2023 | [Microsoft Azure Fundamentals](https://www.linkedin.com/learning/exam-prep-microsoft-azure-fundamentals-az-900-2020)                                                |                                                                                         |   Beginner    | [Details](resources/certificates/Parallel and Concurrent Programming with Java 1.pdf)  |
-|  Sep 2023 | [Learning Kubernetes](https://www.linkedin.com/learning/learning-kubernetes-16086900)                                                                               |                                                                                         | Intermediate  | [Details](resources/certificates/Parallel and Concurrent Programming with Java 1.pdf)  |
+| Completed | Name                                                                                                                                                                                                                                                                       | Practice                                                                                                                                                                                        |    Level     |       Certificate        |
+|----------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------:|:------------------------:|
+|  Sep 2023 | [**Parallel and Concurrent Programming with Java - Part 1**](https://www.linkedin.com/learning/parallel-and-concurrent-programming-with-java-1 'https://www.linkedin.com/learning/parallel-and-concurrent-programming-with-java-1')                                        |                                                                                                                                                                                                 | Intermediate | [File][LinkedIn-Cert-28] |
+|  Sep 2023 | [**Java Database Access with Hibernate**](https://www.linkedin.com/learning/java-database-access-with-hibernate 'https://www.linkedin.com/learning/java-database-access-with-hibernate')                                                                                   |                                                                                                                                                                                                 | Intermediate | [File][LinkedIn-Cert-27] |
+|  Sep 2023 | [**Spring 5.0 and Spring Boot 2.0 New Features**](https://www.linkedin.com/learning/spring-5-0-and-spring-boot-2-0-new-features 'https://www.linkedin.com/learning/spring-5-0-and-spring-boot-2-0-new-features')                                                           |                                                                                                                                                                                                 | Intermediate | [File][LinkedIn-Cert-26] |
+|  Sep 2023 | [**Spring: Spring Data 2**](https://www.linkedin.com/learning/spring-spring-data-2-2017 'https://www.linkedin.com/learning/spring-spring-data-2-2017')                                                                                                                     |                                                                                                                                                                                                 | Intermediate | [File][LinkedIn-Cert-25] |
+|  Sep 2023 | [**AWS for Developers: SNS, SQS, and SWF**](https://www.linkedin.com/learning/aws-for-developers-sns-sqs-and-swf 'https://www.linkedin.com/learning/aws-for-developers-sns-sqs-and-swf')                                                                                   |                                                                                                                                                                                                 |   Advanced   | [File][LinkedIn-Cert-24] |
+|  Sep 2023 | [**Advanced Spring: Effective Integration Testing with Spring Boot**](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot 'https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot') |                                                                                                                                                                                                 |   Advanced   | [File][LinkedIn-Cert-23] |
+|  Sep 2023 | [**Exam Prep: Microsoft Azure Fundamentals**](https://www.linkedin.com/learning/exam-prep-microsoft-azure-fundamentals-az-900-2020 'https://www.linkedin.com/learning/exam-prep-microsoft-azure-fundamentals-az-900-2020')                                                 |                                                                                                                                                                                                 |   Beginner   | [File][LinkedIn-Cert-22] |
+|  Sep 2023 | [**Learning Kubernetes**](https://www.linkedin.com/learning/learning-kubernetes-16086900 'https://www.linkedin.com/learning/learning-kubernetes-16086900')                                                                                                                 |                                                                                                                                                                                                 | Intermediate | [File][LinkedIn-Cert-21] |
+|  Aug 2023 | [**Learning Docker**](https://www.linkedin.com/learning/learning-docker-17236240)                                                                                                                                                                                          |                                                                                                                                                                                                 |   Beginner   | [File][LinkedIn-Cert-20] |
+|  Aug 2023 | [**SQL Essential Training**](https://www.linkedin.com/learning/sql-essential-training-20685933)                                                                                                                                                                            |                                                                                                                                                                                                 |   Beginner   | [File][LinkedIn-Cert-19] |
+|  Aug 2023 | [**Creating Your First Spring Boot Microservice**](https://www.linkedin.com/learning/creating-your-first-spring-boot-microservice)                                                                                                                                         | [repository](https://github.com/Yevhen-Tkachenko-1/Spring-Boot-Demo-Microservice-with-MongoDB 'https://github.com/Yevhen-Tkachenko-1/Spring-Boot-Demo-Microservice-with-MongoDB')               | Intermediate | [File][LinkedIn-Cert-18] |
+|  Apr 2023 | [**Learning REST APIs**](https://www.linkedin.com/learning/learning-rest-apis)                                                                                                                                                                                             |                                                                                                                                                                                                 |   Beginner   | [File][LinkedIn-Cert-17] |
+|  Mar 2023 | [**SQL vs NoSQL: Which Database Type Is Right for You?**](https://www.linkedin.com/learning/sql-vs-nosql-which-database-type-is-right-for-you)                                                                                                                             |                                                                                                                                                                                                 | Intermediate | [File][LinkedIn-Cert-16] |
+|  Sep 2022 | [**Spring Boot 2.0 Essential Training**](https://www.linkedin.com/learning/spring-boot-2-0-essential-training-2)                                                                                                                                                           |                                                                                                                                                                                                 | Intermediate | [File][LinkedIn-Cert-15] |
+|  Sep 2022 | [**Learning Spring with Spring Boot**](https://www.linkedin.com/learning/learning-spring-with-spring-boot-13886371)                                                                                                                                                        | [repository](https://github.com/Yevhen-Tkachenko-1/Spring-Boot-Demo-Application 'https://github.com/Yevhen-Tkachenko-1/Spring-Boot-Demo-Application')                                           |   Beginner   | [File][LinkedIn-Cert-14] |
+|  Sep 2022 | [**Git: Branches, Merges, and Remotes**](https://www.linkedin.com/learning/git-branches-merges-and-remotes)                                                                                                                                                                |                                                                                                                                                                                                 |   Beginner   | [File][LinkedIn-Cert-13] |
+|  Aug 2022 | [**AWS Essential Training for Developers**](https://www.linkedin.com/learning/aws-essential-training-for-developers-2019)                                                                                                                                                  |                                                                                                                                                                                                 |   Beginner   | [File][LinkedIn-Cert-12] |
+|  Aug 2022 | [**Git Essential Training: The Basics**](https://www.linkedin.com/learning/git-essential-training-the-basics-2019)                                                                                                                                                         |                                                                                                                                                                                                 |   Beginner   | [File][LinkedIn-Cert-11] |
+|  Jul 2022 | [**Java EE: Servlets and JavaServer Pages (JSP)**](https://www.linkedin.com/learning/java-ee-servlets-and-javaserver-pages-jsp)                                                                                                                                            |                                                                                                                                                                                                 | Intermediate | [File][LinkedIn-Cert-10] |
+|  Nov 2021 | [**Learning Terraform**](https://www.linkedin.com/learning/learning-terraform-2020)                                                                                                                                                                                        |                                                                                                                                                                                                 |   Beginner   | [File][LinkedIn-Cert-09] |
+|  Oct 2021 | [**Building Full-Stack Apps with React and Spring**](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring)                                                                                                                                     | [repository](https://github.com/Yevhen-Tkachenko-1/Full-Stack-Demo-Application-with-Spring-and-React 'https://github.com/Yevhen-Tkachenko-1/Full-Stack-Demo-Application-with-Spring-and-React') | Intermediate | [File][LinkedIn-Cert-08] |
+|  Oct 2021 | [**Advanced SQL for Query Tuning and Performance Optimization**](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization)                                                                                                             |                                                                                                                                                                                                 |   Advanced   | [File][LinkedIn-Cert-07] |
+|  Aug 2021 | [**Spring: Framework in Depth**](https://www.linkedin.com/learning/spring-framework-in-depth-2)                                                                                                                                                                            | [repository](https://github.com/Yevhen-Tkachenko-1/Spring-Demo-Application 'https://github.com/Yevhen-Tkachenko-1/Spring-Demo-Application')                                                     | Intermediate | [File][LinkedIn-Cert-06] |
+|  Aug 2021 | [**Spring: Test-Driven Development with JUnit**](https://www.linkedin.com/learning/spring-test-driven-development-with-junit)                                                                                                                                              |                                                                                                                                                                                                 | Intermediate | [File][LinkedIn-Cert-05] |
+|  Aug 2021 | [**Introduction to Linux**](https://www.linkedin.com/learning/introduction-to-linux)                                                                                                                                                                                       |                                                                                                                                                                                                 |   Beginner   | [File][LinkedIn-Cert-04] |
+|  Aug 2021 | [**Programming Foundations: Algorithms**](https://www.linkedin.com/learning/programming-foundations-algorithms)                                                                                                                                                            | [repository](https://github.com/Yevhen-Tkachenko-1/Java-SDK-Research-and-Play 'https://github.com/Yevhen-Tkachenko-1/Java-SDK-Research-and-Play')                                               |   Beginner   | [File][LinkedIn-Cert-03] |
+|  Aug 2021 | [**Practical Test-Driven Development for Java Programmers**](https://www.linkedin.com/learning/practical-test-driven-development-for-java-programmers)                                                                                                                     |                                                                                                                                                                                                 | Intermediate | [File][LinkedIn-Cert-02] |
+|  Jul 2021 | [**Learning Cloud Computing: Core Concepts**](https://www.linkedin.com/learning/learning-cloud-computing-core-concepts-13966302)                                                                                                                                           |                                                                                                                                                                                                 |   Beginner   | [File][LinkedIn-Cert-01] |
 
-  - Sep 2023. [Java Database Access with Hibernate](https://www.linkedin.com/learning/java-database-access-with-hibernate)
-  - Sep 2023. [Spring 5.0 and Spring Boot 2.0 New Features](https://www.linkedin.com/learning/spring-5-0-and-spring-boot-2-0-new-features)
-  - Sep 2023. [Spring: Spring Data 2](https://www.linkedin.com/learning/spring-spring-data-2-2017)
-  - Sep 2023. [AWS for Developers: SNS, SQS, and SWF](https://www.linkedin.com/learning/aws-for-developers-sns-sqs-and-swf)
-  - Sep 2023. [Advanced Spring: Effective Integration Testing with Spring Boot](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot)
-  - Sep 2023. [Microsoft Azure Fundamentals](https://www.linkedin.com/learning/exam-prep-microsoft-azure-fundamentals-az-900-2020)
-  - Sep 2023. [Learning Kubernetes](https://www.linkedin.com/learning/learning-kubernetes-16086900)
-  - Aug 2023. [Learning Docker](https://www.linkedin.com/learning/learning-docker-17236240)
-  - Aug 2023. [SQL Essential Training](https://www.linkedin.com/learning/sql-essential-training-20685933)
-  - Aug 2023. [Creating Your First Spring Boot Microservice](https://www.linkedin.com/learning/creating-your-first-spring-boot-microservice)
-    with my [repository](https://github.com/Yevhen-Tkachenko-1/Spring-Boot-Demo-Microservice-with-MongoDB) for exercises.
-  - Apr 2023. [Learning REST APIs](https://www.linkedin.com/learning/learning-rest-apis).
-  - Mar 2023. [SQL vs NoSQL: Which Database Type Is Right for You?](https://www.linkedin.com/learning/sql-vs-nosql-which-database-type-is-right-for-you)
-  - Sep 2022. [Spring Boot 2.0 Essential Training](https://www.linkedin.com/learning/spring-boot-2-0-essential-training-2).
-  - Sep 2022. [Learning Spring with Spring Boot](https://www.linkedin.com/learning/learning-spring-with-spring-boot-13886371)
-    with my [repository](https://github.com/Yevhen-Tkachenko-1/Spring-Boot-Demo-Application) for exercises.
-  - Sep 2022. [Git: Branches, Merges, and Remotes](https://www.linkedin.com/learning/git-branches-merges-and-remotes).
-  - Aug 2022. [AWS Essential Training for Developers](https://www.linkedin.com/learning/aws-essential-training-for-developers-2019).
-  - Aug 2022. [Git Essential Training: The Basics](https://www.linkedin.com/learning/git-essential-training-the-basics-2019).
-  - Jul 2022. [Java EE: Servlets and JavaServer Pages (JSP)](https://www.linkedin.com/learning/java-ee-servlets-and-javaserver-pages-jsp).
-  - Nov 2021. [Learning Terraform](https://www.linkedin.com/learning/learning-terraform-2020).
-  - Oct 2021. [Building Full-Stack Apps with React and Spring](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring)
-    with my [repository](https://github.com/Yevhen-Tkachenko-1/Full-Stack-Demo-Application-with-Spring-and-React) for exercises.
-  - Oct 2021. [Advanced SQL for Query Tuning and Performance Optimization](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization).
-  - Aug 2021. [Spring: Framework in Depth](https://www.linkedin.com/learning/spring-framework-in-depth-2)
-    with my [repository](https://github.com/Yevhen-Tkachenko-1/Spring-Demo-Application) for exercises.
-  - Aug 2021. [Spring: Test-Driven Development with JUnit](https://www.linkedin.com/learning/spring-test-driven-development-with-junit).
-  - Aug 2021. [Introduction to Linux](https://www.linkedin.com/learning/introduction-to-linux).
-  - Aug 2021. [Programming Foundations: Algorithms](https://www.linkedin.com/learning/programming-foundations-algorithms)
-    with my [repository](https://github.com/Yevhen-Tkachenko-1/Java-SDK-Research-and-Play) for exercises.
-  - Aug 2021. [Practical Test-Driven Development for Java Programmers](https://www.linkedin.com/learning/practical-test-driven-development-for-java-programmers).
-  - Jul 2021. [Learning Cloud Computing: Core Concepts](https://www.linkedin.com/learning/learning-cloud-computing-core-concepts-13966302).
+[LinkedIn-Cert-01]: resources/certificates/01-CertificateOfCompletion_Learning%20Cloud%20Computing%20Core%20Concepts.pdf
+[LinkedIn-Cert-02]: resources/certificates/02-CertificateOfCompletion_Practical%20TestDriven%20Development%20for%20Java%20Programmers.pdf
+[LinkedIn-Cert-03]: resources/certificates/03-CertificateOfCompletion_Programming%20Foundations%20Algorithms.pdf
+[LinkedIn-Cert-04]: resources/certificates/04-CertificateOfCompletion_Introduction%20to%20Linux.pdf
+[LinkedIn-Cert-05]: resources/certificates/05-CertificateOfCompletion_Spring%20TestDriven%20Development%20with%20JUnit.pdf
+[LinkedIn-Cert-06]: resources/certificates/06-CertificateOfCompletion_Spring%20Framework%20in%20Depth.pdf
+[LinkedIn-Cert-07]: resources/certificates/07-CertificateOfCompletion_Advanced%20SQL%20for%20Query%20Tuning%20and%20Performance%20Optimization.pdf
+[LinkedIn-Cert-08]: resources/certificates/08-CertificateOfCompletion_Building%20FullStack%20Apps%20with%20React%20and%20Spring.pdf
+[LinkedIn-Cert-09]: resources/certificates/09-CertificateOfCompletion_Learning%20Terraform%202020.pdf
+[LinkedIn-Cert-10]: resources/certificates/10-CertificateOfCompletion_Java%20EE%20Servlets%20and%20JavaServer%20Pages%20JSP.pdf
+[LinkedIn-Cert-11]: resources/certificates/11-CertificateOfCompletion_Git%20Essential%20Training%20The%20Basics%202019.pdf
+[LinkedIn-Cert-12]: resources/certificates/12-CertificateOfCompletion_AWS%20Essential%20Training%20for%20Developers%202019.pdf
+[LinkedIn-Cert-13]: resources/certificates/13-CertificateOfCompletion_Git%20Branches%20Merges%20and%20Remotes.pdf
+[LinkedIn-Cert-14]: resources/certificates/14-CertificateOfCompletion_Learning%20Spring%20with%20Spring%20Boot.pdf
+[LinkedIn-Cert-15]: resources/certificates/15-CertificateOfCompletion_Spring%20Boot%202.0%20Essential%20Training.pdf
+[LinkedIn-Cert-16]: resources/certificates/16-CertificateOfCompletion_SQL%20vs.%20NoSQL%20Which%20Database%20Type%20Is%20Right%20for%20You.pdf
+[LinkedIn-Cert-17]: resources/certificates/17-CertificateOfCompletion_Learning%20REST%20APIs.pdf
+[LinkedIn-Cert-18]: resources/certificates/18-CertificateOfCompletion_Creating%20Your%20First%20Spring%20Boot%20Microservice.pdf
+[LinkedIn-Cert-19]: resources/certificates/19-CertificateOfCompletion_SQL%20Essential%20Training.pdf
+[LinkedIn-Cert-20]: resources/certificates/20-CertificateOfCompletion_Learning%20Docker.pdf
+[LinkedIn-Cert-21]: resources/certificates/21-CertificateOfCompletion_Learning%20Kubernetes.pdf
+[LinkedIn-Cert-22]: resources/certificates/22-CertificateOfCompletion_Exam%20Prep%20Microsoft%20Azure%20Fundamentals%20AZ900%202020.pdf
+[LinkedIn-Cert-23]: resources/certificates/23-CertificateOfCompletion_Advanced%20Spring%20Effective%20Integration%20Testing%20with%20Spring%20Boot.pdf
+[LinkedIn-Cert-24]: resources/certificates/24-CertificateOfCompletion_AWS%20for%20Developers%20SNS%20SQS%20and%20SWF.pdf
+[LinkedIn-Cert-25]: resources/certificates/25-CertificateOfCompletion_Spring%20Spring%20Data%202%202017.pdf
+[LinkedIn-Cert-26]: resources/certificates/26-CertificateOfCompletion_Spring%205.0%20and%20Spring%20Boot%202.0%20New%20Features.pdf
+[LinkedIn-Cert-27]: resources/certificates/27-CertificateOfCompletion_Java%20Database%20Access%20with%20Hibernate.pdf
+[LinkedIn-Cert-28]: resources/certificates/28-CertificateOfCompletion_Parallel%20and%20Concurrent%20Programming%20with%20Java_Part%201.pdf
 
-#### EPAM Learning. Completed educational program:
+#### Books Reading:
 
-- Jun 2022 - Aug 2022. Cloud Platforms for developers - AWS Developer.<br>
-  Completed 7 self-study modules with a Mentor review:
-    - AWS Essential, AWS Account
-    - IAM, S3, EC2, VPC
-    - Cloud Formation
-
-#### Book Library
-
-- 2023\. Designing Data-Intensive Applications - Martin Kleppmann.
-- 2020\. Java XML and JSON: Document processing for Java SE - Jeff Friesen.
-- 2019\. Kotlin - Head First.
-- 2019\. Android Development - Head First.
-- 2019\. Design Patterns - Head First.
-- 2019\. Pro JavaFX 8: Building Desktop, Mobile, and Embedded Java Clients - Apress.
-- 2018\. Learn JavaFX 8: Building User Experience and Interfaces - Kishori Sharan.
-- 2018\. JavaFX 8: Introduction By Example - Apress.
-- 2018\. Java: A Beginner's Guide - Herbert Schildt.
-- 2018\. Effective Java - Joshua Bloch.
-- 2018\. The C++ Programming Language - Bjarne Stroustrup.
-- 2018\. The C Programming Language - Brian W.Kernighan, Dennis M.Ritchie.
+| Date | Title                                                                 | Authorship                            |
+|:----:|:----------------------------------------------------------------------|:--------------------------------------|
+| 2023 | **Designing Data-Intensive Applications**                             | Martin Kleppmann                      |
+| 2020 | **Java XML and JSON: Document processing for Java SE**                | Jeff Friesen                          |
+| 2019 | **Kotlin**                                                            | Head First                            |
+| 2019 | **Android Development**                                               | Head First                            |
+| 2019 | **Design Patterns**                                                   | Head First                            |
+| 2019 | **Pro JavaFX 8: Building Desktop, Mobile, and Embedded Java Clients** | Apress                                |
+| 2018 | **Learn JavaFX 8: Building User Experience and Interfaces**           | Kishori Sharan                        |
+| 2018 | **JavaFX 8: Introduction By Example**                                 | Apress                                |
+| 2018 | **Java: A Beginner's Guide**                                          | Herbert Schildt                       |
+| 2018 | **Effective Java**                                                    | Joshua Bloch                          |
+| 2018 | **The C++ Programming Language**                                      | Bjarne Stroustrup                     |
+| 2018 | **The C Programming Language**                                        | Brian W.Kernighan<br>Dennis M.Ritchie |
 
 # Project Changing
 
