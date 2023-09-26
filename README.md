@@ -57,14 +57,14 @@ The table shows you context around. Please, follow links to see actual Feedbacks
 | Jan 2021 | EPAM<br>Systems |                                  [Quit Feedback][F-jan-2021]                                   | Developer&nbsp;(EPAM)                                                                                                                   | Summing up the entire work path on a project |
 | Sep 2020 |     RINANU      |                                  [Quit Feedback][F-sep-2020]                                   | Project&nbsp;Manager&nbsp;(RINANU)                                                                                                      | Summing up the entire work path on a project |
 
-[F-sep-2023]: resources/pictures/feedbacks/2023-September-EPAM-Summary-Feedback.PNG
-[F-mar-2023]: resources/pictures/feedbacks/2023-March-EPAM-Summary-Feedback.PNG
-[F-sep-2022]: resources/pictures/feedbacks/2022-September-EPAM-Summary-Feedback.PNG
-[F-jun-2022-1]: resources/pictures/feedbacks/2022-EPAM-LevelUp-Feedback-from-TeamLead.PNG
-[F-jun-2022-2]: resources/pictures/feedbacks/2022-EPAM-LevelUp-Feedback-from-TechLead.PNG
-[F-jun-2021]: resources/pictures/feedbacks/2021-June-Simple-Project-Feedback-from-TeamLead.PNG
-[F-jan-2021]: resources/pictures/feedbacks/2021-January-Simple-Project-Feedback-from-Dev.PNG
-[F-sep-2020]: resources/pictures/feedbacks/2020-September-RINANU-Quit-Project-Feedback-from-ProjectManager.PNG
+[F-sep-2023]: resources/pictures/feedbacks/2023-September-EPAM-Summary-Feedback.PNG '2023-September-EPAM-Summary-Feedback.PNG'
+[F-mar-2023]: resources/pictures/feedbacks/2023-March-EPAM-Summary-Feedback.PNG '2023-March-EPAM-Summary-Feedback.PNG'
+[F-sep-2022]: resources/pictures/feedbacks/2022-September-EPAM-Summary-Feedback.PNG '2022-September-EPAM-Summary-Feedback.PNG'
+[F-jun-2022-1]: resources/pictures/feedbacks/2022-EPAM-LevelUp-Feedback-from-TeamLead.PNG '2022-EPAM-LevelUp-Feedback-from-TeamLead.PNG'
+[F-jun-2022-2]: resources/pictures/feedbacks/2022-EPAM-LevelUp-Feedback-from-TechLead.PNG '2022-EPAM-LevelUp-Feedback-from-TechLead.PNG'
+[F-jun-2021]: resources/pictures/feedbacks/2021-June-Simple-Project-Feedback-from-TeamLead.PNG '2021-June-Simple-Project-Feedback-from-TeamLead.PNG'
+[F-jan-2021]: resources/pictures/feedbacks/2021-January-Simple-Project-Feedback-from-Dev.PNG '2021-January-Simple-Project-Feedback-from-Dev.PNG'
+[F-sep-2020]: resources/pictures/feedbacks/2020-September-RINANU-Quit-Project-Feedback-from-ProjectManager.PNG '2020-September-RINANU-Quit-Project-Feedback-from-ProjectManager.PNG'
   
 # Project Challenges
 
@@ -105,8 +105,6 @@ Please, visit [this page](resources/projects/2018-MY-FIRST-COMMERCIAL-APP.md) fo
 # Skills Details
 
 ![picture](resources/pictures/memes/Meme-Skills.jpg)
-
-The Table shows you level of my hard skills with time of project work:
 
 |                       | Skill               |  Level&ast;  | Project work |
 |:----------------------|:--------------------|:------------:|:------------:|
