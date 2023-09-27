@@ -92,8 +92,7 @@ The table shows you context around. Please, follow links to see full Stories:
 |                       | Skill               |  Level&ast;  | Project work |
 |:----------------------|:--------------------|:------------:|:------------:|
 |                       |                     |              |              |
-| **Core Languages**    | **Java Core**       |    expert    |   5 years    |
-|                       | **Java 8**          |    expert    |   5 years    |
+| **Core Languages**    | **Java 8**          |    expert    |   5 years    |
 |                       | **C/C++**           |    entry     |   6 months   |
 |                       | **TypeScript**      |    entry     |   6 months   |
 |                       | **JavaScript**      |    entry     |   1 month    |
@@ -167,6 +166,7 @@ The table shows you context around. Please, follow links to see full Stories:
 |                       | **Eclipse IDE**     |   advanced   |  2.5 years   |
 |                       | **SQL Developer**   | intermediate |   2 years    |
 |                       | **Jira**            | intermediate |   2 years    |
+|                       | **Command Line**    | intermediate |   2 years    |
 |                       | **Confluence**      | intermediate |  1.5 years   |
 |                       | **VS Code**         |    entry     |   4 months   |
 |                       | **Linux**           |    entry     |   2 months   |
