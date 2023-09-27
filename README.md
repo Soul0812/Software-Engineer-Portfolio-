@@ -27,6 +27,7 @@ Working on these apps, I've got considerable experience with _Java 8_, _JavaEE_,
 Regarding **responsibilities**, I'm familiar with all the main stages of engineering.
 Working on _Technical Research_, _Software Design_, _Implementation_, _Testing_, _Deployment_,
 I showed quite efficient work on the _Full Cycle_ development.
+**Achievements** are 3 apps implemented from _scratch_ and with 3 others I worked on _extension_.
 
 Thanks to fluent **English** and good soft skills, I'm an efficient **Team Player** even in case of international teams.
 In fact, I've been communicating with foreign colleagues and stakeholders for more than 2 years already.
