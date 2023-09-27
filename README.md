@@ -45,15 +45,15 @@ Currently, I'm recognized as a Senior and for the future I plan to take Lead Sof
 
 The table shows you context around. Please, follow links to see actual Feedbacks:
 
-|   Date   |     Company     |                                         Feedback Link                                          | Reviewers                                                                                                                               | Description                                  |
-|:--------:|:---------------:|:----------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|
-| Sep 2023 | EPAM<br>Systems |                            [**Half-year Feedback Summary**][F-sep-2023]                            | Product&nbsp;Owner&nbsp;(customer)<br>Team&nbsp;Lead&nbsp;(customer)<br>Scrum&nbsp;Master&nbsp;(customer)<br>Tech&nbsp;Lead&nbsp;(EPAM) | Summing up the entire work path on a project |
-| Mar 2023 | EPAM<br>Systems |                            [**Half-year Feedback Summary**][F-mar-2023]                            | Product&nbsp;Owner&nbsp;(customer)<br>Scrum&nbsp;Master&nbsp;(customer)<br>Delivery&nbsp;Manager&nbsp;(EPAM)                            | As part of constant feedback process         |
-| Sep 2022 | EPAM<br>Systems |                            [**Half-year Feedback Summary**][F-sep-2022]                            | Product&nbsp;Owner&nbsp;(customer)<br>Team&nbsp;Lead&nbsp;(customer)<br>Scrum&nbsp;Master&nbsp;(customer)                               | As part of constant feedback process         |
+|   Date   |     Company     |                                             Feedback Link                                              | Reviewers                                                                                                                               | Description                                  |
+|:--------:|:---------------:|:------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|
+| Sep 2023 | EPAM<br>Systems |                              [**Half-year Feedback Summary**][F-sep-2023]                              | Product&nbsp;Owner&nbsp;(customer)<br>Team&nbsp;Lead&nbsp;(customer)<br>Scrum&nbsp;Master&nbsp;(customer)<br>Tech&nbsp;Lead&nbsp;(EPAM) | Summing up the entire work path on a project |
+| Mar 2023 | EPAM<br>Systems |                              [**Half-year Feedback Summary**][F-mar-2023]                              | Product&nbsp;Owner&nbsp;(customer)<br>Scrum&nbsp;Master&nbsp;(customer)<br>Delivery&nbsp;Manager&nbsp;(EPAM)                            | As part of constant feedback process         |
+| Sep 2022 | EPAM<br>Systems |                              [**Half-year Feedback Summary**][F-sep-2022]                              | Product&nbsp;Owner&nbsp;(customer)<br>Team&nbsp;Lead&nbsp;(customer)<br>Scrum&nbsp;Master&nbsp;(customer)                               | As part of constant feedback process         |
 | Jun 2022 | EPAM<br>Systems | [**Level-Up&nbsp;Feedback&nbsp;1**][F-jun-2022-1]<br>[**Level-Up&nbsp;Feedback&nbsp;2**][F-jun-2022-2] | Team&nbsp;Lead&nbsp;(EPAM)<br>Tech&nbsp;Lead&nbsp;(EPAM)                                                                                | As part of Level-Up assessment preparation   |
-| Jun 2021 | EPAM<br>Systems |                                [**Half-year Feedback**][F-jun-2021]                                | Team&nbsp;Lead&nbsp;(EPAM)                                                                                                              | As part of constant feedback process         |
-| Jan 2021 | EPAM<br>Systems |                                  [**Quit Feedback**][F-jan-2021]                                   | Developer&nbsp;(EPAM)                                                                                                                   | Summing up the entire work path on a project |
-| Sep 2020 |     RINANU      |                                  [**Quit Feedback**][F-sep-2020]                                   | Project&nbsp;Manager&nbsp;(RINANU)                                                                                                      | Summing up the entire work path on a project |
+| Jun 2021 | EPAM<br>Systems |                                  [**Half-year Feedback**][F-jun-2021]                                  | Team&nbsp;Lead&nbsp;(EPAM)                                                                                                              | As part of constant feedback process         |
+| Jan 2021 | EPAM<br>Systems |                                    [**Quit Feedback**][F-jan-2021]                                     | Developer&nbsp;(EPAM)                                                                                                                   | Summing up the entire work path on a project |
+| Sep 2020 |     RINANU      |                                    [**Quit Feedback**][F-sep-2020]                                     | Project&nbsp;Manager&nbsp;(RINANU)                                                                                                      | Summing up the entire work path on a project |
 
 [F-sep-2023]: resources/pictures/feedbacks/2023-September-EPAM-Summary-Feedback.PNG '2023-September-EPAM-Summary-Feedback.PNG'
 [F-mar-2023]: resources/pictures/feedbacks/2023-March-EPAM-Summary-Feedback.PNG '2023-March-EPAM-Summary-Feedback.PNG'
@@ -68,37 +68,21 @@ The table shows you context around. Please, follow links to see actual Feedbacks
 
 ![picture](resources/pictures/memes/Meme-Star-Technique.jpg)
 
-Overview of the most challenging tasks, taken actions and achieved results:
+The table shows you context around. Please, follow links to see full Stories:
 
-#### 2021 - My first Cloud Development
+| Date |     Company     |                         Story Link                          | Goal                                          | Major Points                                                                                                                                                                      |
+|:----:|:---------------:|:-----------------------------------------------------------:|:----------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2021 | EPAM<br>Systems |  [**My&nbsp;first&nbsp;Cloud&nbsp;Development**][STORY-5]   | Implement AWS-based Microservice              | POC, Refactoring, End-to-end Testing, Deployment Automation                                                                                                                       |
+| 2021 | EPAM<br>Systems |   [**My&nbsp;first&nbsp;App&nbsp;Improvement**][STORY-4]    | Improve AWS Lambda and release stable version | Bug Fixing, Codebase Refactoring, Extension, Local Testing, Remote Debug, Knowledge Transfer                                                                                      |
+| 2020 | EPAM<br>Systems | [**My&nbsp;first&nbsp;project&nbsp;at&nbsp;EPAM**][STORY-3] | Implement Java tool                           | Requirements Clarification & Demo, Research, Development, Team Leading                                                                                                            |
+| 2019 |     RINANU      |     [**My&nbsp;first&nbsp;Complex&nbsp;App**][STORY-2]      | Implement complex Desktop app                 | Technologies Research, Requirements Clarification, Architecture, Development, Maintenance and Expansion, Integration Testing, Acceptance Testing, Packaging and Cross-Platforming |
+| 2018 |     RINANU      |    [**My&nbsp;first&nbsp;Commercial&nbsp;App**][STORY-1]    | Implement simple Desktop app                  | Technical Research                                                                                                                                                                |
 
-Challenges with AWS-based Microservice development:<br>
-POC, refactoring, end-to-end testing, deployment automation.<br>
-Please, visit [this page](resources/projects/2021-MY-FIRST-CLOUD-DEVELOPMENT.md) for details.
-
-#### 2021 - My first App Improvement
-
-Challenges with app support to release first stable version:<br>
-Bug Fixing, Codebase Refactoring, Extension, Local Testing, Remote Debug, Knowledge Transfer.<br>
-Please, visit [this page](resources/projects/2021-MY-FIRST-APP-IMPROVEMENT.md) for details.
-
-#### 2020 - My first project at EPAM
-
-Challenges with wide range of responsibilities:<br>
-Requirements Clarification & Demo, Research, Development, Team Leading.<br>
-Please, visit [this page](resources/projects/2020-MY-FIRST-PROJECT-AT-EPAM.md) for details.
-
-#### 2019 - My first Complex App
-
-Challenges with implementation of multifunctional app from scratch:<br>
-Technologies Research, Requirements Clarification, Architecture, Development, Maintenance and Expansion,
-Integration Testing, Acceptance Testing, Packaging and Cross-Platforming.<br>
-Please, visit [this page](resources/projects/2019-MY-FIRST-COMPLEX-APP.md) for details.
-
-#### 2018 - My first Commercial App
-
-Challenge with finding decoding algorithm.<br>
-Please, visit [this page](resources/projects/2018-MY-FIRST-COMMERCIAL-APP.md) for details.
+[STORY-5]: resources/projects/2021-MY-FIRST-CLOUD-DEVELOPMENT.md '2021-MY-FIRST-CLOUD-DEVELOPMENT.md' 
+[STORY-4]: resources/projects/2021-MY-FIRST-APP-IMPROVEMENT.md '2021-MY-FIRST-APP-IMPROVEMENT.md'
+[STORY-3]: resources/projects/2020-MY-FIRST-PROJECT-AT-EPAM.md '2020-MY-FIRST-PROJECT-AT-EPAM.md'
+[STORY-2]: resources/projects/2019-MY-FIRST-COMPLEX-APP.md '2019-MY-FIRST-COMPLEX-APP.md'
+[STORY-1]: resources/projects/2018-MY-FIRST-COMMERCIAL-APP.md '2018-MY-FIRST-COMMERCIAL-APP.md'
 
 # Skills Details
 
