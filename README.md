@@ -21,23 +21,23 @@ The portfolio consists of additional topics which are NOT included in my CV:
 ![picture](resources/pictures/memes/Meme-Software-Engineer.PNG)
 
 Having **Java** as a primary skill, I've been doing commercial development for **5.5 years** so far.
-During this time I've come across different apps such as Backend, REST API, Cloud, Frontend, Desktop.
-Working on these apps, I've got considerable experience with Java 8, JavaEE, Spring, AWS, SQL, NoSQL, JavaFX, Git, Windows.
+During this time I've come across different apps such as _Backend_, _REST API_, _Cloud_, _Frontend_, _Desktop_.
+Working on these apps, I've got considerable experience with _Java 8_, _JavaEE_, _Spring_, _AWS_, _SQL_, _NoSQL_, _JavaFX_, _Git_, _Windows_.
 
 Regarding **responsibilities**, I'm familiar with all the main stages of engineering.
-Working on Technical Research, Software Design, Implementation, Testing, Deployment,
-I showed quite efficient work on the Full Cycle development.
+Working on _Technical Research_, _Software Design_, _Implementation_, _Testing_, _Deployment_,
+I showed quite efficient work on the _Full Cycle_ development.
 
-Thanks to fluent **English** and good soft skills, I'm an efficient Team Player even in case of international teams.
+Thanks to fluent **English** and good soft skills, I'm an efficient **Team Player** even in case of international teams.
 In fact, I've been communicating with foreign colleagues and stakeholders for more than 2 years already.
 I consider myself as a responsible person and also can take care about others. 
-I have production experience of **Team Leading** and was a Mentor for education programs.
-In addition to team work, I have more than 2 years of independent work as a **Key Developer**.
+I have production experience of _Team Leading_ and was a _Mentor_ for education programs.
+In addition to team membership, I have more than 2 years of independent work as a **Key Developer**.
 
-I'm always open to **feedback** about my work. 
+I'm always open to **Feedback** about my work. 
 On each project, my professional and personal qualities met or even exceeded expectations.
-At the same time, I see the ways for self-improvement and continue working on my hard, soft, and leadership skills.
-Currently, I'm recognized as a Senior and for the future I plan to take Lead Software Engineer position.
+At the same time, I see the ways for self-improvement and continue working on my _hard_, _soft_, and _leadership_ skills.
+Currently, I'm recognized as a _Senior_ and for the future I plan to take _Lead Software Engineer_ position.
 
 # Project Feedbacks
 
@@ -70,13 +70,13 @@ The table shows you context around. Please, follow links to see actual Feedbacks
 
 The table shows you context around. Please, follow links to see full Stories:
 
-| Date |     Company     |                         Story Link                          | Goal                                          | Major Points                                                                                                                                                                      |
-|:----:|:---------------:|:-----------------------------------------------------------:|:----------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2021 | EPAM<br>Systems |  [**My&nbsp;first&nbsp;Cloud&nbsp;Development**][STORY-5]   | Implement AWS-based Microservice              | POC, Refactoring, End-to-end Testing, Deployment Automation                                                                                                                       |
-| 2021 | EPAM<br>Systems |   [**My&nbsp;first&nbsp;App&nbsp;Improvement**][STORY-4]    | Improve AWS Lambda and release stable version | Bug Fixing, Codebase Refactoring, Extension, Local Testing, Remote Debug, Knowledge Transfer                                                                                      |
-| 2020 | EPAM<br>Systems | [**My&nbsp;first&nbsp;project&nbsp;at&nbsp;EPAM**][STORY-3] | Implement Java tool                           | Requirements Clarification & Demo, Research, Development, Team Leading                                                                                                            |
-| 2019 |     RINANU      |     [**My&nbsp;first&nbsp;Complex&nbsp;App**][STORY-2]      | Implement complex Desktop app                 | Technologies Research, Requirements Clarification, Architecture, Development, Maintenance and Expansion, Integration Testing, Acceptance Testing, Packaging and Cross-Platforming |
-| 2018 |     RINANU      |    [**My&nbsp;first&nbsp;Commercial&nbsp;App**][STORY-1]    | Implement simple Desktop app                  | Technical Research                                                                                                                                                                |
+| Date |     Company     |                         Story Link                          | Goal                                                              | Major Points                                                                                                                                                                                    |
+|:----:|:---------------:|:-----------------------------------------------------------:|:------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2021 | EPAM<br>Systems |  [**My&nbsp;first&nbsp;Cloud&nbsp;Development**][STORY-5]   | Implement&nbsp;AWS-based&nbsp;Microservice                        | POC, Refactoring, End-to-end Testing, Deployment&nbsp;Automation                                                                                                                                |
+| 2021 | EPAM<br>Systems |   [**My&nbsp;first&nbsp;App&nbsp;Improvement**][STORY-4]    | Improve&nbsp;AWS&nbsp;Lambda and release&nbsp;stable&nbsp;version | Bug&nbsp;Fixing, Codebase&nbsp;Refactoring, Extension, Local&nbsp;Testing, Remote&nbsp;Debug, Knowledge&nbsp;Transfer                                                                           |
+| 2020 | EPAM<br>Systems | [**My&nbsp;first&nbsp;project&nbsp;at&nbsp;EPAM**][STORY-3] | Implement&nbsp;Java&nbsp;Tool                                     | Requirements&nbsp;Clarification, Research, Development, Team&nbsp;Leading, Demo                                                                                                                 |
+| 2019 |     RINANU      |     [**My&nbsp;first&nbsp;Complex&nbsp;App**][STORY-2]      | Implement&nbsp;complex&nbsp;Desktop&nbsp;app                      | Technologies&nbsp;Research, Requirements&nbsp;Clarification, Architecture, Development, Maintenance, Expansion, Integration&nbsp;Testing, Acceptance&nbsp;Testing, Packaging, Cross-Platforming |
+| 2018 |     RINANU      |    [**My&nbsp;first&nbsp;Commercial&nbsp;App**][STORY-1]    | Implement&nbsp;simple&nbsp;Desktop&nbsp;app                       | Technical&nbsp;Research                                                                                                                                                                         |
 
 [STORY-5]: resources/projects/2021-MY-FIRST-CLOUD-DEVELOPMENT.md '2021-MY-FIRST-CLOUD-DEVELOPMENT.md' 
 [STORY-4]: resources/projects/2021-MY-FIRST-APP-IMPROVEMENT.md '2021-MY-FIRST-APP-IMPROVEMENT.md'
