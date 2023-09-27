@@ -63,7 +63,7 @@ The table shows you context around. Please, follow links to see actual Feedbacks
 [F-jun-2021]: resources/pictures/feedbacks/2021-June-Simple-Project-Feedback-from-TeamLead.PNG '2021-June-Simple-Project-Feedback-from-TeamLead.PNG'
 [F-jan-2021]: resources/pictures/feedbacks/2021-January-Simple-Project-Feedback-from-Dev.PNG '2021-January-Simple-Project-Feedback-from-Dev.PNG'
 [F-sep-2020]: resources/pictures/feedbacks/2020-September-RINANU-Quit-Project-Feedback-from-ProjectManager.PNG '2020-September-RINANU-Quit-Project-Feedback-from-ProjectManager.PNG'
-  
+
 # Project Challenges
 
 ![picture](resources/pictures/memes/Meme-Star-Technique.jpg)
@@ -202,9 +202,9 @@ Cases where I organized and supported processes for work and education:
 - Oct 2021 - Dec 2021. Lead Developer in a team of 3 developers.<br>
   Was in charge of work planning, meeting holding, development support.
 
-#### EPAM Educational Programs
+#### Non-project Mentoring
 
-Was a Mentor in Pre-Production programs:
+Was a Mentor in EPAM educational (pre-production) programs:
 
 - Jul 2022 - Oct 2022. \[RD Java Lab Summer 2022\]. Supported 5 students.
 - Oct 2021 - Feb 2022. \[RD Java Lab Autumn 2021\]. Supported 2 students. 
@@ -215,6 +215,10 @@ That time Mentor supports students by organizing one-to-one sessions to discuss
 task requirements and implementation way, answer questions, check progress, accept tasks.
 Also, there is offline support using chatting, regular code review and app local testing.
 Finally, Mentor provides feedback on the Mentees performance.
+
+#### Non-project Technical Support
+
+- Sep 2023. Conducted mock interview to help EPAM colleague get position on a project.
 
 #### Math Teaching
 
