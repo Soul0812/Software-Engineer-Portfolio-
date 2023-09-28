@@ -256,10 +256,11 @@ Working on my hard and soft skills, have next achievements so far:
 |  Sep 2021 | **Becoming a Tech Mentor**          | Self-study course   | 1.5 hours | Quiz          |
 |  Jan 2021 | **Getting Ready for Assessment**    | Self-study course   | 1.5 hours | Quiz          |
 
-#### LinkedIn Learning. Completed 29 self-study courses:
+#### LinkedIn Learning. Completed 30 self-study courses:
 
 | Completed | Name                                                                                                                                                                                                                                                                       | Practice                                                                                                                                                                                        |    Level     |       Certificate        |
 |----------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------:|:------------------------:|
+|  Sep 2023 | [**Extending, Securing, and Dockerizing Spring Boot Microservices**](https://www.linkedin.com/learning/extending-securing-and-dockerizing-spring-boot-microservices 'https://www.linkedin.com/learning/extending-securing-and-dockerizing-spring-boot-microservices')      |                                                                                                                                                                                                 |   Advanced   | [File][LinkedIn-Cert-30] |
 |  Sep 2023 | [**Parallel Programming with Java**](https://www.linkedin.com/learning/parallel-and-concurrent-programming-with-java-2 'https://www.linkedin.com/learning/parallel-and-concurrent-programming-with-java-2')                                                                |                                                                                                                                                                                                 |   Advanced   | [File][LinkedIn-Cert-29] |
 |  Sep 2023 | [**Concurrent Programming with Java**](https://www.linkedin.com/learning/parallel-and-concurrent-programming-with-java-1 'https://www.linkedin.com/learning/parallel-and-concurrent-programming-with-java-1')                                                              |                                                                                                                                                                                                 |   Advanced   | [File][LinkedIn-Cert-28] |
 |  Sep 2023 | [**Java Database Access with Hibernate**](https://www.linkedin.com/learning/java-database-access-with-hibernate 'https://www.linkedin.com/learning/java-database-access-with-hibernate')                                                                                   |                                                                                                                                                                                                 | Intermediate | [File][LinkedIn-Cert-27] |
@@ -319,6 +320,7 @@ Working on my hard and soft skills, have next achievements so far:
 [LinkedIn-Cert-27]: resources/certificates/27-CertificateOfCompletion_Java%20Database%20Access%20with%20Hibernate.pdf
 [LinkedIn-Cert-28]: resources/certificates/28-CertificateOfCompletion_Parallel%20and%20Concurrent%20Programming%20with%20Java_Part%201.pdf
 [LinkedIn-Cert-29]: resources/certificates/29-CertificateOfCompletion_Parallel%20and%20Concurrent%20Programming%20with%20Java%202.pdf
+[LinkedIn-Cert-30]: resources/certificates/30-CertificateOfCompletion_Extending%20Securing%20and%20Dockerizing%20Spring%20Boot%20Microservices.pdf
 
 #### Books Reading:
 
