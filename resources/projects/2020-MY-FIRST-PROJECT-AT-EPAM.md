@@ -1,4 +1,6 @@
-### 2020 - My first project at EPAM
+*Go back to [**Project Challenges**](../../README.md#project-challenges)*
+
+# 2020 - My first project at EPAM
 
 ![picture](../pictures/projects/My-First-Project-At-EPAM.png)
 
@@ -49,3 +51,5 @@ Anyway, our team managed to implement pilot version of the app
 and looks like customers were satisfied.
 Later, I got to know, that in comparison with other cases on this project, 
 our team showed quite good outcome working independently: attention from EPAM Delivery Manager was minimal.
+
+*Go back to [**Project Challenges**](../../README.md#project-challenges)*

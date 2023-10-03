@@ -1,3 +1,5 @@
+*Go back to [**Project Challenges**](../../README.md#project-challenges)*
+
 # 2019 - My first Complex App
 
 Working at RINANU, I was a member of big project named OKO.
@@ -109,3 +111,5 @@ There is how **new** implementation of 2D Client looks like:
 There is how **new** implementation of 3D Client looks like:
 
 ![](../pictures/projects/OKO/3D_OKO_Client.png)
+
+*Go back to [**Project Challenges**](../../README.md#project-challenges)*

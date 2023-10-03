@@ -1,6 +1,6 @@
-**Go back to [Project Challenges](../../README.md#project-challenges)**
+*Go back to [**Project Challenges**](../../README.md#project-challenges)*
 
-### 2018 - My first Commercial App
+# 2018 - My first Commercial App
 ![picture](../pictures/projects/OKO/Quadcopter-Radar.jpg)
 
 There was **need** to test a Radar Station.
@@ -22,4 +22,4 @@ I quickly figured it out, and it took me less than 1 month to developed app from
 
 As a **result**, research team was able to test Radar Stations using this app as a custom (trusted) solution.
 
-**Go back to [Project Challenges](../../README.md#project-challenges)**
+*Go back to [**Project Challenges**](../../README.md#project-challenges)*
