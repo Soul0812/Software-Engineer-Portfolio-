@@ -63,7 +63,7 @@ The table shows you context around. Please, follow links to see actual Feedbacks
 [F-jun-2022-2]: resources/pictures/feedbacks/2022-EPAM-LevelUp-Feedback-from-TechLead.PNG '2022-EPAM-LevelUp-Feedback-from-TechLead.PNG'
 [F-jun-2021]: resources/pictures/feedbacks/2021-June-Simple-Project-Feedback-from-TeamLead.PNG '2021-June-Simple-Project-Feedback-from-TeamLead.PNG'
 [F-jan-2021]: resources/pictures/feedbacks/2021-January-Simple-Project-Feedback-from-Dev.PNG '2021-January-Simple-Project-Feedback-from-Dev.PNG'
-[F-sep-2020]: resources/pictures/feedbacks/2020-September-RINANU-Quit-Project-Feedback-from-ProjectManager.PNG '2020-September-RINANU-Quit-Project-Feedback-from-ProjectManager.PNG'
+[F-sep-2020]: resources/feedbacks/2020-Sep-Quit-Feedback.md '2020-Sep-Quit-Feedback.md'
 
 # Project Challenges
 
