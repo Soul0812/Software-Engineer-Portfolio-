@@ -2,7 +2,7 @@
 
 # 2021 - Summing up the entire work path on a project
 
-**Reviewed by Developer:**
+Reviewed by **Developer**:
 
 ![picture](../pictures/feedbacks/2021-Jan-Simple-Project-Feedback-from-Dev.PNG)
 
