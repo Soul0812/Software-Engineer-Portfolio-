@@ -46,23 +46,22 @@ Currently, I'm recognized as a _Senior_ and for the future I plan to take _Lead 
 
 The table shows you context around. Please, follow links to see actual Feedbacks:
 
-|   Date   |     Company     |                                             Feedback Link                                              | Reviewers                                                                                                                               | Description                                  |
-|:--------:|:---------------:|:------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|
-| Sep 2023 | EPAM<br>Systems |                              [**Half-year Feedback Summary**][F-sep-2023]                              | Product&nbsp;Owner&nbsp;(customer)<br>Team&nbsp;Lead&nbsp;(customer)<br>Scrum&nbsp;Master&nbsp;(customer)<br>Tech&nbsp;Lead&nbsp;(EPAM) | Summing up the entire work path on a project |
-| Mar 2023 | EPAM<br>Systems |                              [**Half-year Feedback Summary**][F-mar-2023]                              | Product&nbsp;Owner&nbsp;(customer)<br>Scrum&nbsp;Master&nbsp;(customer)<br>Delivery&nbsp;Manager&nbsp;(EPAM)                            | As part of constant feedback process         |
-| Sep 2022 | EPAM<br>Systems |                              [**Half-year Feedback Summary**][F-sep-2022]                              | Product&nbsp;Owner&nbsp;(customer)<br>Team&nbsp;Lead&nbsp;(customer)<br>Scrum&nbsp;Master&nbsp;(customer)                               | As part of constant feedback process         |
-| Jun 2022 | EPAM<br>Systems | [**Level-Up&nbsp;Feedback&nbsp;1**][F-jun-2022-1]<br>[**Level-Up&nbsp;Feedback&nbsp;2**][F-jun-2022-2] | Team&nbsp;Lead&nbsp;(EPAM)<br>Tech&nbsp;Lead&nbsp;(EPAM)                                                                                | As part of Level-Up assessment preparation   |
-| Jun 2021 | EPAM<br>Systems |                                  [**Half-year Feedback**][F-jun-2021]                                  | Team&nbsp;Lead&nbsp;(EPAM)                                                                                                              | As part of constant feedback process         |
-| Jan 2021 | EPAM<br>Systems |                                    [**Quit Feedback**][F-jan-2021]                                     | Developer&nbsp;(EPAM)                                                                                                                   | Summing up the entire work path on a project |
-| Sep 2020 |     RINANU      |                                    [**Quit Feedback**][F-sep-2020]                                     | Project&nbsp;Manager&nbsp;(RINANU)                                                                                                      | Summing up the entire work path on a project |
+|   Date   |     Company     |                 Feedback Link                 | Reviewers                                                                                                                               | Description                                  |
+|:--------:|:---------------:|:---------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|
+| Sep 2023 | EPAM<br>Systems | [**Half-year Feedback Summary**][F-sep-2023]  | Product&nbsp;Owner&nbsp;(customer)<br>Team&nbsp;Lead&nbsp;(customer)<br>Scrum&nbsp;Master&nbsp;(customer)<br>Tech&nbsp;Lead&nbsp;(EPAM) | Summing up the entire work path on a project |
+| Mar 2023 | EPAM<br>Systems | [**Half-year Feedback Summary**][F-mar-2023]  | Product&nbsp;Owner&nbsp;(customer)<br>Scrum&nbsp;Master&nbsp;(customer)<br>Delivery&nbsp;Manager&nbsp;(EPAM)                            | As part of constant feedback process         |
+| Sep 2022 | EPAM<br>Systems | [**Half-year Feedback Summary**][F-sep-2022]  | Product&nbsp;Owner&nbsp;(customer)<br>Team&nbsp;Lead&nbsp;(customer)<br>Scrum&nbsp;Master&nbsp;(customer)                               | As part of constant feedback process         |
+| Jun 2022 | EPAM<br>Systems | [**Level-Up&nbsp;Feedbacks**][F-jun-jul-2022] | Team&nbsp;Lead&nbsp;(EPAM)<br>Tech&nbsp;Lead&nbsp;(EPAM)                                                                                | As part of Level-Up assessment preparation   |
+| Jun 2021 | EPAM<br>Systems |     [**Half-year Feedback**][F-jun-2021]      | Team&nbsp;Lead&nbsp;(EPAM)                                                                                                              | As part of constant feedback process         |
+| Jan 2021 | EPAM<br>Systems |        [**Quit Feedback**][F-jan-2021]        | Developer&nbsp;(EPAM)                                                                                                                   | Summing up the entire work path on a project |
+| Sep 2020 |     RINANU      |        [**Quit Feedback**][F-sep-2020]        | Project&nbsp;Manager&nbsp;(RINANU)                                                                                                      | Summing up the entire work path on a project |
 
-[F-sep-2023]: resources/pictures/feedbacks/2023-September-EPAM-Summary-Feedback.PNG '2023-September-EPAM-Summary-Feedback.PNG'
-[F-mar-2023]: resources/pictures/feedbacks/2023-March-EPAM-Summary-Feedback.PNG '2023-March-EPAM-Summary-Feedback.PNG'
-[F-sep-2022]: resources/pictures/feedbacks/2022-September-EPAM-Summary-Feedback.PNG '2022-September-EPAM-Summary-Feedback.PNG'
-[F-jun-2022-1]: resources/pictures/feedbacks/2022-EPAM-LevelUp-Feedback-from-TeamLead.PNG '2022-EPAM-LevelUp-Feedback-from-TeamLead.PNG'
-[F-jun-2022-2]: resources/pictures/feedbacks/2022-EPAM-LevelUp-Feedback-from-TechLead.PNG '2022-EPAM-LevelUp-Feedback-from-TechLead.PNG'
-[F-jun-2021]: resources/pictures/feedbacks/2021-June-Simple-Project-Feedback-from-TeamLead.PNG '2021-June-Simple-Project-Feedback-from-TeamLead.PNG'
-[F-jan-2021]: resources/pictures/feedbacks/2021-January-Simple-Project-Feedback-from-Dev.PNG '2021-January-Simple-Project-Feedback-from-Dev.PNG'
+[F-sep-2023]: resources/feedbacks/2023-Sep-Summary-Feedback.md '2023-Sep-Summary-Feedback.md'
+[F-mar-2023]: resources/feedbacks/2023-Mar-Summary-Feedback.md '2023-Mar-Summary-Feedback.md'
+[F-sep-2022]: resources/feedbacks/2022-Sep-Summary-Feedback.md '2022-Sep-Summary-Feedback.md'
+[F-jun-jul-2022]: resources/feedbacks/2022-Jun-Jul-LevelUp-Feedbacks.md '2022-Jun-Jul-LevelUp-Feedbacks.md'
+[F-jun-2021]: resources/feedbacks/2021-Jun-Simple-Feedback.md '2021-Jun-Simple-Feedback.md'
+[F-jan-2021]: resources/feedbacks/2021-Jan-Quit-Feedback.md '2021-Jan-Quit-Feedback.md'
 [F-sep-2020]: resources/feedbacks/2020-Sep-Quit-Feedback.md '2020-Sep-Quit-Feedback.md'
 
 # Project Challenges
