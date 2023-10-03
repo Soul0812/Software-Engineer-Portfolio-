@@ -4,7 +4,7 @@
 
 When I joined the USA Enterprise project, I was assigned to a Scrum team that was on initial phase of a Microservice development.
 There was a goal to build service for Email sending and Delivery Status processing that is based on Spring API and AWS components.
-There were Team Lead and Tech Lead which were occupied with other tasks and also entry level Java Developer.
+There were Team Lead and Tech Lead who were occupied with other tasks and entry level Java Developer who worked on implementation.
 It was expected that my contribution speeds up the development process and helps achieve release.
 My **task** was to find implementation way for email status processing, finalize POC, improve REST API, and support deployment automation.
 
