@@ -1,8 +1,8 @@
-*Go back to [**Project Challenges**](../../README.md#project-challenges)*
+*Go back to [**Project Challenges**](../../../README.md#project-challenges)*
 
 # 2020 - My first project at EPAM
 
-![picture](../pictures/projects/My-First-Project-At-EPAM.png)
+![picture](../../challenges/projects/My-First-Project-At-EPAM.png)
 
 There was **need** for USA company to implement Tool that allows Book Publishers to take step back in their workflow.
 Such app is supposed to convert `.XML` based manuscript from `.ICML` to `.DITA` format.
@@ -52,4 +52,4 @@ and looks like customers were satisfied.
 Later, I got to know, that in comparison with other cases on this project, 
 our team showed quite good outcome working independently: attention from EPAM Delivery Manager was minimal.
 
-*Go back to [**Project Challenges**](../../README.md#project-challenges)*
+*Go back to [**Project Challenges**](../../../README.md#project-challenges)*

@@ -56,13 +56,13 @@ The table shows you context around. Please, follow links to see actual Feedbacks
 | Jan 2021 | EPAM<br>Systems |        [**Quit Feedback**][F-jan-2021]        | Developer&nbsp;(EPAM)                                                                                                                   | Summing up the entire work path on a project |
 | Sep 2020 |     RINANU      |        [**Quit Feedback**][F-sep-2020]        | Project&nbsp;Manager&nbsp;(RINANU)                                                                                                      | Summing up the entire work path on a project |
 
-[F-sep-2023]: resources/feedbacks/2023-Sep-Summary-Feedback.md '2023-Sep-Summary-Feedback.md'
-[F-mar-2023]: resources/feedbacks/2023-Mar-Summary-Feedback.md '2023-Mar-Summary-Feedback.md'
-[F-sep-2022]: resources/feedbacks/2022-Sep-Summary-Feedback.md '2022-Sep-Summary-Feedback.md'
-[F-jun-jul-2022]: resources/feedbacks/2022-Jun-Jul-LevelUp-Feedbacks.md '2022-Jun-Jul-LevelUp-Feedbacks.md'
-[F-jun-2021]: resources/feedbacks/2021-Jun-Simple-Feedback.md '2021-Jun-Simple-Feedback.md'
-[F-jan-2021]: resources/feedbacks/2021-Jan-Quit-Feedback.md '2021-Jan-Quit-Feedback.md'
-[F-sep-2020]: resources/feedbacks/2020-Sep-Quit-Feedback.md '2020-Sep-Quit-Feedback.md'
+[F-sep-2023]: resources/pages/feedbacks/2023-Sep-Summary-Feedback.md '2023-Sep-Summary-Feedback.md'
+[F-mar-2023]: resources/pages/feedbacks/2023-Mar-Summary-Feedback.md '2023-Mar-Summary-Feedback.md'
+[F-sep-2022]: resources/pages/feedbacks/2022-Sep-Summary-Feedback.md '2022-Sep-Summary-Feedback.md'
+[F-jun-jul-2022]: resources/pages/feedbacks/2022-Jun-Jul-LevelUp-Feedbacks.md '2022-Jun-Jul-LevelUp-Feedbacks.md'
+[F-jun-2021]: resources/pages/feedbacks/2021-Jun-Simple-Feedback.md '2021-Jun-Simple-Feedback.md'
+[F-jan-2021]: resources/pages/feedbacks/2021-Jan-Quit-Feedback.md '2021-Jan-Quit-Feedback.md'
+[F-sep-2020]: resources/pages/feedbacks/2020-Sep-Quit-Feedback.md '2020-Sep-Quit-Feedback.md'
 
 # Project Challenges
 
@@ -78,11 +78,11 @@ The table shows you context around. Please, follow links to see full Stories:
 | 2019 |     RINANU      |     [**My&nbsp;first&nbsp;Complex&nbsp;App**][STORY-2]      | Implement&nbsp;complex Desktop app                      | Technologies&nbsp;Research, Requirements&nbsp;Clarification, Architecture, Development, Maintenance, Expansion, Integration&nbsp;Testing, Packaging, Cross-Platforming |
 | 2018 |     RINANU      |    [**My&nbsp;first&nbsp;Commercial&nbsp;App**][STORY-1]    | Implement&nbsp;simple Desktop app                       | Technical&nbsp;Research                                                                                                                                                |
 
-[STORY-5]: resources/projects/2021-MY-FIRST-CLOUD-DEVELOPMENT.md '2021-MY-FIRST-CLOUD-DEVELOPMENT.md' 
-[STORY-4]: resources/projects/2021-MY-FIRST-APP-IMPROVEMENT.md '2021-MY-FIRST-APP-IMPROVEMENT.md'
-[STORY-3]: resources/projects/2020-MY-FIRST-PROJECT-AT-EPAM.md '2020-MY-FIRST-PROJECT-AT-EPAM.md'
-[STORY-2]: resources/projects/2019-MY-FIRST-COMPLEX-APP.md '2019-MY-FIRST-COMPLEX-APP.md'
-[STORY-1]: resources/projects/2018-MY-FIRST-COMMERCIAL-APP.md '2018-MY-FIRST-COMMERCIAL-APP.md'
+[STORY-5]: resources/pages/challenges/2021-MY-FIRST-CLOUD-DEVELOPMENT.md '2021-MY-FIRST-CLOUD-DEVELOPMENT.md' 
+[STORY-4]: resources/pages/challenges/2021-MY-FIRST-APP-IMPROVEMENT.md '2021-MY-FIRST-APP-IMPROVEMENT.md'
+[STORY-3]: resources/pages/challenges/2020-MY-FIRST-PROJECT-AT-EPAM.md '2020-MY-FIRST-PROJECT-AT-EPAM.md'
+[STORY-2]: resources/pages/challenges/2019-MY-FIRST-COMPLEX-APP.md '2019-MY-FIRST-COMPLEX-APP.md'
+[STORY-1]: resources/pages/challenges/2018-MY-FIRST-COMMERCIAL-APP.md '2018-MY-FIRST-COMMERCIAL-APP.md'
 
 # Skills Details
 

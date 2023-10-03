@@ -1,8 +1,8 @@
-*Go back to [**Project Challenges**](../../README.md#project-challenges)*
+*Go back to [**Project Challenges**](../../../README.md#project-challenges)*
 
 # 2021 - My first Cloud Development
 
-![picture](../pictures/projects/Cloud-Email-Microservice.PNG)
+![picture](../../challenges/projects/Cloud-Email-Microservice.PNG)
 
 When I joined the USA Enterprise project, I was assigned to a Scrum team that was on initial phase of a Microservice development.
 There was a goal to build service for Email sending and Delivery Status processing that is based on Spring API and AWS components.
@@ -47,4 +47,4 @@ My contribution helped make it faster and with better quality.
 This way I started working on a long-term project and showed myself as an effective engineer.
 Stakeholders appreciated my performance and I decided to continue working on this project.
 
-*Go back to [**Project Challenges**](../../README.md#project-challenges)*
+*Go back to [**Project Challenges**](../../../README.md#project-challenges)*

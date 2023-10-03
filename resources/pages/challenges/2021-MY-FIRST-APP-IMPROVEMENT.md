@@ -1,8 +1,8 @@
-*Go back to [**Project Challenges**](../../README.md#project-challenges)*
+*Go back to [**Project Challenges**](../../../README.md#project-challenges)*
 
 # 2021 - My first App Improvement
 
-![picture](../pictures/projects/AWS-Lambda-Pipeline.PNG)
+![picture](../../challenges/projects/AWS-Lambda-Pipeline.PNG)
 
 There was automated Cloud Pipeline which had final element as **AWS Lambda** function written in Java.
 AWS Lambda was a complex one which parses custom events, works with PostgreSQL and InfluxDB, calls other services by HTTP, 
@@ -148,4 +148,4 @@ but also I made internal improvements: codebase was refactored
 and development approaches were established.
 Eventually, such improvements had a positive impact on further application support.
 
-*Go back to [**Project Challenges**](../../README.md#project-challenges)*
+*Go back to [**Project Challenges**](../../../README.md#project-challenges)*
