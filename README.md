@@ -8,13 +8,13 @@ The portfolio is created for any interested IT specialist such as Researcher, Re
 The portfolio shows interesting facts about my programming experience and personal qualities.<br>
 The portfolio consists of additional topics which are NOT included in my CV:
 
-- [About](#about)
-- [Project Feedbacks](#project-feedbacks)
-- [Project Challenges](#project-challenges)
-- [Skills Details](#skills-details)
-- [Leadership Experience](#leadership-experience)
-- [Self-Education](#self-education)
-- [Project Changing](#project-changing)
+- [**About**](#about)
+- [**Project Feedbacks**](#project-feedbacks)
+- [**Project Challenges**](#project-challenges)
+- [**Skills Details**](#skills-details)
+- [**Leadership Experience**](#leadership-experience)
+- [**Self-Education**](#self-education)
+- [**Project Changing**](#project-changing)
 
 # About
 
