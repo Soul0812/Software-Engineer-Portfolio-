@@ -2,7 +2,7 @@
 
 # 2021 - As part of constant feedback process
 
-### Reviewed by Team Lead:
+**Reviewed by Team Lead:**
 
 ![picture](../pictures/feedbacks/2021-Jun-Simple-Project-Feedback-from-TeamLead.PNG)
 
