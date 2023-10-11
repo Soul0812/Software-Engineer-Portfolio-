@@ -51,8 +51,8 @@ The table shows you context around. Please, follow links to see actual Feedbacks
 | Sep 2023 | EPAM<br>Systems | [**Half-year Feedback Summary**][F-sep-2023]  | Product&nbsp;Owner&nbsp;(customer)<br>Team&nbsp;Lead&nbsp;(customer)<br>Scrum&nbsp;Master&nbsp;(customer)<br>Tech&nbsp;Lead&nbsp;(EPAM) | Summing up the entire work path on a project |
 | Mar 2023 | EPAM<br>Systems | [**Half-year Feedback Summary**][F-mar-2023]  | Product&nbsp;Owner&nbsp;(customer)<br>Scrum&nbsp;Master&nbsp;(customer)<br>Delivery&nbsp;Manager&nbsp;(EPAM)                            | As part of constant feedback process         |
 | Sep 2022 | EPAM<br>Systems | [**Half-year Feedback Summary**][F-sep-2022]  | Product&nbsp;Owner&nbsp;(customer)<br>Team&nbsp;Lead&nbsp;(customer)<br>Scrum&nbsp;Master&nbsp;(customer)                               | As part of constant feedback process         |
-| Jun 2022 | EPAM<br>Systems | [**Level-Up&nbsp;Feedbacks**][F-jun-jul-2022] | Team&nbsp;Lead&nbsp;(EPAM)<br>Tech&nbsp;Lead&nbsp;(EPAM)                                                                                | As part of Level-Up assessment preparation   |
-| Jun 2021 | EPAM<br>Systems |     [**Half-year Feedback**][F-jun-2021]      | Team&nbsp;Lead&nbsp;(EPAM)                                                                                                              | As part of constant feedback process         |
+| Jan 2022 | EPAM<br>Systems | [**Level-Up&nbsp;Feedbacks**][F-jun-jul-2022] | Team&nbsp;Lead&nbsp;(EPAM)<br>Tech&nbsp;Lead&nbsp;(EPAM)                                                                                | As part of Level-Up assessment preparation   |
+| Jan 2021 | EPAM<br>Systems |     [**Half-year Feedback**][F-jun-2021]      | Team&nbsp;Lead&nbsp;(EPAM)                                                                                                              | As part of constant feedback process         |
 | Jan 2021 | EPAM<br>Systems |        [**Quit Feedback**][F-jan-2021]        | Developer&nbsp;(EPAM)                                                                                                                   | Summing up the entire work path on a project |
 | Sep 2020 |     RINANU      |        [**Quit Feedback**][F-sep-2020]        | Project&nbsp;Manager&nbsp;(RINANU)                                                                                                      | Summing up the entire work path on a project |
 
@@ -342,9 +342,10 @@ Working on my hard and soft skills, have next achievements so far:
 
 ![picture](resources/pictures/memes/Meme-Handshake.PNG)
 
-My thoughts on changing the project: 
-- When is the right time to look for new opportunities?
-- What to check to find the best fit?
+1. First, I would like to share my thoughts on changing the project.
+2. Then, my thoughts will be supported by actual facts about my project changes.
+
+#### When is the right time to look for new opportunities?
 
 Personally, I really like stable companies and projects where I can work for a long period, e.g. 2 years and more.
 Long term assignment is profitable for both: developer and company.
@@ -365,6 +366,8 @@ In such cases, first of all, I talk about my concerns with project managers.
 If we can't find solution, there are many other projects to join.
 I try to find the best fit and finally accept the offer very carefully.
 Joining new project is weighted decision that means I commit for long term cooperation.
+
+#### What to check to find the best fit?
 
 So, I have some points to check when applying for new projects:
 
@@ -398,6 +401,15 @@ So, I have some points to check when applying for new projects:
 - Compensation Range for the position.
 - Compensation Review: What to do to get it? How often? Regular or by asking? Which amount is it possible to have in 2 years?
 
+#### What is my actual history of project changes?
+
+|                  Dates                  |     Company     | Project                  | Leaving Reason                                                                                                                                                                                                                                                                                |
+|:---------------------------------------:|:---------------:|:-------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     Oct&nbsp;2021<br>Oct&nbsp;2023      | EPAM<br>Systems | Enterprise&nbsp;Web      | Driven by Customer. As part of Cost Saving program, almost all EPAM employees were singed out. As stated by the Customer, there were internal processes that are not related to EPAMer's performance. In fact, middle management appreciated our contribution and it was a big loss for them. |
+|     Jan&nbsp;2021<br>Sep&nbsp;2021      | EPAM<br>Systems | Cloud&nbsp;Pipeline      | Driven by Customer. Our team successfully finished active phase of development by releasing stable version of app. Finally, we organized knowledge transfer and passed app to support team.                                                                                                   |
+| Oct&nbsp;2020&nbsp;-&nbsp;Dec&nbsp;2020 | EPAM<br>Systems | Java&nbsp;Tool           | Driven by Customer. It was short project with fixed term assignment. Our team successfully implemented pilot version of application and it was enough for the Customers at that moment.                                                                                                       |
+| Apr&nbsp;2018&nbsp;-&nbsp;Sep&nbsp;2020 |     RINANU      | OKO&nbsp;GUI&nbsp;Client | Driven by me. Generally, it was kinda government department and I wanted to switch to work in an IT company. Leaving this project, I left successfully implemented beta version of app and did knowledge transfer.                                                                            |
+
 # Programming Habits
 
 Some tips and approaches for programmers that I noticed and personally found useful:
@@ -420,4 +432,4 @@ Some tips and approaches for programmers that I noticed and personally found use
 
 # Thanks for attention!
 
-Page is up-to-date for September 2023
+Updated: October 2023
