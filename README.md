@@ -51,8 +51,8 @@ The table shows you context around. Please, follow links to see actual Feedbacks
 | Sep 2023 | EPAM<br>Systems | [**Half-year Feedback Summary**][F-sep-2023]  | Product&nbsp;Owner&nbsp;(customer)<br>Team&nbsp;Lead&nbsp;(customer)<br>Scrum&nbsp;Master&nbsp;(customer)<br>Tech&nbsp;Lead&nbsp;(EPAM) | Summing up the entire work path on a project |
 | Mar 2023 | EPAM<br>Systems | [**Half-year Feedback Summary**][F-mar-2023]  | Product&nbsp;Owner&nbsp;(customer)<br>Scrum&nbsp;Master&nbsp;(customer)<br>Delivery&nbsp;Manager&nbsp;(EPAM)                            | As part of constant feedback process         |
 | Sep 2022 | EPAM<br>Systems | [**Half-year Feedback Summary**][F-sep-2022]  | Product&nbsp;Owner&nbsp;(customer)<br>Team&nbsp;Lead&nbsp;(customer)<br>Scrum&nbsp;Master&nbsp;(customer)                               | As part of constant feedback process         |
-| Jan 2022 | EPAM<br>Systems | [**Level-Up&nbsp;Feedbacks**][F-jun-jul-2022] | Team&nbsp;Lead&nbsp;(EPAM)<br>Tech&nbsp;Lead&nbsp;(EPAM)                                                                                | As part of Level-Up assessment preparation   |
-| Jan 2021 | EPAM<br>Systems |     [**Half-year Feedback**][F-jun-2021]      | Team&nbsp;Lead&nbsp;(EPAM)                                                                                                              | As part of constant feedback process         |
+| Jun 2022 | EPAM<br>Systems | [**Level-Up&nbsp;Feedbacks**][F-jun-jul-2022] | Team&nbsp;Lead&nbsp;(EPAM)<br>Tech&nbsp;Lead&nbsp;(EPAM)                                                                                | As part of Level-Up assessment preparation   |
+| Jun 2021 | EPAM<br>Systems |     [**Half-year Feedback**][F-jun-2021]      | Team&nbsp;Lead&nbsp;(EPAM)                                                                                                              | As part of constant feedback process         |
 | Jan 2021 | EPAM<br>Systems |        [**Quit Feedback**][F-jan-2021]        | Developer&nbsp;(EPAM)                                                                                                                   | Summing up the entire work path on a project |
 | Sep 2020 |     RINANU      |        [**Quit Feedback**][F-sep-2020]        | Project&nbsp;Manager&nbsp;(RINANU)                                                                                                      | Summing up the entire work path on a project |
 
@@ -70,9 +70,9 @@ The table shows you context around. Please, follow links to see actual Feedbacks
 
 The table shows you context around. Please, follow links to see full Stories:
 
-| Date |     Company     |                         Story Link                          | Goal                                                    | Major Points                                                                                                                                                           |
+| Year |     Company     |                         Story Link                          | Goal                                                    | Major Points                                                                                                                                                           |
 |:----:|:---------------:|:-----------------------------------------------------------:|:--------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2021 | EPAM<br>Systems |  [**My&nbsp;first&nbsp;Cloud&nbsp;Development**][STORY-5]   | Implement&nbsp;AWS-based Microservice                   | POC, Refactoring,<br>End-to-end&nbsp;Testing,<br>Deployment&nbsp;Automation                                                                                            |
+| 2021 | EPAM<br>Systems |  [**My&nbsp;first&nbsp;Cloud&nbsp;Development**][STORY-5]   | Implement&nbsp;AWS-based Microservice                   | POC, Refactoring, End-to-end&nbsp;Testing, Deployment&nbsp;Automation                                                                                                  |
 | 2021 | EPAM<br>Systems |   [**My&nbsp;first&nbsp;App&nbsp;Improvement**][STORY-4]    | Improve&nbsp;AWS&nbsp;Lambda and release stable version | Bug&nbsp;Fixing, Refactoring, Extension, Local&nbsp;Testing, Remote&nbsp;Debug, Knowledge&nbsp;Transfer                                                                |
 | 2020 | EPAM<br>Systems | [**My&nbsp;first&nbsp;project&nbsp;at&nbsp;EPAM**][STORY-3] | Implement&nbsp;Java&nbsp;Tool                           | Requirements&nbsp;Clarification, Research, Development, Team&nbsp;Leading, Demo                                                                                        |
 | 2019 |     RINANU      |     [**My&nbsp;first&nbsp;Complex&nbsp;App**][STORY-2]      | Implement&nbsp;complex Desktop app                      | Technologies&nbsp;Research, Requirements&nbsp;Clarification, Architecture, Development, Maintenance, Expansion, Integration&nbsp;Testing, Packaging, Cross-Platforming |
@@ -204,12 +204,12 @@ Cases where I organized and supported processes for work and education:
 
 #### Non-project Mentoring
 
-Was a Mentor in EPAM educational (pre-production) programs:
+Was a Mentor in EPAM educational (pre-production) programs&ast;:
 
 - Jul 2022 - Oct 2022. \[RD Java Lab Summer 2022\]. Supported 5 students.
 - Oct 2021 - Feb 2022. \[RD Java Lab Autumn 2021\]. Supported 2 students. 
 
-Educational program consists of theoretical lectures and practical tasks.
+&ast;Educational program consists of theoretical lectures and practical tasks.
 During task completion each Mentee is assigned to specific Mentor.
 That time Mentor supports students by organizing one-to-one sessions to discuss 
 task requirements and implementation way, answer questions, check progress, accept tasks.
@@ -233,18 +233,19 @@ Working on my hard and soft skills, have next achievements so far:
 
 #### EPAM English classes. Completed 10 live trainings:
 
-| Completed | Name                               | Level       |    Efforts |  Duration |
-|----------:|:-----------------------------------|:------------|-----------:|----------:|
-|  Sep 2023 | **Presenting and Public Speaking** | B1+/B2/B2+  | 20 lessons |  3 months |
-|  Jul 2023 | **Virtual Communication**          | B1+/B2/B2+  | 26 lessons |  4 months |
-|  Apr 2023 | **Business Communication**         | B1+/B2      | 41 lessons |  7 months |
-|  Nov 2022 | **IT Grammar**                     | B1+/B2      | 17 lessons |  3 months |
-|  Jul 2022 | **Small Talks**                    | B1/B1+      |  8 lessons |  2 months |
-|  Jul 2022 | **IT Grammar**                     | A2+/B1      | 17 lessons |  4 months |
-|  May 2022 | **Speaking Club**                  | B1/B2/C1/C2 | 10 lessons |  3 months |
-|  Feb 2022 | **Project Interviews**             | A2+/B1/B1+  | 10 lessons |  2 months |
-|  Dec 2021 | **Breaking the Language Barrier**  | A2+/B1      | 11 lessons |  2 months |
-|  Oct 2021 | **Business Communication**         | A2+/B1      | 40 lessons |  7 months |
+| Completed | Name                               | Level       |    Efforts | Duration |
+|----------:|:-----------------------------------|:------------|-----------:|---------:|
+|  Oct 2023 | **IT Communication**               | B2/B2+      | 17 lessons | 2 months |
+|  Sep 2023 | **Presenting and Public Speaking** | B1+/B2/B2+  | 20 lessons | 3 months |
+|  Jul 2023 | **Virtual Communication**          | B1+/B2/B2+  | 26 lessons | 4 months |
+|  Apr 2023 | **Business Communication**         | B1+/B2      | 41 lessons | 7 months |
+|  Nov 2022 | **IT Grammar**                     | B1+/B2      | 17 lessons | 3 months |
+|  Jul 2022 | **Small Talks**                    | B1/B1+      |  8 lessons | 2 months |
+|  Jul 2022 | **IT Grammar**                     | A2+/B1      | 17 lessons | 4 months |
+|  May 2022 | **Speaking Club**                  | B1/B2/C1/C2 | 10 lessons | 3 months |
+|  Feb 2022 | **Project Interviews**             | A2+/B1/B1+  | 10 lessons | 2 months |
+|  Dec 2021 | **Breaking the Language Barrier**  | A2+/B1      | 11 lessons | 2 months |
+|  Oct 2021 | **Business Communication**         | A2+/B1      | 40 lessons | 7 months |
 
 #### EPAM Learning. Completed 4 trainings:
 
@@ -270,7 +271,7 @@ Working on my hard and soft skills, have next achievements so far:
 |  Sep 2023 | [**Exam Prep: Microsoft Azure Fundamentals**](https://www.linkedin.com/learning/exam-prep-microsoft-azure-fundamentals-az-900-2020 'https://www.linkedin.com/learning/exam-prep-microsoft-azure-fundamentals-az-900-2020')                                                 |                                                                                                                                                                                                 |   Beginner   | [File][LinkedIn-Cert-22] |
 |  Sep 2023 | [**Learning Kubernetes**](https://www.linkedin.com/learning/learning-kubernetes-16086900 'https://www.linkedin.com/learning/learning-kubernetes-16086900')                                                                                                                 |                                                                                                                                                                                                 | Intermediate | [File][LinkedIn-Cert-21] |
 |  Aug 2023 | [**Learning Docker**](https://www.linkedin.com/learning/learning-docker-17236240)                                                                                                                                                                                          |                                                                                                                                                                                                 |   Beginner   | [File][LinkedIn-Cert-20] |
-|  Aug 2023 | [**SQL Essential Training**](https://www.linkedin.com/learning/sql-essential-training-20685933)                                                                                                                                                                            |                                                                                                                                                                                                 |   Beginner   | [File][LinkedIn-Cert-19] |
+|  Aug 2023 | [**SQL Essential Training**](https://www.linkedin.com/learning/sql-essential-training-20685933)                                                                                                                                                                            | [repository](https://github.com/Yevhen-Tkachenko-1/SQLite-Demo 'https://github.com/Yevhen-Tkachenko-1/SQLite-Demo')                                                                             |   Beginner   | [File][LinkedIn-Cert-19] |
 |  Aug 2023 | [**Creating Your First Spring Boot Microservice**](https://www.linkedin.com/learning/creating-your-first-spring-boot-microservice)                                                                                                                                         | [repository](https://github.com/Yevhen-Tkachenko-1/Spring-Boot-Demo-Microservice-with-MongoDB 'https://github.com/Yevhen-Tkachenko-1/Spring-Boot-Demo-Microservice-with-MongoDB')               | Intermediate | [File][LinkedIn-Cert-18] |
 |  Apr 2023 | [**Learning REST APIs**](https://www.linkedin.com/learning/learning-rest-apis)                                                                                                                                                                                             |                                                                                                                                                                                                 |   Beginner   | [File][LinkedIn-Cert-17] |
 |  Mar 2023 | [**SQL vs NoSQL: Which Database Type Is Right for You?**](https://www.linkedin.com/learning/sql-vs-nosql-which-database-type-is-right-for-you)                                                                                                                             |                                                                                                                                                                                                 | Intermediate | [File][LinkedIn-Cert-16] |
@@ -323,20 +324,20 @@ Working on my hard and soft skills, have next achievements so far:
 
 #### Books Reading:
 
-| Date | Title                                                                 | Authorship                            |
-|:----:|:----------------------------------------------------------------------|:--------------------------------------|
-| 2023 | **Designing Data-Intensive Applications**                             | Martin Kleppmann                      |
-| 2020 | **Java XML and JSON: Document processing for Java SE**                | Jeff Friesen                          |
-| 2019 | **Kotlin**                                                            | Head First                            |
-| 2019 | **Android Development**                                               | Head First                            |
-| 2019 | **Design Patterns**                                                   | Head First                            |
-| 2019 | **Pro JavaFX 8: Building Desktop, Mobile, and Embedded Java Clients** | Apress                                |
-| 2018 | **Learn JavaFX 8: Building User Experience and Interfaces**           | Kishori Sharan                        |
-| 2018 | **JavaFX 8: Introduction By Example**                                 | Apress                                |
-| 2018 | **Java: A Beginner's Guide**                                          | Herbert Schildt                       |
-| 2018 | **Effective Java**                                                    | Joshua Bloch                          |
-| 2018 | **The C++ Programming Language**                                      | Bjarne Stroustrup                     |
-| 2018 | **The C Programming Language**                                        | Brian W.Kernighan<br>Dennis M.Ritchie |
+| Reading | Title                                                                 | Authorship                            |
+|:-------:|:----------------------------------------------------------------------|:--------------------------------------|
+|  2023   | **Designing Data-Intensive Applications**                             | Martin Kleppmann                      |
+|  2020   | **Java XML and JSON: Document processing for Java SE**                | Jeff Friesen                          |
+|  2019   | **Kotlin**                                                            | Head First                            |
+|  2019   | **Android Development**                                               | Head First                            |
+|  2019   | **Design Patterns**                                                   | Head First                            |
+|  2019   | **Pro JavaFX 8: Building Desktop, Mobile, and Embedded Java Clients** | Apress                                |
+|  2018   | **Learn JavaFX 8: Building User Experience and Interfaces**           | Kishori Sharan                        |
+|  2018   | **JavaFX 8: Introduction By Example**                                 | Apress                                |
+|  2018   | **Java: A Beginner's Guide**                                          | Herbert Schildt                       |
+|  2018   | **Effective Java**                                                    | Joshua Bloch                          |
+|  2018   | **The C++ Programming Language**                                      | Bjarne Stroustrup                     |
+|  2018   | **The C Programming Language**                                        | Brian W.Kernighan<br>Dennis M.Ritchie |
 
 # Project Changing
 
@@ -426,7 +427,9 @@ Some tips and approaches for programmers that I noticed and personally found use
   This way, refactoring helped me several times to find an issue.
 - Writing documentation helps better understand what you've done,
   structurise gained knowledge and release memory.
-  Once important details are covered, you can forget about it and easily switch to the next task.
+  Once important details are covered, you can forget about it and easily switch to the next task.<br>
+  Documenting is also right step when you learn something new. 
+  If you can describe point in you own _written_ words, you understand it.
 - Adjusting the video playback speed helps learn quickly.
   I like watching tutorials, but sometimes it's very detailed and takes much time.
   Advice is quite simple but helped me a lot.
@@ -435,4 +438,4 @@ Some tips and approaches for programmers that I noticed and personally found use
 
 # Thanks for attention!
 
-Updated: October 2023
+Updated: **October 2023**
