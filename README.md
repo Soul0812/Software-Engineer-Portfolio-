@@ -231,7 +231,7 @@ Finally, Mentor provides feedback on the Mentees performance.
 
 Working on my hard and soft skills, have next achievements so far:
 
-#### EPAM English classes. Completed 10 live trainings:
+#### EPAM English classes. Completed 11 live trainings:
 
 | Completed | Name                               | Level       |    Efforts | Duration |
 |----------:|:-----------------------------------|:------------|-----------:|---------:|
