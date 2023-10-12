@@ -342,8 +342,11 @@ Working on my hard and soft skills, have next achievements so far:
 
 ![picture](resources/pictures/memes/Meme-Handshake.PNG)
 
-1. First, I would like to share my thoughts on changing the project.
-2. Then, my thoughts will be supported by actual facts about my project changes.
+My thoughts and actual history of project changes:
+
+- [**When** is the right time to look for new opportunities?](#when-is-the-right-time-to-look-for-new-opportunities)
+- [**What** to check to find the best fit?](#what-to-check-to-find-the-best-fit)
+- [**Why** did I actually change 4 projects?](#why-did-i-actually-change-4-projects)
 
 #### When is the right time to look for new opportunities?
 
@@ -401,14 +404,14 @@ So, I have some points to check when applying for new projects:
 - Compensation Range for the position.
 - Compensation Review: What to do to get it? How often? Regular or by asking? Which amount is it possible to have in 2 years?
 
-#### What is my actual history of project changes?
+#### Why did I actually change 4 projects?
 
-|                  Dates                  |     Company     |           Project            | Leaving Reason                                                                                                                                                                                                                                                                                   |
-|:---------------------------------------:|:---------------:|:----------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Oct&nbsp;2021&nbsp;-&nbsp;Oct&nbsp;2023 | EPAM<br>Systems |   **Enterprise&nbsp;Web**    | Driven by Customer. As part of *Cost Saving* program, almost all EPAM employees were ramped down. As stated by the Customer, there were internal processes that are not related to EPAMer's performance. In fact, middle management appreciated our contribution and it was a big loss for them. |
-| Jan&nbsp;2021&nbsp;-&nbsp;Sep&nbsp;2021 | EPAM<br>Systems |   **Cloud&nbsp;Pipeline**    | Driven by Customer. Our team successfully finished active phase of development by releasing stable version of app. Finally, we organized knowledge transfer and passed app to support team.                                                                                                      |
-| Oct&nbsp;2020&nbsp;-&nbsp;Dec&nbsp;2020 | EPAM<br>Systems |      **Java&nbsp;Tool**      | Driven by Customer. It was short project with fixed term assignment. Our team successfully implemented pilot version of application and it was enough for the Customers at that moment.                                                                                                          |
-| Apr&nbsp;2018&nbsp;-&nbsp;Sep&nbsp;2020 |     RINANU      | **OKO&nbsp;GUI&nbsp;Client** | Driven by me. Generally, it was kinda government department and I wanted to switch to work in an IT company. Leaving this project, I left successfully implemented beta version of app and did comprehensive knowledge transfer.                                                                 |
+|                  Dates                  |     Company     |           Project            | Leaving Reason                                                                                                                                                                                                                                                                                                       |
+|:---------------------------------------:|:---------------:|:----------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Oct&nbsp;2021&nbsp;-&nbsp;Oct&nbsp;2023 | EPAM<br>Systems |   **Enterprise&nbsp;Web**    | Driven by Customer. As part of *Cost Saving* program, almost all EPAM employees were ramped down. As stated by the Customer Top Management, there were internal processes that are not related to EPAM performance. In fact, Customer Middle Management appreciated our contribution and it was a big loss for them. |
+| Jan&nbsp;2021&nbsp;-&nbsp;Sep&nbsp;2021 | EPAM<br>Systems |   **Cloud&nbsp;Pipeline**    | Driven by Customer. Our team successfully finished active phase of development by releasing stable version of app. Finally, we organized knowledge transfer and passed app to support team.                                                                                                                          |
+| Oct&nbsp;2020&nbsp;-&nbsp;Dec&nbsp;2020 | EPAM<br>Systems |      **Java&nbsp;Tool**      | Driven by Customer. It was short project with fixed term assignment. Our team successfully implemented pilot version of application and it was enough for the Customers at that moment.                                                                                                                              |
+| Apr&nbsp;2018&nbsp;-&nbsp;Sep&nbsp;2020 |     RINANU      | **OKO&nbsp;GUI&nbsp;Client** | Driven by me. Generally, it was kinda government department and I wanted to switch to work in an IT company. Leaving this project, I left successfully implemented beta version of app and did comprehensive knowledge transfer.                                                                                     |
 
 # Programming Habits
 
