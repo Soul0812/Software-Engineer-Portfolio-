@@ -209,21 +209,24 @@ Was a Mentor in EPAM educational (pre-production) programs&ast;:
 - Jul 2022 - Oct 2022. \[RD Java Lab Summer 2022\]. Supported 5 students.
 - Oct 2021 - Feb 2022. \[RD Java Lab Autumn 2021\]. Supported 2 students. 
 
-&ast;Educational program consists of theoretical lectures and practical tasks.
-During task completion each Mentee is assigned to specific Mentor.
-That time Mentor supports students by organizing one-to-one sessions to discuss 
-task requirements and implementation way, answer questions, check progress, accept tasks.
-Also, there is offline support using chatting, regular code review and app local testing.
-Finally, Mentor provides feedback on the Mentees performance.
+  &ast;_educational program_ consists of theoretical lectures and practical tasks.
+  During task completion each Mentee is assigned to specific Mentor.
+  That time Mentor supports students by organizing one-to-one sessions to discuss 
+  task requirements and implementation way, answer questions, check progress, accept tasks.
+  Also, there is offline support using chatting, regular code review and app local testing.
+  Finally, Mentor provides feedback on the Mentees performance.
 
 #### Non-project Technical Support
 
-- Sep 2023. Conducted mock interview to help EPAM colleague get position on a project.
+- Sep 2023. Conducted mock interviews to help EPAM colleagues get position on a project.
 
-#### Math Teaching
+#### Private Tutoring&ast; (mathematics)
 
-- 2017\. Private Tutor: High Math for students. Supported 4 students.
-- 2016\. Private Tutor: Mathematics for schoolchildren. Supported 8 students.
+- 2017\. Conducted ~ 150 offline classes: _High Mathematics for university students_. Supported 4 students.
+- 2016\. Conducted ~ 300 offline classes: _Mathematics for schoolchildren_. Supported 8 students.
+
+  &ast;_private tutoring_ is support for students while they are studying at school or university.
+  It includes help with homework, clarification of difficult points, exam preparation.
 
 # Self-education
 
