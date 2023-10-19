@@ -197,36 +197,31 @@ The table shows you context around. Please, follow links to see full Stories:
 
 Cases where I organized and supported processes for work and education:
 
-#### Project Team Leading
+#### Project Activities
 
-- Oct 2021 - Dec 2021. Lead Developer in a team of 3 developers.<br>
-  Was in charge of work planning, meeting holding, development support.
+- Oct 2023. **Knowledge Transfer**: conducted cross-team online meetings.
+  Shared technical details of implementations done by our team during my entire work path.
+- Sep 2023. **Onboarding**: supported the developer to get started in our team.
+- Oct 2021 - Oct 2023. **Mentoring**: provided regular support for the developer in the team.
+- Oct 2020 - Dec 2020. **Team Leading**: held the position of Lead Developer in a team of 3 devs.
+  In addition to development, I was in charge of work planning, meeting holding, development support.
 
-#### Non-project Mentoring
+#### Non-Project Activities
 
-Was a Mentor in EPAM educational (pre-production) programs&ast;:
+- Sep 2023. **Interviewing**: conducted mock interviews to help EPAM colleagues get position on a project.
+- Jul 2022 - Oct 2022. **Mentoring**: played a Mentor role in the EPAM educational program&ast; _RD Java Lab Summer 2022_. Supported 5 students.
+- Oct 2021 - Feb 2022. **Mentoring**: played a Mentor role in the EPAM educational program&ast; _RD Java Lab Autumn 2021_. Supported 2 students. 
+- Sep 2016 - Feb 2018. **Private Tutoring&ast;&ast;**: worked as a mathematics Teacher. Supported 12 students by conducting ~ 650 offline classes in total.
 
-- Jul 2022 - Oct 2022. \[RD Java Lab Summer 2022\]. Supported 5 students.
-- Oct 2021 - Feb 2022. \[RD Java Lab Autumn 2021\]. Supported 2 students. 
+&ast;_educational program_ is pre-production activity that consists of theoretical lectures and practical tasks.
+During task completion each Mentee is assigned to specific Mentor.
+That time Mentor supports students by organizing one-to-one sessions to discuss 
+task requirements and implementation way, answer questions, check progress, accept tasks.
+Also, there is offline support using chatting, regular code review and app local testing.
+Finally, Mentor provides feedback on the Mentees performance.
 
-  &ast;_educational program_ consists of theoretical lectures and practical tasks.
-  During task completion each Mentee is assigned to specific Mentor.
-  That time Mentor supports students by organizing one-to-one sessions to discuss 
-  task requirements and implementation way, answer questions, check progress, accept tasks.
-  Also, there is offline support using chatting, regular code review and app local testing.
-  Finally, Mentor provides feedback on the Mentees performance.
-
-#### Non-project Technical Support
-
-- Sep 2023. Conducted mock interviews to help EPAM colleagues get position on a project.
-
-#### Private Tutoring&ast; (mathematics)
-
-- 2017\. Conducted ~ 150 offline classes: _High Mathematics for university students_. Supported 4 students.
-- 2016\. Conducted ~ 300 offline classes: _Mathematics for schoolchildren_. Supported 8 students.
-
-  &ast;_private tutoring_ is support for students while they are studying at school or university.
-  It includes help with homework, clarification of difficult points, exam preparation.
+&ast;&ast;_private tutoring_ is support for students while they are studying at school or university.
+It includes help with homework, clarification of difficult points, exam preparation.
 
 # Self-education
 
@@ -263,6 +258,7 @@ Working on my hard and soft skills, have next achievements so far:
 
 | Completed | Name                                                                                                                                                                                                                                                                       | Practice                                                                                                                                                                                        |    Level     |       Certificate        |
 |----------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------:|:------------------------:|
+|  Oct 2023 | [**Microservices: Foundations, Design Patterns, Security**](https://www.linkedin.com/learning/paths/getting-started-with-microservices 'https://www.linkedin.com/learning/paths/getting-started-with-microservices')                                                       |                                                                                                                                                                                                 |   Advanced   | [File][LinkedIn-Cert-31] |
 |  Sep 2023 | [**Extending, Securing, and Dockerizing Spring Boot Microservices**](https://www.linkedin.com/learning/extending-securing-and-dockerizing-spring-boot-microservices 'https://www.linkedin.com/learning/extending-securing-and-dockerizing-spring-boot-microservices')      |                                                                                                                                                                                                 |   Advanced   | [File][LinkedIn-Cert-30] |
 |  Sep 2023 | [**Parallel Programming with Java**](https://www.linkedin.com/learning/parallel-and-concurrent-programming-with-java-2 'https://www.linkedin.com/learning/parallel-and-concurrent-programming-with-java-2')                                                                |                                                                                                                                                                                                 |   Advanced   | [File][LinkedIn-Cert-29] |
 |  Sep 2023 | [**Concurrent Programming with Java**](https://www.linkedin.com/learning/parallel-and-concurrent-programming-with-java-1 'https://www.linkedin.com/learning/parallel-and-concurrent-programming-with-java-1')                                                              | [repository](https://github.com/Yevhen-Tkachenko-1/Java-Multithreading-Demo 'https://github.com/Yevhen-Tkachenko-1/Java-Multithreading-Demo')                                                   |   Advanced   | [File][LinkedIn-Cert-28] |
@@ -324,6 +320,7 @@ Working on my hard and soft skills, have next achievements so far:
 [LinkedIn-Cert-28]: resources/certificates/28-CertificateOfCompletion_Parallel%20and%20Concurrent%20Programming%20with%20Java_Part%201.pdf
 [LinkedIn-Cert-29]: resources/certificates/29-CertificateOfCompletion_Parallel%20and%20Concurrent%20Programming%20with%20Java%202.pdf
 [LinkedIn-Cert-30]: resources/certificates/30-CertificateOfCompletion_Extending%20Securing%20and%20Dockerizing%20Spring%20Boot%20Microservices.pdf
+[LinkedIn-Cert-31]: resources/certificates/31-CertificateOfCompletion_Getting%20Started%20with%20Microservices.pdf
 
 #### Books Reading:
 
