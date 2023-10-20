@@ -5,7 +5,6 @@
 ### Welcome to Developer's page!
 
 The portfolio is created for any interested IT specialist such as Researcher, Recruiter, HR, PM or Technical Specialist.<br>
-The portfolio shows interesting facts about my programming experience and personal qualities.<br>
 The portfolio consists of additional topics which are NOT included in my CV:
 
 - [**About**](#about)
@@ -46,15 +45,15 @@ Currently, I'm recognized as a _Senior_ and for the future I plan to take _Lead 
 
 The table shows you context around. Please, follow links to see actual Feedbacks:
 
-|   Date   |     Company     |                 Feedback Link                 | Reviewers                                                                                                                               | Description                                  |
-|:--------:|:---------------:|:---------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|
-| Sep 2023 | EPAM<br>Systems | [**Half-year Feedback Summary**][F-sep-2023]  | Product&nbsp;Owner&nbsp;(customer)<br>Team&nbsp;Lead&nbsp;(customer)<br>Scrum&nbsp;Master&nbsp;(customer)<br>Tech&nbsp;Lead&nbsp;(EPAM) | Summing up the entire work path on a project |
-| Mar 2023 | EPAM<br>Systems | [**Half-year Feedback Summary**][F-mar-2023]  | Product&nbsp;Owner&nbsp;(customer)<br>Scrum&nbsp;Master&nbsp;(customer)<br>Delivery&nbsp;Manager&nbsp;(EPAM)                            | As part of constant feedback process         |
-| Sep 2022 | EPAM<br>Systems | [**Half-year Feedback Summary**][F-sep-2022]  | Product&nbsp;Owner&nbsp;(customer)<br>Team&nbsp;Lead&nbsp;(customer)<br>Scrum&nbsp;Master&nbsp;(customer)                               | As part of constant feedback process         |
-| Jun 2022 | EPAM<br>Systems | [**Level-Up&nbsp;Feedbacks**][F-jun-jul-2022] | Team&nbsp;Lead&nbsp;(EPAM)<br>Tech&nbsp;Lead&nbsp;(EPAM)                                                                                | As part of Level-Up assessment preparation   |
-| Jun 2021 | EPAM<br>Systems |     [**Half-year Feedback**][F-jun-2021]      | Team&nbsp;Lead&nbsp;(EPAM)                                                                                                              | As part of constant feedback process         |
-| Jan 2021 | EPAM<br>Systems |        [**Quit Feedback**][F-jan-2021]        | Developer&nbsp;(EPAM)                                                                                                                   | Summing up the entire work path on a project |
-| Sep 2020 |     RINANU      |        [**Quit Feedback**][F-sep-2020]        | Project&nbsp;Manager&nbsp;(RINANU)                                                                                                      | Summing up the entire work path on a project |
+|   Date   |                                        Company                                        |                 Feedback Link                 | Reviewers                                                                                                                               | Description                                  |
+|:--------:|:-------------------------------------------------------------------------------------:|:---------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|
+| Sep 2023 |           [EPAM<br>Systems](https://www.epam.com/ 'https://www.epam.com/')            | [**Half-year Feedback Summary**][F-sep-2023]  | Product&nbsp;Owner&nbsp;(customer)<br>Team&nbsp;Lead&nbsp;(customer)<br>Scrum&nbsp;Master&nbsp;(customer)<br>Tech&nbsp;Lead&nbsp;(EPAM) | Summing up the entire work path on a project |
+| Mar 2023 |           [EPAM<br>Systems](https://www.epam.com/ 'https://www.epam.com/')            | [**Half-year Feedback Summary**][F-mar-2023]  | Product&nbsp;Owner&nbsp;(customer)<br>Scrum&nbsp;Master&nbsp;(customer)<br>Delivery&nbsp;Manager&nbsp;(EPAM)                            | As part of constant feedback process         |
+| Sep 2022 |           [EPAM<br>Systems](https://www.epam.com/ 'https://www.epam.com/')            | [**Half-year Feedback Summary**][F-sep-2022]  | Product&nbsp;Owner&nbsp;(customer)<br>Team&nbsp;Lead&nbsp;(customer)<br>Scrum&nbsp;Master&nbsp;(customer)                               | As part of constant feedback process         |
+| Jun 2022 |           [EPAM<br>Systems](https://www.epam.com/ 'https://www.epam.com/')            | [**Level-Up&nbsp;Feedbacks**][F-jun-jul-2022] | Team&nbsp;Lead&nbsp;(EPAM)<br>Tech&nbsp;Lead&nbsp;(EPAM)                                                                                | As part of Level-Up assessment preparation   |
+| Jun 2021 |           [EPAM<br>Systems](https://www.epam.com/ 'https://www.epam.com/')            |     [**Half-year Feedback**][F-jun-2021]      | Team&nbsp;Lead&nbsp;(EPAM)                                                                                                              | As part of constant feedback process         |
+| Jan 2021 |           [EPAM<br>Systems](https://www.epam.com/ 'https://www.epam.com/')            |        [**Quit Feedback**][F-jan-2021]        | Developer&nbsp;(EPAM)                                                                                                                   | Summing up the entire work path on a project |
+| Sep 2020 | [RINANU](http://rian.kharkov.ua/index.php/en/ 'http://rian.kharkov.ua/index.php/en/') |        [**Quit Feedback**][F-sep-2020]        | Project&nbsp;Manager&nbsp;(RINANU)                                                                                                      | Summing up the entire work path on a project |
 
 [F-sep-2023]: resources/pages/feedbacks/2023-Sep-Summary-Feedback.md '2023-Sep-Summary-Feedback.md'
 [F-mar-2023]: resources/pages/feedbacks/2023-Mar-Summary-Feedback.md '2023-Mar-Summary-Feedback.md'
@@ -70,13 +69,13 @@ The table shows you context around. Please, follow links to see actual Feedbacks
 
 The table shows you context around. Please, follow links to see full Stories:
 
-| Year |     Company     |                         Story Link                          | Goal                                                    | Major Points                                                                                                                                                           |
-|:----:|:---------------:|:-----------------------------------------------------------:|:--------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2021 | EPAM<br>Systems |  [**My&nbsp;first&nbsp;Cloud&nbsp;Development**][STORY-5]   | Implement&nbsp;AWS-based Microservice                   | POC, Refactoring, End-to-end&nbsp;Testing, Deployment&nbsp;Automation                                                                                                  |
-| 2021 | EPAM<br>Systems |   [**My&nbsp;first&nbsp;App&nbsp;Improvement**][STORY-4]    | Improve&nbsp;AWS&nbsp;Lambda and release stable version | Bug&nbsp;Fixing, Refactoring, Extension, Local&nbsp;Testing, Remote&nbsp;Debug, Knowledge&nbsp;Transfer                                                                |
-| 2020 | EPAM<br>Systems | [**My&nbsp;first&nbsp;project&nbsp;at&nbsp;EPAM**][STORY-3] | Implement&nbsp;Java&nbsp;Tool                           | Requirements&nbsp;Clarification, Research, Development, Team&nbsp;Leading, Demo                                                                                        |
-| 2019 |     RINANU      |     [**My&nbsp;first&nbsp;Complex&nbsp;App**][STORY-2]      | Implement&nbsp;complex Desktop app                      | Technologies&nbsp;Research, Requirements&nbsp;Clarification, Architecture, Development, Maintenance, Expansion, Integration&nbsp;Testing, Packaging, Cross-Platforming |
-| 2018 |     RINANU      |    [**My&nbsp;first&nbsp;Commercial&nbsp;App**][STORY-1]    | Implement&nbsp;simple Desktop app                       | Technical&nbsp;Research                                                                                                                                                |
+| Year |                                        Company                                        |                         Story Link                          | Major Points                                                                                                                                                           | Achievements                                    |
+|:----:|:-------------------------------------------------------------------------------------:|:-----------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------|
+| 2021 |           [EPAM<br>Systems](https://www.epam.com/ 'https://www.epam.com/')            |  [**My&nbsp;first&nbsp;Cloud&nbsp;Development**][STORY-5]   | POC, Refactoring, End-to-end&nbsp;Testing, Deployment&nbsp;Automation                                                                                                  | Implemented and released AWS-based Microservice |
+| 2021 |           [EPAM<br>Systems](https://www.epam.com/ 'https://www.epam.com/')            |   [**My&nbsp;first&nbsp;App&nbsp;Improvement**][STORY-4]    | Bug&nbsp;Fixing, Refactoring, Extension, Local&nbsp;Testing, Remote&nbsp;Debug, Knowledge&nbsp;Transfer                                                                | Improved and released AWS&nbsp;Lambda           |
+| 2020 |           [EPAM<br>Systems](https://www.epam.com/ 'https://www.epam.com/')            | [**My&nbsp;first&nbsp;project&nbsp;at&nbsp;EPAM**][STORY-3] | Requirements&nbsp;Clarification, Research, Development, Team&nbsp;Leading, Demo                                                                                        | Implemented&nbsp;Java&nbsp;Tool                 |
+| 2019 | [RINANU](http://rian.kharkov.ua/index.php/en/ 'http://rian.kharkov.ua/index.php/en/') |     [**My&nbsp;first&nbsp;Complex&nbsp;App**][STORY-2]      | Technologies&nbsp;Research, Requirements&nbsp;Clarification, Architecture, Development, Maintenance, Expansion, Integration&nbsp;Testing, Packaging, Cross-Platforming | Implemented&nbsp;complex Desktop app            |
+| 2018 | [RINANU](http://rian.kharkov.ua/index.php/en/ 'http://rian.kharkov.ua/index.php/en/') |    [**My&nbsp;first&nbsp;Commercial&nbsp;App**][STORY-1]    | Technical&nbsp;Research                                                                                                                                                | Implemented&nbsp;simple Desktop app             |
 
 [STORY-5]: resources/pages/challenges/2021-MY-FIRST-CLOUD-DEVELOPMENT.md '2021-MY-FIRST-CLOUD-DEVELOPMENT.md' 
 [STORY-4]: resources/pages/challenges/2021-MY-FIRST-APP-IMPROVEMENT.md '2021-MY-FIRST-APP-IMPROVEMENT.md'
@@ -110,7 +109,7 @@ The table shows you context around. Please, follow links to see full Stories:
 |                       | **Frontend**        |    entry     |   6 months   |
 |                       |                     |              |              |
 | **Backend**           | **Spring Core**     |   advanced   |  1.5 years   |
-|                       | **JavaEE**          | intermediate |    1 year    |
+|                       | **Java EE**         | intermediate |    1 year    |
 |                       | **Spring Boot**     |    entry     |   6 months   |
 |                       | **Spring Data**     |    entry     |   6 months   |
 |                       | **Spring Web**      |    entry     |   6 months   |
@@ -172,7 +171,7 @@ The table shows you context around. Please, follow links to see full Stories:
 |                       |                     |              |              |
 | **Special**           | **OOP**             |    expert    |   5 years    |
 |                       | **Clean Code**      |    expert    |   4 years    |
-|                       | **Math**            |    expert    |   3 years    |
+|                       | **Mathematics**     |    expert    |   3 years    |
 |                       | **Design Patterns** |   advanced   |   3 years    |
 |                       | **Scrum**           | intermediate |   2 years    |
 |                       | **Kanban**          | intermediate |   2 years    |
@@ -202,7 +201,7 @@ Cases where I organized and supported processes for work and education:
 - Oct 2023. **Knowledge Transfer**: conducted cross-team online meetings.
   Shared technical details of implementations done by our team during my entire work path.
 - Sep 2023. **Onboarding**: supported the developer to get started in our team.
-- Oct 2021 - Oct 2023. **Mentoring**: provided regular support for the developer in the team.
+- Oct 2021 - Oct 2023. **Mentoring**: provided regular support for the developer in our team.
 - Oct 2020 - Dec 2020. **Team Leading**: held the position of Lead Developer in a team of 3 devs.
   In addition to development, I was in charge of work planning, meeting holding, development support.
 
@@ -407,12 +406,12 @@ So, I have some points to check when applying for new projects:
 
 #### Why did I actually change 4 projects?
 
-|                  Dates                  |     Company     |           Project            | Leaving Reason                                                                                                                                                                                                                                                                                                       |
-|:---------------------------------------:|:---------------:|:----------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Oct&nbsp;2021&nbsp;-&nbsp;Oct&nbsp;2023 | EPAM<br>Systems |   **Enterprise&nbsp;Web**    | Driven by Customer. As part of *Cost Saving* program, almost all EPAM employees were ramped down. As stated by the Customer Top Management, there were internal processes that are not related to EPAM performance. In fact, Customer Middle Management appreciated our contribution and it was a big loss for them. |
-| Jan&nbsp;2021&nbsp;-&nbsp;Sep&nbsp;2021 | EPAM<br>Systems |   **Cloud&nbsp;Pipeline**    | Driven by Customer. Our team successfully finished active phase of development by releasing stable version of app. Finally, we organized knowledge transfer and passed app to support team.                                                                                                                          |
-| Oct&nbsp;2020&nbsp;-&nbsp;Dec&nbsp;2020 | EPAM<br>Systems |      **Java&nbsp;Tool**      | Driven by Customer. It was short project with fixed term assignment. Our team successfully implemented pilot version of application and it was enough for the Customers at that moment.                                                                                                                              |
-| Apr&nbsp;2018&nbsp;-&nbsp;Sep&nbsp;2020 |     RINANU      | **OKO&nbsp;GUI&nbsp;Client** | Driven by me. Generally, it was kinda government department and I wanted to switch to work in an IT company. Leaving this project, I left successfully implemented beta version of app and did comprehensive knowledge transfer.                                                                                     |
+|                  Dates                  |                                        Company                                        |           Project            | Leaving Reason                                                                                                                                                                                                                                                                                                       |
+|:---------------------------------------:|:-------------------------------------------------------------------------------------:|:----------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Oct&nbsp;2021&nbsp;-&nbsp;Oct&nbsp;2023 |           [EPAM<br>Systems](https://www.epam.com/ 'https://www.epam.com/')            |   **Enterprise&nbsp;Web**    | Driven by Customer. As part of *Cost Saving* program, almost all EPAM employees were ramped down. As stated by the Customer Top Management, there were internal processes that are not related to EPAM performance. In fact, Customer Middle Management appreciated our contribution and it was a big loss for them. |
+| Jan&nbsp;2021&nbsp;-&nbsp;Sep&nbsp;2021 |           [EPAM<br>Systems](https://www.epam.com/ 'https://www.epam.com/')            |   **Cloud&nbsp;Pipeline**    | Driven by Customer. Our team successfully finished active phase of development by releasing stable version of app. Finally, we organized knowledge transfer and passed app to support team.                                                                                                                          |
+| Oct&nbsp;2020&nbsp;-&nbsp;Dec&nbsp;2020 |           [EPAM<br>Systems](https://www.epam.com/ 'https://www.epam.com/')            |      **Java&nbsp;Tool**      | Driven by Customer. It was short project with fixed term assignment. Our team successfully implemented pilot version of application and it was enough for the Customers at that moment.                                                                                                                              |
+| Apr&nbsp;2018&nbsp;-&nbsp;Sep&nbsp;2020 | [RINANU](http://rian.kharkov.ua/index.php/en/ 'http://rian.kharkov.ua/index.php/en/') | **OKO&nbsp;GUI&nbsp;Client** | Driven by me. Generally, it was kinda government department and I wanted to switch to work in an IT company. Leaving this project, I left successfully implemented beta version of app and did comprehensive knowledge transfer.                                                                                     |
 
 # Programming Habits
 
