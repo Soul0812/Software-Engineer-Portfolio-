@@ -10,26 +10,28 @@ The portfolio consists of additional topics which are NOT included in my CV:
 - [**About**](#about)
 - [**Project Feedbacks**](#project-feedbacks)
 - [**Project Challenges**](#project-challenges)
-- [**Skills Details**](#skills-details)
+- [**Skills Details**](#rated-skills)
 - [**Leadership Experience**](#leadership-experience)
 - [**Self-Education**](#self-education)
 - [**Project Changing**](#project-changing)
+
+Updated **May 2024**
 
 # About
 
 ![picture](resources/pictures/memes/Meme-Software-Engineer.PNG)
 
-Having **Java** as a primary skill, I've been doing commercial development for **5.5 years** so far.
-During this time I've come across different apps such as _Backend_, _REST API_, _Cloud_, _Frontend_, _Desktop_.
-Working on these apps, I've got considerable experience with _Java 8_, _JavaEE_, _Spring_, _AWS_, _SQL_, _NoSQL_, _JavaFX_, _Git_, _Windows_.
+Having **Java** as a primary skill, I've been doing commercial development for **6 years** so far.
+During this time I've come across different apps such as _Backend_, _Cloud_, _Frontend_, _Desktop_.
+Working on these apps, I've got considerable experience with _Java 8-17_, _JavaEE_, _Spring_, _AWS_, _SQL_, _NoSQL_, _JavaFX_, _Git_, _Windows_.
 
 Regarding **responsibilities**, I'm familiar with all the main stages of engineering.
 Working on _Technical Research_, _Software Design_, _Implementation_, _Testing_, _Deployment_,
 I showed quite efficient work on the _Full Cycle_ development.
-**Achievements** are 3 apps implemented from _scratch_ and with 3 others I worked on _extension_.
+**Achievements** are 3 apps implemented from _scratch_ and with 4 others I worked on _support_ and _extension_.
 
 Thanks to fluent **English** and good soft skills, I'm an efficient **Team Player** even in case of international teams.
-In fact, I've been communicating with foreign colleagues and stakeholders for more than 2 years already.
+In fact, I've been communicating with foreign colleagues and stakeholders for 3 years already.
 I consider myself as a responsible person and also can take care about others. 
 I have production experience of _Team Leading_ and was a _Mentor_ for education programs.
 In addition to team membership, I have more than 2 years of independent work as a **Key Developer**.
@@ -83,43 +85,44 @@ The table shows you context around. Please, follow links to see full Stories:
 [STORY-2]: resources/pages/challenges/2019-MY-FIRST-COMPLEX-APP.md '2019-MY-FIRST-COMPLEX-APP.md'
 [STORY-1]: resources/pages/challenges/2018-MY-FIRST-COMMERCIAL-APP.md '2018-MY-FIRST-COMMERCIAL-APP.md'
 
-# Skills Details
+# Rated Skills
 
 ![picture](resources/pictures/memes/Meme-Skills.jpg)
 
-|                       | Skill               |  Level&ast;  | Project work |
+| Category              | Skill               |  Level&ast;  | Project work |
 |:----------------------|:--------------------|:------------:|:------------:|
 |                       |                     |              |              |
-| **Core Languages**    | **Java 8**          |    expert    |   5 years    |
+| **Core Languages**    | **Java 8**          |    expert    |   6 years    |
+|                       | **Java 9-17**       | intermediate |    1 year    |
+|                       | **C#**              |    entry     |   1 month    |
 |                       | **C/C++**           |    entry     |   6 months   |
 |                       | **TypeScript**      |    entry     |   6 months   |
-|                       | **JavaScript**      |    entry     |   1 month    |
-|                       | **C#**              |    entry     |   1 month    |
-|                       | **Java 9-18**       | theoretical  |              |
+|                       | **JavaScript**      |    entry     |   2 month    |
 |                       | **Kotlin**          | theoretical  |              |
 |                       |                     |              |              |
-| **Development Areas** | **Backend**         |   advanced   |  2.5 years   |
+| **Development Areas** | **Backend**         |   advanced   |   3 years    |
 |                       | **Desktop**         |   advanced   |   2 years    |
 |                       | **Cloud**           | intermediate |  1.5 years   |
-|                       | **Microservices**   | intermediate |    1 year    |
+|                       | **Microservices**   | intermediate |  1.5 years   |
+|                       | **REST API**        | intermediate |  1.5 years   |
 |                       | **Monoliths**       | intermediate |    1 year    |
-|                       | **REST API**        | intermediate |    1 year    |
 |                       | **Databases**       | intermediate |    1 year    |
-|                       | **Fullstack**       |    entry     |   6 months   |
+|                       | **Fullstack**       |    entry     |    1 year    |
 |                       | **Frontend**        |    entry     |   6 months   |
 |                       |                     |              |              |
-| **Backend**           | **Spring Core**     |   advanced   |  1.5 years   |
+| **Backend**           | **Spring Core**     |   advanced   |   2 years    |
+|                       | **Spring Boot**     | intermediate |    1 year    |
 |                       | **Java EE**         | intermediate |    1 year    |
-|                       | **Spring Boot**     |    entry     |   6 months   |
 |                       | **Spring Data**     |    entry     |   6 months   |
 |                       | **Spring Web**      |    entry     |   6 months   |
+|                       | **Kafka**           |    entry     |   2 months   |
 |                       |                     |              |              |
-| **Databases**         | **SQL**             | intermediate |   2 years    |
+| **Databases**         | **SQL**             |   advanced   |  2.5 years   |
 |                       | **OracleDB**        | intermediate |  1.5 years   |
 |                       | **NoSQL**           | intermediate |    1 year    |
+|                       | **PostgreSQL**      | intermediate |   6 months   |
 |                       | **InfluxDB**        |    entry     |   6 months   |
 |                       | **DynamoDB**        |    entry     |   3 months   |
-|                       | **PostgreSQL**      |    entry     |   2 months   |
 |                       | **Hibernate**       |    entry     |   1 month    |
 |                       |                     |              |              |
 | **Clouds**            | **AWS Platform**    | intermediate |  1.5 years   |
@@ -148,32 +151,38 @@ The table shows you context around. Please, follow links to see full Stories:
 |                       | **JMockit**         |    entry     |   6 months   |
 |                       | **Mockito**         |    entry     |   5 months   |
 |                       | **JProfiler**       |    entry     |   1 month    |
+|                       | **OpenTelemetry**   |    entry     |   1 month    |
+|                       | **Jaeger**          |    entry     |   1 month    |
 |                       |                     |              |              |
 | **CI/CD**             | **Git**             |   advanced   |   3 years    |
 |                       | **GitLab**          | intermediate |   2 years    |
 |                       | **JBoss**           | intermediate |   2 years    |
 |                       | **Gradle**          | intermediate |   2 years    |
-|                       | **Maven**           | intermediate |    1 year    |
+|                       | **Maven**           | intermediate |  1.5 years   |
 |                       | **GitHub**          | intermediate |   8 months   |
+|                       | **Docker**          |    entry     |   8 months   |
+|                       | **Kubernetes**      |    entry     |   6 months   |
 |                       | **Terraform**       |    entry     |   6 months   |
-|                       | **Docker**          |    entry     |   6 months   |
-|                       | **Kubernetes**      | theoretical  |              |
+|                       | **Azure DevOps**    |    entry     |   6 months   |
 |                       |                     |              |              |
 | **Software & Tools**  | **Windows**         |   advanced   |  5.5 years   |
-|                       | **IntelliJ IDEA**   |   advanced   |   3 years    |
+|                       | **IntelliJ IDEA**   |   advanced   |  3.5 years   |
 |                       | **Eclipse IDE**     |   advanced   |  2.5 years   |
+|                       | **Jira**            |   advanced   |  2.5 years   |
 |                       | **SQL Developer**   | intermediate |   2 years    |
-|                       | **Jira**            | intermediate |   2 years    |
 |                       | **Command Line**    | intermediate |   2 years    |
-|                       | **Confluence**      | intermediate |  1.5 years   |
+|                       | **Confluence**      | intermediate |   2 years    |
+|                       | **Linux**           | intermediate |   9 months   |
+|                       | **Tilt Dev**        | intermediate |   6 months   |
+|                       | **pgAdmin**         |    entry     |   4 months   |
 |                       | **VS Code**         |    entry     |   4 months   |
-|                       | **Linux**           |    entry     |   2 months   |
+|                       | **Node-RED**        |    entry     |   2 months   |
 |                       |                     |              |              |
 | **Special**           | **OOP**             |    expert    |   5 years    |
 |                       | **Clean Code**      |    expert    |   4 years    |
 |                       | **Mathematics**     |    expert    |   3 years    |
 |                       | **Design Patterns** |   advanced   |   3 years    |
-|                       | **Scrum**           | intermediate |   2 years    |
+|                       | **Scrum**           |   advanced   |  2.5 years   |
 |                       | **Kanban**          | intermediate |   2 years    |
 |                       | **Waterfall**       | intermediate |    1 year    |
 |                       | **Multithreading**  | intermediate |    1 year    |
@@ -198,8 +207,8 @@ Cases where I organized and supported processes for work and education:
 
 #### Project Activities
 
-- Oct 2023. **Knowledge Transfer**: conducted cross-team online meetings.
-  Shared technical details of implementations done by our team during my entire work path.
+- Oct 2023. **Knowledge Transfer**: conducted 3 cross-team online meetings 
+  where presented technical details of our team implementations.
 - Sep 2023. **Onboarding**: supported the developer to get started in our team.
 - Oct 2021 - Oct 2023. **Mentoring**: provided regular support for the developer in our team.
 - Oct 2020 - Dec 2020. **Team Leading**: held the position of Lead Developer in a team of 3 devs.
@@ -436,5 +445,3 @@ Some tips and approaches for programmers that I noticed and personally found use
   With this my learning becomes faster and as a result, I feel comfortable to continue learning this way.
 
 # Thanks for attention!
-
-Updated: **October 2023**
