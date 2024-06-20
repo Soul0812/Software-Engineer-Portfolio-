@@ -220,18 +220,18 @@ that produces Radar Station Prototypes including scientific research, hardware a
 
 ![picture](resources/pictures/memes/Meme-Leader.jpg)
 
-Cases where I organized and supported processes for work and education:
+Cases where I organized/supported processes for work and education:
 
-| Date                          | Type              | Activity                            | Contribution                                                                                                                                                        |
-|:------------------------------|-------------------|-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Oct&nbsp;2023                 | Project&nbsp;work | **Knowledge&nbsp;Transfer**         | Conducted 3 cross-team meetings where presented technical details of our team implementations                                                                       |
-| Sep&nbsp;2023                 | Project&nbsp;work | **Onboarding**                      | Supported the developer to get started in our team                                                                                                                  |
-| Oct&nbsp;2021 - Sep&nbsp;2023 | Project&nbsp;work | **Mentoring**                       | Provided regular support for the developer in our team                                                                                                              |
-| Sep&nbsp;2023                 | Non-commercial    | **Interviewing**                    | conducted mock interviews to help EPAM colleagues get position on a project                                                                                         |
-| Jul&nbsp;2022 - Oct&nbsp;2022 | Non-commercial    | **Mentoring**                       | played a Mentor role in the EPAM educational program&ast; _RD Java Lab Summer 2022_. Supported 5 students                                                           |
-| Oct&nbsp;2021 - Feb&nbsp;2022 | Non-commercial    | **Mentoring**                       | played a Mentor role in the EPAM educational program&ast; _RD Java Lab Autumn 2021_. Supported 2 students                                                           |
-| Oct&nbsp;2020 - Dec&nbsp;2020 | Project&nbsp;work | **Team&nbsp;Leading**               | Held the position of Lead Developer in a team of 3 devs. Was in charge of requirements clarification, work planning, development, daily meetings, technical support |
-| Sep&nbsp;2016 - Feb&nbsp;2018 | Non-commercial    | **Private&nbsp;Tutoring&ast;&ast;** | worked as a mathematics teacher. Supported 12 students by conducting ~ 650 offline classes in total                                                                 |
+| Date                                    | Type                 | Activity                            | Contribution                                                                                                                                                        |
+|:----------------------------------------|----------------------|-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Oct&nbsp;2023                           | Project&nbsp;work    | **Knowledge&nbsp;Transfer**         | Conducted 3 cross-team meetings where presented technical details of our team implementations                                                                       |
+| Sep&nbsp;2023                           | Project&nbsp;work    | **Onboarding**                      | Supported the developer to get started in our team                                                                                                                  |
+| Oct&nbsp;2021&nbsp;-&nbsp;Sep&nbsp;2023 | Project&nbsp;work    | **Mentoring**                       | Provided regular support for the developer in our team                                                                                                              |
+| Sep&nbsp;2023                           | Non&#8209;commercial | **Interviewing**                    | Conducted mock interviews to help EPAM colleagues get position on a project                                                                                         |
+| Jul&nbsp;2022&nbsp;-&nbsp;Oct&nbsp;2022 | Non&#8209;commercial | **Mentoring**                       | Played a Mentor role in the EPAM educational program&ast; _RD Java Lab Summer 2022_. Supported 5 students                                                           |
+| Oct&nbsp;2021&nbsp;-&nbsp;Feb&nbsp;2022 | Non&#8209;commercial | **Mentoring**                       | Played a Mentor role in the EPAM educational program&ast; _RD Java Lab Autumn 2021_. Supported 2 students                                                           |
+| Oct&nbsp;2020&nbsp;-&nbsp;Dec&nbsp;2020 | Project&nbsp;work    | **Team&nbsp;Leading**               | Held the position of Lead Developer in a team of 3 devs. Was in charge of requirements clarification, work planning, development, daily meetings, technical support |
+| Sep&nbsp;2016&nbsp;-&nbsp;Feb&nbsp;2018 | Non&#8209;commercial | **Private&nbsp;Tutoring&ast;&ast;** | Worked as a mathematics teacher. Supported 12 students by conducting ~ 650 offline classes in total                                                                 |
 
 &ast;_EPAM educational program_ is pre-production activity that consists of theoretical lectures and practical tasks.
 During task completion each Mentee is assigned to specific Mentor.
@@ -249,30 +249,33 @@ It includes help with homework, clarification of difficult points, exam preparat
 
 Working on my hard and soft skills, have next achievements so far:
 
-#### EPAM English classes. Completed 11 live trainings:
+#### Business English. Completed 12 live trainings:
 
-| Completed | Name                               | Level       |    Efforts | Duration |
-|----------:|:-----------------------------------|:------------|-----------:|---------:|
-|  Oct 2023 | **IT Communication**               | B2/B2+      | 17 lessons | 2 months |
-|  Sep 2023 | **Presenting and Public Speaking** | B1+/B2/B2+  | 20 lessons | 3 months |
-|  Jul 2023 | **Virtual Communication**          | B1+/B2/B2+  | 26 lessons | 4 months |
-|  Apr 2023 | **Business Communication**         | B1+/B2      | 41 lessons | 7 months |
-|  Nov 2022 | **IT Grammar**                     | B1+/B2      | 17 lessons | 3 months |
-|  Jul 2022 | **Small Talks**                    | B1/B1+      |  8 lessons | 2 months |
-|  Jul 2022 | **IT Grammar**                     | A2+/B1      | 17 lessons | 4 months |
-|  May 2022 | **Speaking Club**                  | B1/B2/C1/C2 | 10 lessons | 3 months |
-|  Feb 2022 | **Project Interviews**             | A2+/B1/B1+  | 10 lessons | 2 months |
-|  Dec 2021 | **Breaking the Language Barrier**  | A2+/B1      | 11 lessons | 2 months |
-|  Oct 2021 | **Business Communication**         | A2+/B1      | 40 lessons | 7 months |
+|     Date | Name                               | Level       |    Efforts | Duration | Provider     |
+|---------:|:-----------------------------------|:------------|-----------:|---------:|--------------|
+| Jun 2024 | **Business Communication**         | B1+/B2/B2+  | 10 lessons | 2 months | GlobalLogic  |
+| Oct 2023 | **IT Communication**               | B2/B2+      | 17 lessons | 2 months | EPAM Systems |
+| Sep 2023 | **Presenting and Public Speaking** | B1+/B2/B2+  | 20 lessons | 3 months | EPAM Systems |
+| Jul 2023 | **Virtual Communication**          | B1+/B2/B2+  | 26 lessons | 4 months | EPAM Systems |
+| Apr 2023 | **Business Communication**         | B1+/B2      | 41 lessons | 7 months | EPAM Systems |
+| Nov 2022 | **IT Grammar**                     | B1+/B2      | 17 lessons | 3 months | EPAM Systems |
+| Jul 2022 | **Small Talks**                    | B1/B1+      |  8 lessons | 2 months | EPAM Systems |
+| Jul 2022 | **IT Grammar**                     | A2+/B1      | 17 lessons | 4 months | EPAM Systems |
+| May 2022 | **Speaking Club**                  | B1/B2/C1/C2 | 10 lessons | 3 months | EPAM Systems |
+| Feb 2022 | **Project Interviews**             | A2+/B1/B1+  | 10 lessons | 2 months | EPAM Systems |
+| Dec 2021 | **Breaking the Language Barrier**  | A2+/B1      | 11 lessons | 2 months | EPAM Systems |
+| Oct 2021 | **Business Communication**         | A2+/B1      | 40 lessons | 7 months | EPAM Systems |
 
-#### EPAM Learning. Completed 4 trainings:
+#### Software Engineering. Completed 6 trainings:
 
-| Completed | Name                                | Type                |   Efforts | Acceptance    |
-|----------:|:------------------------------------|:--------------------|----------:|:--------------|
-|  Aug 2022 | **CloudX Associate: AWS Developer** | Educational program |  30 hours | Mentor review |
-|  Mar 2021 | **CloudX: Foundations for Tech**    | Self-study course   |   5 hours | Quiz          |
-|  Sep 2021 | **Becoming a Tech Mentor**          | Self-study course   | 1.5 hours | Quiz          |
-|  Jan 2021 | **Getting Ready for Assessment**    | Self-study course   | 1.5 hours | Quiz          |
+| Completed | Name                                                                                                                                                                                                   | Provider     | Level        | Type                |   Efforts | Practice                                                                                                                                              | Acceptance    |
+|----------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|--------------|:--------------------|----------:|-------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------|
+|  May 2024 | **GenAI: Assisted Programming with GitHub Copilot**                                                                                                                                                    | GlobalLogic  | Beginner     | Mixed training      |  10 hours | [repository](https://github.com/Yevhen-Tkachenko-1/GitHub-Copilot-for-Java-Demo 'https://github.com/Yevhen-Tkachenko-1/GitHub-Copilot-for-Java-Demo') | Quiz          |
+|  Nov 2023 | [**AWS Certified Developer - Associate**](https://learn.acloud.guru/course/aws-certified-developer-associate/dashboard 'https://learn.acloud.guru/course/aws-certified-developer-associate/dashboard') | A Cloud Guru | Intermediate | Self-study course   |  42 hours | 14 Labs in Playground, 4 Exams                                                                                                                        | 10 Quizzes    |
+|  Aug 2022 | **CloudX Associate: AWS Developer**                                                                                                                                                                    | EPAM Systems | Beginner     | Educational program |  30 hours | 5 Tasks using AWS Free Tier account                                                                                                                   | Mentor review |
+|  Mar 2021 | **CloudX: Foundations for Tech**                                                                                                                                                                       | EPAM Systems | Beginner     | Self-study course   |   5 hours |                                                                                                                                                       | Quiz          |
+|  Sep 2021 | **Becoming a Tech Mentor**                                                                                                                                                                             | EPAM Systems | Beginner     | Self-study course   | 1.5 hours |                                                                                                                                                       | Quiz          |
+|  Jan 2021 | **Getting Ready for Assessment**                                                                                                                                                                       | EPAM Systems | Beginner     | Self-study course   | 1.5 hours |                                                                                                                                                       | Quiz          |
 
 #### LinkedIn Learning. Completed 30 self-study courses:
 
