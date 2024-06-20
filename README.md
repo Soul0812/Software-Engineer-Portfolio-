@@ -4,8 +4,8 @@
 
 #### Welcome to Developer's page!
 
-The portfolio would be interesting for any IT specialist such as Researcher, Recruiter, HR, PM or Technical Specialist.<br>
-The portfolio consists of additional topics which are NOT included in my CV:
+The portfolio would be interesting for any IT specialist such as Researcher, Recruiter, HR, PM or Technical.<br>
+There are additional topics which are NOT included in my CV:
 
 - [**About**](#about)
 - [**Project Feedbacks**](#project-feedbacks)
@@ -23,16 +23,16 @@ The portfolio consists of additional topics which are NOT included in my CV:
 
 Having **Java** as a primary skill, I've been doing commercial development for **6 years** so far.
 During this time I've come across different apps such as _Backend_, _Cloud_, _Frontend_, _Desktop_.
-Working on these apps, I've got considerable experience with _Java 8-17_, _JavaEE_, _Spring_, _AWS_, _SQL_, _NoSQL_, _JavaFX_, _Git_, _Windows_.
+Working on these apps, I've got considerable experience with _Java 8-17_, _JavaEE_, _Spring_, _AWS_, _SQL_, _NoSQL_, _JavaFX_, _Git_.
 
-Regarding **responsibilities**, I'm familiar with all the main stages of engineering.
+Regarding responsibilities, I'm familiar with all the main stages of engineering.
 Working on _Technical Research_, _Software Design_, _Implementation_, _Testing_, _Deployment_,
 I showed quite efficient work on the _Full Cycle_ development.
 **Achievements** are 3 apps implemented from _scratch_ and with 4 others I worked on _support_ and _extension_.
 
 Thanks to fluent **English** and good soft skills, I'm an efficient **Team Player** even in case of international teams.
-In fact, I've been communicating with foreign colleagues and stakeholders for 3 years already.
-I consider myself as a responsible person and also can take care about others. 
+Specifically, I have more than 3 years of cooperation with foreign colleagues and stakeholders.
+I consider myself as a responsible person and also take care about others. 
 I have production experience of _Team Leading_ and was a _Mentor_ for education programs.
 In addition to team membership, I have more than 2 years of independent work as a **Key Developer**.
 
@@ -224,21 +224,23 @@ Cases where I organized and supported processes for work and education:
 
 #### Project Activities
 
-- Oct 2023. **Knowledge Transfer**: conducted 3 cross-team online meetings 
-  where presented technical details of our team implementations.
-- Sep 2023. **Onboarding**: supported the developer to get started in our team.
-- Oct 2021 - Oct 2023. **Mentoring**: provided regular support for the developer in our team.
-- Oct 2020 - Dec 2020. **Team Leading**: held the position of Lead Developer in a team of 3 devs.
-  In addition to development, I was in charge of work planning, meeting holding, development support.
+| Date                          | Activity                    | Contribution                                                                                                                                                        |
+|-------------------------------|-----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Oct&nbsp;2023                 | **Knowledge&nbsp;Transfer** | Conducted 3 cross-team meetings where presented technical details of our team implementations                                                                       |
+| Sep&nbsp;2023                 | **Onboarding**              | Supported the developer to get started in our team                                                                                                                  |
+| Oct&nbsp;2021 - Oct&nbsp;2023 | **Mentoring**               | Provided regular support for the developer in our team                                                                                                              |
+| Oct&nbsp;2020 - Dec&nbsp;2020 | **Team&nbsp;Leading**       | Held the position of Lead Developer in a team of 3 devs. Was in charge of requirements clarification, work planning, development, daily meetings, technical support |
 
 #### Non-Project Activities
 
-- Sep 2023. **Interviewing**: conducted mock interviews to help EPAM colleagues get position on a project.
-- Jul 2022 - Oct 2022. **Mentoring**: played a Mentor role in the EPAM educational program&ast; _RD Java Lab Summer 2022_. Supported 5 students.
-- Oct 2021 - Feb 2022. **Mentoring**: played a Mentor role in the EPAM educational program&ast; _RD Java Lab Autumn 2021_. Supported 2 students. 
-- Sep 2016 - Feb 2018. **Private Tutoring&ast;&ast;**: worked as a mathematics Teacher. Supported 12 students by conducting ~ 650 offline classes in total.
+| Date                          | Activity                            | Contribution                                                                                              |
+|-------------------------------|-------------------------------------|-----------------------------------------------------------------------------------------------------------|
+| Sep&nbsp;2023                 | **Interviewing**                    | conducted mock interviews to help EPAM colleagues get position on a project                               |
+| Jul&nbsp;2022 - Oct&nbsp;2022 | **Mentoring**                       | played a Mentor role in the EPAM educational program&ast; _RD Java Lab Summer 2022_. Supported 5 students |
+| Oct&nbsp;2021 - Feb&nbsp;2022 | **Mentoring**                       | played a Mentor role in the EPAM educational program&ast; _RD Java Lab Autumn 2021_. Supported 2 students |
+| Sep&nbsp;2016 - Feb&nbsp;2018 | **Private&nbsp;Tutoring&ast;&ast;** | worked as a mathematics teacher. Supported 12 students by conducting ~ 650 offline classes in total       |
 
-&ast;_educational program_ is pre-production activity that consists of theoretical lectures and practical tasks.
+&ast;_EPAM educational program_ is pre-production activity that consists of theoretical lectures and practical tasks.
 During task completion each Mentee is assigned to specific Mentor.
 That time Mentor supports students by organizing one-to-one sessions to discuss 
 task requirements and implementation way, answer questions, check progress, accept tasks.
@@ -432,12 +434,12 @@ So, I have some points to check when applying for new projects:
 
 #### Why did I actually change projects?
 
-|                  Dates                   |     Company     |             Project              | Leaving Reason                                                                                                                                                                                                                                                                                                       |
-|:----------------------------------------:|:---------------:|:--------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Oct&nbsp;2021&nbsp;-&nbsp;Oct&nbsp;2023  | EPAM<br>Systems |     **Enterprise&nbsp;Web**      | Driven by Customer. As part of *Cost Saving* program, almost all EPAM employees were ramped down. As stated by the Customer Top Management, there were internal processes that are not related to EPAM performance. In fact, Customer Middle Management appreciated our contribution and it was a big loss for them. |
-| Jan&nbsp;2021&nbsp;-&nbsp;Sep&nbsp;2021  | EPAM<br>Systems |     **Cloud&nbsp;Pipeline**      | Driven by Customer. Our team successfully finished active phase of development by releasing stable version of app. Finally, we organized knowledge transfer and passed app to support team.                                                                                                                          |
-| Oct&nbsp;2020&nbsp;-&nbsp;Dec&nbsp;2020  | EPAM<br>Systems |        **Java&nbsp;Tool**        | Driven by Customer. It was short project with fixed term assignment. Our team successfully implemented pilot version of application and it was enough for the Customers at that moment.                                                                                                                              |
-| Apr&nbsp;2018&nbsp;-&nbsp;Sep&nbsp;2020  |   RINANU&ast;   | **OKO&nbsp;Desktop&nbsp;Client** | Driven by me. Generally, it was kinda government department and I wanted to switch to work in an IT company. Leaving this project, I left successfully implemented beta version of app and did comprehensive knowledge transfer.                                                                                     |
+|                  Dates                  |     Company     |         Project         | Leaving Reason                                                                                                                                                                                                                                                                                                       |
+|:---------------------------------------:|:---------------:|:-----------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Oct&nbsp;2021&nbsp;-&nbsp;Oct&nbsp;2023 | EPAM<br>Systems | **Enterprise&nbsp;Web** | Driven by Customer. As part of *Cost Saving* program, almost all EPAM employees were ramped down. As stated by the Customer Top Management, there were internal processes that are not related to EPAM performance. In fact, Customer Middle Management appreciated our contribution and it was a big loss for them. |
+| Jan&nbsp;2021&nbsp;-&nbsp;Sep&nbsp;2021 | EPAM<br>Systems | **Cloud&nbsp;Pipeline** | Driven by Customer. Our team successfully finished active phase of development by releasing stable version of app. Finally, we organized knowledge transfer and passed app to support team.                                                                                                                          |
+| Oct&nbsp;2020&nbsp;-&nbsp;Dec&nbsp;2020 | EPAM<br>Systems |   **Java&nbsp;Tool**    | Driven by Customer. It was short project with fixed term assignment. Our team successfully implemented pilot version of application and it was enough for the Customers at that moment.                                                                                                                              |
+| Apr&nbsp;2018&nbsp;-&nbsp;Sep&nbsp;2020 |   RINANU&ast;   |  **Java&nbsp;Desktop**  | Driven by me. Generally, it was kinda government department and I wanted to switch to work in an IT company. Leaving this project, I left successfully implemented beta version of app and did comprehensive knowledge transfer.                                                                                     |
 
 &ast;_RINANU_ is [Ukrainian Product Department](http://rian.kharkov.ua/index.php/en/ 'http://rian.kharkov.ua/index.php/en/')
 that produces Radar Station Prototypes including scientific research, hardware and software implementation.
