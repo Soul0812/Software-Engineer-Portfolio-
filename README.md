@@ -222,19 +222,16 @@ that produces Radar Station Prototypes including scientific research, hardware a
 
 Cases where I organized and supported processes for work and education:
 
-#### Project Activities
-
-|                            | Date                          | Activity                            | Contribution                                                                                                                                                        |
-|----------------------------|:------------------------------|-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Project&nbsp;Activities    | Oct&nbsp;2023                 | **Knowledge&nbsp;Transfer**         | Conducted 3 cross-team meetings where presented technical details of our team implementations                                                                       |
-|                            | Sep&nbsp;2023                 | **Onboarding**                      | Supported the developer to get started in our team                                                                                                                  |
-|                            | Oct&nbsp;2021 - Oct&nbsp;2023 | **Mentoring**                       | Provided regular support for the developer in our team                                                                                                              |
-|                            | Oct&nbsp;2020 - Dec&nbsp;2020 | **Team&nbsp;Leading**               | Held the position of Lead Developer in a team of 3 devs. Was in charge of requirements clarification, work planning, development, daily meetings, technical support |
-|                            |                               |                                     |                                                                                                                                                                     |
-| Non&nbsp;-&nbsp;Commercial | Sep&nbsp;2023                 | **Interviewing**                    | conducted mock interviews to help EPAM colleagues get position on a project                                                                                         |
-|                            | Jul&nbsp;2022 - Oct&nbsp;2022 | **Mentoring**                       | played a Mentor role in the EPAM educational program&ast; _RD Java Lab Summer 2022_. Supported 5 students                                                           |
-|                            | Oct&nbsp;2021 - Feb&nbsp;2022 | **Mentoring**                       | played a Mentor role in the EPAM educational program&ast; _RD Java Lab Autumn 2021_. Supported 2 students                                                           |
-|                            | Sep&nbsp;2016 - Feb&nbsp;2018 | **Private&nbsp;Tutoring&ast;&ast;** | worked as a mathematics teacher. Supported 12 students by conducting ~ 650 offline classes in total                                                                 |
+| Date                          | Type              | Activity                            | Contribution                                                                                                                                                        |
+|:------------------------------|-------------------|-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Oct&nbsp;2023                 | Project&nbsp;work | **Knowledge&nbsp;Transfer**         | Conducted 3 cross-team meetings where presented technical details of our team implementations                                                                       |
+| Sep&nbsp;2023                 | Project&nbsp;work | **Onboarding**                      | Supported the developer to get started in our team                                                                                                                  |
+| Oct&nbsp;2021 - Sep&nbsp;2023 | Project&nbsp;work | **Mentoring**                       | Provided regular support for the developer in our team                                                                                                              |
+| Sep&nbsp;2023                 | Non-commercial    | **Interviewing**                    | conducted mock interviews to help EPAM colleagues get position on a project                                                                                         |
+| Jul&nbsp;2022 - Oct&nbsp;2022 | Non-commercial    | **Mentoring**                       | played a Mentor role in the EPAM educational program&ast; _RD Java Lab Summer 2022_. Supported 5 students                                                           |
+| Oct&nbsp;2021 - Feb&nbsp;2022 | Non-commercial    | **Mentoring**                       | played a Mentor role in the EPAM educational program&ast; _RD Java Lab Autumn 2021_. Supported 2 students                                                           |
+| Oct&nbsp;2020 - Dec&nbsp;2020 | Project&nbsp;work | **Team&nbsp;Leading**               | Held the position of Lead Developer in a team of 3 devs. Was in charge of requirements clarification, work planning, development, daily meetings, technical support |
+| Sep&nbsp;2016 - Feb&nbsp;2018 | Non-commercial    | **Private&nbsp;Tutoring&ast;&ast;** | worked as a mathematics teacher. Supported 12 students by conducting ~ 650 offline classes in total                                                                 |
 
 &ast;_EPAM educational program_ is pre-production activity that consists of theoretical lectures and practical tasks.
 During task completion each Mentee is assigned to specific Mentor.
