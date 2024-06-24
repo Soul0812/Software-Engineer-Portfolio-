@@ -28,18 +28,18 @@ Working on these apps, I've got considerable experience with _Java 8-17_, _JavaE
 Regarding responsibilities, I'm familiar with all the main stages of engineering.
 Working on _Technical Research_, _Software Design_, _Implementation_, _Testing_, _Deployment_,
 I showed quite efficient work on the _Full Cycle_ development.
-**Achievements** are 3 apps implemented from _scratch_ and with 4 others I worked on _support_ and _extension_.
+**Achievements** are 3 apps implemented from scratch and with 4 others I worked on support and extension.
 
 Thanks to fluent **English** and good soft skills, I'm an efficient **Team Player** even in case of international teams.
 Specifically, I have more than 3 years of cooperation with foreign colleagues and stakeholders.
 I consider myself as a responsible person and also take care about others. 
-I have production experience of _Team Leading_ and was a _Mentor_ for education programs.
+I have production experience of **Team Leading** and was a Mentor for education programs.
 In addition to team membership, I have more than 2 years of independent work as a **Key Developer**.
 
 I'm always open to **Feedback** about my work. 
 On each project, my professional and personal qualities met or even exceeded expectations.
 At the same time, I see the ways for self-improvement and continue working on my _hard_, _soft_, and _leadership_ skills.
-Currently, I'm recognized as a _Senior_ and for the future I plan to take _Lead Software Engineer_ position.
+Currently, I'm recognized as a Senior and for the future I plan to take Lead Software Engineer position.
 
 # Project Feedbacks
 
@@ -231,7 +231,7 @@ Cases where I organized/supported processes for work and education:
 | Jul&nbsp;2022&nbsp;-&nbsp;Oct&nbsp;2022 | Non&#8209;commercial | **Mentoring**                       | Played a Mentor role in the EPAM educational program&ast; _RD Java Lab Summer 2022_. Supported 5 students                                                           |
 | Oct&nbsp;2021&nbsp;-&nbsp;Feb&nbsp;2022 | Non&#8209;commercial | **Mentoring**                       | Played a Mentor role in the EPAM educational program&ast; _RD Java Lab Autumn 2021_. Supported 2 students                                                           |
 | Oct&nbsp;2020&nbsp;-&nbsp;Dec&nbsp;2020 | Project&nbsp;work    | **Team&nbsp;Leading**               | Held the position of Lead Developer in a team of 3 devs. Was in charge of requirements clarification, work planning, development, daily meetings, technical support |
-| Sep&nbsp;2016&nbsp;-&nbsp;Feb&nbsp;2018 | Non&#8209;commercial | **Private&nbsp;Tutoring&ast;&ast;** | Worked as a mathematics teacher. Supported 12 students by conducting ~ 650 offline classes in total                                                                 |
+| Sep&nbsp;2016&nbsp;-&nbsp;Feb&nbsp;2018 | Non&#8209;IT         | **Private&nbsp;Tutoring&ast;&ast;** | Worked as a mathematics teacher. Supported 12 students by conducting ~ 650 offline classes in total                                                                 |
 
 &ast;_EPAM educational program_ is pre-production activity that consists of theoretical lectures and practical tasks.
 During task completion each Mentee is assigned to specific Mentor.
