@@ -5,7 +5,7 @@
 #### Welcome to Developer's page!
 
 The portfolio would be interesting for any IT specialist such as Researcher, Recruiter, HR, PM or Technical.<br>
-There are topics which are supplement to my CV:
+Even if you have my CV, it's a good idea to review the following topics for more details:
 
 - [**About**](#about)
 - [**Project Feedbacks**](#project-feedbacks)
