@@ -123,7 +123,7 @@ that produces Radar Station Prototypes including scientific research, hardware a
 |                       | **Java EE**              | intermediate |    1 year    |
 |                       | **Spring Data**          |    entry     |   6 months   |
 |                       | **Spring Web**           |    entry     |   6 months   |
-|                       | **Kafka**                |    entry     |   4 months   |
+|                       | **Apache Kafka**         |    entry     |   4 months   |
 |                       |                          |              |              |
 | **Databases**         | **SQL**                  |   advanced   |  2.5 years   |
 |                       | **OracleDB**             | intermediate |  1.5 years   |
