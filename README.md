@@ -13,6 +13,7 @@ Even if you have my CV, it's a good idea to review the following topics for more
 - [**Rated Skills**](#rated-skills)
 - [**Leadership Experience**](#leadership-experience)
 - [**Self-Education**](#self-education)
+- [**Career Promotions**](#career-promotions)
 - [**Project Changing**](#project-changing)
 
 #### Updated June 2024
@@ -442,6 +443,70 @@ Working on my hard and soft skills, have next achievements so far:
 |  2018   | **Effective Java**                                                    | Joshua Bloch                          |
 |  2018   | **The C++ Programming Language**                                      | Bjarne Stroustrup                     |
 |  2018   | **The C Programming Language**                                        | Brian W.Kernighan<br>Dennis M.Ritchie |
+
+# Career Promotions
+
+![](resources/pictures/memes/Meme-Promotions.jpg)
+
+#### Junior Software Engineer
+
+In April 2018 I started my IT Career as a **Junior Developer** at RINANU&ast;.
+At the beginning I had mostly theoretical knowledge about programming, 
+and after 1 month of C/C++ onsite practicing, 
+I was trusted to implement simple but production application.
+
+&ast;_RINANU_ is [Ukrainian Product Department](http://rian.kharkov.ua/index.php/en/ 'http://rian.kharkov.ua/index.php/en/')
+that produces Radar Station Prototypes including scientific research, hardware and software implementation.
+
+#### Software Engineer
+
+The next step in my IT Career was complex application where I met Java. 
+I successfully implemented POC and started development of JavaFX project from scratch.
+The progress of app implementation was quite noticeable, 
+so in September 2018, I was promoted to **Software Engineer**.
+
+#### English B1-
+
+When I joined EPAM company, my English was not enough to work with foreign colleagues.
+I decided to attend English classes and for that reason I had to pass English assessment.
+As a result of speaking assessment in Nov 2020, my English was evaluated as **B1- (low intermediate)** 
+
+#### English B1
+
+Working with foreign colleagues and learning English in live classes, I felt real progress in communication.
+So, in about 1 year, it was time to reevaluate my English level.
+As a result of [speaking assessment](resources/pictures/promotions/2021-10%20-%20English%20Level%20Promotion%20-%20B1.PNG)
+in Oct 2021, my English was promoted to **B1 (intermediate)**
+
+#### English B1+
+
+Over time, my English became even better. 
+I targeted to attend more advanced English classes, and finally proved readiness.
+As a result of [speaking assessment](resources/pictures/promotions/2022-05%20-%20English%20Level%20Promotion%20-%20B1+.PNG)
+in May 2022, my English was promoted to **B1+ (strong intermediate)**
+
+#### English B2
+
+English as a soft skill has direct impact on Engineering Level promotion.
+In order to get Senior level, I took one more English evaluation.
+As a result of [speaking assessment](resources/pictures/promotions/2023-02%20-%20English%20Level%20Promotion%20-%20B2.PNG)
+in Feb 2023, my English was promoted to **B2 (upper intermediate)**
+
+#### Senior Software Engineer
+
+When I had 4 years of experience in IT, I began to feel readiness for the Senior level.
+At that time I was at EPAM, so in order to get promotion, I had to pass the Competency Evaluation process.
+Along with self-preparation I completed trainings designed by EPAM: 
+[Getting Ready](resources/pictures/promotions/2023-03.%20%20Software%20Engineering%20Assessment%20Preparation%20-%20Getting%20Ready.PNG)
+and [Self-Presentation](resources/pictures/promotions/2022-03.%20Software%20Engineering%20Assessment%20Preparation%20-%20Self-Presentation.PNG).
+In October 2022, there was assessment session where my Manager, 
+foreign Committee Representative and I had discussion about my experience.
+I conducted short presentation about my Career, and then we talked about Java theory and use cases in backend area. 
+I showed quite impressive experience, but there were some gaps in my theoretical knowledge.
+So, next I completed PDP plan and had other session with my direct Managers.
+Finally, in Mar 2023 I [got promoted](resources/pictures/promotions/2023-03.%20Software%20Engineering%20Level%20Promotion.PNG)
+to **Senior** level in Java area.
+
 
 # Project Changing
 
