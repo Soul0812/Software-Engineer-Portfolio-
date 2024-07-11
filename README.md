@@ -369,35 +369,35 @@ Working on my hard and soft skills, have next achievements so far:
 
 #### Business Process Awareness. Completed 44 self-study trainings:
 
-| Provider     |                                    Completed | Title                                                    | Certificate                 |
-|--------------|---------------------------------------------:|----------------------------------------------------------|-----------------------------|
-|              |                                              |                                                          |                             |
-| GlobalLogic  |                                     May 2024 | **IT Security in the Workplace**                         | [File][GlobalLogic-Cert-10] |
-|              |                                     May 2024 | **Security Awareness**                                   | [File][GlobalLogic-Cert-09] |
-|              |                                     Mar 2024 | **Introduction to Data Protection**                      | [File][GlobalLogic-Cert-08] |
-|              |                                     Nov 2023 | **GQMS: Ochibo-Hiroi**                                   | [File][GlobalLogic-Cert-07] |
-|              |                                     Nov 2023 | **GQMS: Critical Incident Management**                   | [File][GlobalLogic-Cert-06] |
-|              |                                     Nov 2023 | **GQMS(Global Quality Management System): Overview**     | [File][GlobalLogic-Cert-05] |
-|              |                                     Nov 2023 | **Non-Technical Security**                               | [File][GlobalLogic-Cert-04] |
-|              |                                     Nov 2023 | **Internet Security and You**                            | [File][GlobalLogic-Cert-03] |
-|              |                                     Nov 2023 | **AI Chatbots: Use, Risks, and Limitations**             | [File][GlobalLogic-Cert-02] |
-|              |                                     Nov 2023 | **Information Protection**                               | [File][GlobalLogic-Cert-01] |
-|              |                                              |                                                          |                             |
-| EPAM Systems |                                     Sep 2023 | **Becoming a Tech Mentor**                               | [File][EPAM-Cert-15]        |
-|              | Jul 2023<br>Jun 2022<br>May 2021<br>Sep 2020 | **5 Steps to Cyber Security Success**                    | [File][EPAM-Cert-14]        |
-|              | Jul 2023<br>Jun 2022<br>Jul 2021<br>Oct 2020 | **Health, Safety and Fire Prevention**                   | [File][EPAM-Cert-13]        |
-|              |                         Jul 2023<br>Oct 2020 | **QMS(Quality Management System) Induction**             | [File][EPAM-Cert-12]        |
-|              | Jul 2023<br>Jul 2022<br>Jul 2021<br>Oct 2020 | **Data Privacy and Awareness**                           | [File][EPAM-Cert-11]        |
-|              | Jul 2023<br>Jun 2022<br>Jun 2021<br>Sep 2020 | **Working from Home**                                    | [File][EPAM-Cert-10]        |
-|              |                                     Jul 2023 | **Social Engineering Defense**                           | [File][EPAM-Cert-09]        |
-|              | Jul 2023<br>Jun 2022<br>Jul 2021<br>Oct 2020 | **IT Security and Awareness**                            | [File][EPAM-Cert-08]        |
-|              |                                     Mar 2023 | **Career Journeys: Project Manager, Solution Architect** | [File][EPAM-Cert-07]        |
-|              |                                     Mar 2023 | **Assessment Preparation: Getting Ready**                | [File][EPAM-Cert-06]        |                                                                                                                                                      | Quiz            |
-|              |             Oct 2022<br>Sep 2021<br>Nov 2020 | **Code of Ethical Conduct**                              | [File][EPAM-Cert-05]        |
-|              |                                     May 2022 | **Assessment Preparation: Self-Presentation**            | [File][EPAM-Cert-04]        |                                                                                                                                                      | Quiz            |
-|              |                                     Oct 2021 | **CloudX: Foundations for Tech**                         | [File][EPAM-Cert-03]        |
-|              |                         Jul 2021<br>Feb 2021 | **Vulnerability Management**                             | [File][EPAM-Cert-02]        |
-|              |                                     Apr 2021 | **How to Be Diplomatic and Concise**                     | [File][EPAM-Cert-01]        |
+| Provider         |                                    Completed | Title                                                    | Certificate                 |
+|------------------|---------------------------------------------:|----------------------------------------------------------|-----------------------------|
+|                  |                                              |                                                          |                             |
+| **GlobalLogic**  |                                     May 2024 | **IT Security in the Workplace**                         | [File][GlobalLogic-Cert-10] |
+|                  |                                     May 2024 | **Security Awareness**                                   | [File][GlobalLogic-Cert-09] |
+|                  |                                     Mar 2024 | **Introduction to Data Protection**                      | [File][GlobalLogic-Cert-08] |
+|                  |                                     Nov 2023 | **GQMS: Ochibo-Hiroi**                                   | [File][GlobalLogic-Cert-07] |
+|                  |                                     Nov 2023 | **GQMS: Critical Incident Management**                   | [File][GlobalLogic-Cert-06] |
+|                  |                                     Nov 2023 | **GQMS(Global Quality Management System): Overview**     | [File][GlobalLogic-Cert-05] |
+|                  |                                     Nov 2023 | **Non-Technical Security**                               | [File][GlobalLogic-Cert-04] |
+|                  |                                     Nov 2023 | **Internet Security and You**                            | [File][GlobalLogic-Cert-03] |
+|                  |                                     Nov 2023 | **AI Chatbots: Use, Risks, and Limitations**             | [File][GlobalLogic-Cert-02] |
+|                  |                                     Nov 2023 | **Information Protection**                               | [File][GlobalLogic-Cert-01] |
+|                  |                                              |                                                          |                             |
+| **EPAM Systems** |                                     Sep 2023 | **Becoming a Tech Mentor**                               | [File][EPAM-Cert-15]        |
+|                  | Jul 2023<br>Jun 2022<br>May 2021<br>Sep 2020 | **5 Steps to Cyber Security Success**                    | [File][EPAM-Cert-14]        |
+|                  | Jul 2023<br>Jun 2022<br>Jul 2021<br>Oct 2020 | **Health, Safety and Fire Prevention**                   | [File][EPAM-Cert-13]        |
+|                  |                         Jul 2023<br>Oct 2020 | **QMS(Quality Management System) Induction**             | [File][EPAM-Cert-12]        |
+|                  | Jul 2023<br>Jul 2022<br>Jul 2021<br>Oct 2020 | **Data Privacy and Awareness**                           | [File][EPAM-Cert-11]        |
+|                  | Jul 2023<br>Jun 2022<br>Jun 2021<br>Sep 2020 | **Working from Home**                                    | [File][EPAM-Cert-10]        |
+|                  |                                     Jul 2023 | **Social Engineering Defense**                           | [File][EPAM-Cert-09]        |
+|                  | Jul 2023<br>Jun 2022<br>Jul 2021<br>Oct 2020 | **IT Security and Awareness**                            | [File][EPAM-Cert-08]        |
+|                  |                                     Mar 2023 | **Career Journeys: Project Manager, Solution Architect** | [File][EPAM-Cert-07]        |
+|                  |                                     Mar 2023 | **Assessment Preparation: Getting Ready**                | [File][EPAM-Cert-06]        |                                                                                                                                                      | Quiz            |
+|                  |             Oct 2022<br>Sep 2021<br>Nov 2020 | **Code of Ethical Conduct**                              | [File][EPAM-Cert-05]        |
+|                  |                                     May 2022 | **Assessment Preparation: Self-Presentation**            | [File][EPAM-Cert-04]        |                                                                                                                                                      | Quiz            |
+|                  |                                     Oct 2021 | **CloudX: Foundations for Tech**                         | [File][EPAM-Cert-03]        |
+|                  |                         Jul 2021<br>Feb 2021 | **Vulnerability Management**                             | [File][EPAM-Cert-02]        |
+|                  |                                     Apr 2021 | **How to Be Diplomatic and Concise**                     | [File][EPAM-Cert-01]        |
 
 [GlobalLogic-Cert-01]: resources/certificates/GlobalLogic/01%20-%202023-11-10%20-%20Information%20Protection.pdf
 [GlobalLogic-Cert-02]: resources/certificates/GlobalLogic/02%20-%202023-11-10%20-%20AI%20Chatbots%20-%20Understanding%20Their%20Use,%20Risks,%20and%20Limitations%20in%20the%20Workplace.pdf
