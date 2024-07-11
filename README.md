@@ -463,7 +463,7 @@ Working on my hard and soft skills, have next achievements so far:
 - The next step in my IT Career was complex application where I met Java. 
 I successfully implemented POC and started development of JavaFX project from scratch.
 The progress of app implementation was quite noticeable, 
-so in September 2018, I was promoted to **Software Engineer**.
+so in September 2018, I got promoted to **Software Engineer**.
 
 #### English B1-
 
