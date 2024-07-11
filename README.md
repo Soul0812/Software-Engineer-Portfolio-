@@ -266,15 +266,13 @@ Working on my hard and soft skills, have next achievements so far:
 | Dec 2021 | **Breaking the Language Barrier**  | A2+/B1      | 11 lessons | 2 months | EPAM Systems |
 | Oct 2021 | **Business Communication**         | A2+/B1      | 40 lessons | 7 months | EPAM Systems |
 
-#### Software Engineering. Completed 6 trainings:
+#### Software Engineering. Completed 3 educational programs:
 
 |     Date | Name                                                                                                                                                                                                             | Provider               | Level        | Type                         |        Efforts | Practice                                                                                                                                              | Acceptance      |
 |---------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|--------------|:-----------------------------|---------------:|-------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------|
 | May 2024 | **GenAI:&nbsp;Assisted&nbsp;Programming with&nbsp;GitHub&nbsp;Copilot**                                                                                                                                          | GlobalLogic            | Beginner     | Mixed&nbsp;training          |  10&nbsp;hours | [Repository](https://github.com/Yevhen-Tkachenko-1/GitHub-Copilot-for-Java-Demo 'https://github.com/Yevhen-Tkachenko-1/GitHub-Copilot-for-Java-Demo') | Quiz            |
 | Nov 2023 | [**AWS&nbsp;Certified&nbsp;Developer - Associate**](https://learn.acloud.guru/course/aws-certified-developer-associate/dashboard 'https://learn.acloud.guru/course/aws-certified-developer-associate/dashboard') | A&nbsp;Cloud&nbsp;Guru | Intermediate | Self&#8209;study&nbsp;course |  42&nbsp;hours | 14&nbsp;Labs&nbsp;in&nbsp;Playground, 4&nbsp;Exams                                                                                                    | 10&nbsp;Quizzes |
 | Aug 2022 | **CloudX&nbsp;Associate: AWS&nbsp;Developer**                                                                                                                                                                    | EPAM&nbsp;Systems      | Beginner     | Educational&nbsp;program     |  30&nbsp;hours | 5&nbsp;Tasks&nbsp;using AWS&nbsp;Free&nbsp;Tier&nbsp;account                                                                                          | Mentor review   |
-| Sep 2021 | **Becoming&nbsp;a&nbsp;Tech&nbsp;Mentor**                                                                                                                                                                        | EPAM&nbsp;Systems      | Beginner     | Self&#8209;study&nbsp;course | 1.5&nbsp;hours |                                                                                                                                                       | Quiz            |
-| Jan 2021 | **Getting Ready for Assessment**                                                                                                                                                                                 | EPAM&nbsp;Systems      | Beginner     | Self&#8209;study&nbsp;course | 1.5&nbsp;hours |                                                                                                                                                       | Quiz            |
 
 #### LinkedIn Learning. Completed 35 self-study courses:
 
@@ -357,34 +355,37 @@ Working on my hard and soft skills, have next achievements so far:
 [LinkedIn-Cert-34]: resources/certificates/LinkedIn/34-CertificateOfCompletion_GitHub%20Copilot%20First%20Look.pdf
 [LinkedIn-Cert-35]: resources/certificates/LinkedIn/35-CertificateOfCompletion_Complete%20Guide%20to%20Apache%20Kafka%20for%20Beginners.pdf
 
-#### Business Process Awareness. Completed 41 self-study trainings:
+#### Business Process Awareness. Completed 44 self-study trainings:
 
-| Provider     |                                     Completed | Title                                                    | Certificate                 |
-|--------------|----------------------------------------------:|----------------------------------------------------------|-----------------------------|
-|              |                                               |                                                          |                             |
-| GlobalLogic  |                                      May 2024 | **IT Security in the Workplace**                         | [File][GlobalLogic-Cert-10] |
-|              |                                      May 2024 | **Security Awareness**                                   | [File][GlobalLogic-Cert-09] |
-|              |                                      Mar 2024 | **Introduction to Data Protection**                      | [File][GlobalLogic-Cert-08] |
-|              |                                      Nov 2023 | **GQMS: Ochibo-Hiroi**                                   | [File][GlobalLogic-Cert-07] |
-|              |                                      Nov 2023 | **GQMS: Critical Incident Management**                   | [File][GlobalLogic-Cert-06] |
-|              |                                      Nov 2023 | **GQMS(Global Quality Management System): Overview**     | [File][GlobalLogic-Cert-05] |
-|              |                                      Nov 2023 | **Non-Technical Security**                               | [File][GlobalLogic-Cert-04] |
-|              |                                      Nov 2023 | **Internet Security and You**                            | [File][GlobalLogic-Cert-03] |
-|              |                                      Nov 2023 | **AI Chatbots: Use, Risks, and Limitations**             | [File][GlobalLogic-Cert-02] |
-|              |                                      Nov 2023 | **Information Protection**                               | [File][GlobalLogic-Cert-01] |
-|              |                                               |                                                          |                             |
-| EPAM Systems |  Jul 2023<br>Jun 2022<br>May 2021<br>Sep 2020 | **5 Steps to Cyber Security Success**                    | [File][EPAM-Cert-12]        |
-|              |  Jul 2023<br>Jun 2022<br>Jul 2021<br>Oct 2020 | **Health, Safety and Fire Prevention**                   | [File][EPAM-Cert-11]        |
-|              |                          Jul 2023<br>Oct 2020 | **QMS(Quality Management System) Induction**             | [File][EPAM-Cert-10]        |
-|              |  Jul 2023<br>Jul 2022<br>Jul 2021<br>Oct 2020 | **Data Privacy and Awareness**                           | [File][EPAM-Cert-09]        |
-|              |  Jul 2023<br>Jun 2022<br>Jun 2021<br>Sep 2020 | **Working from Home**                                    | [File][EPAM-Cert-08]        |
-|              |                                      Jul 2023 | **Social Engineering Defense**                           | [File][EPAM-Cert-07]        |
-|              |  Jul 2023<br>Jun 2022<br>Jul 2021<br>Oct 2020 | **IT Security and Awareness**                            | [File][EPAM-Cert-06]        |
-|              |                                      Mar 2023 | **Career Journeys: Project Manager, Solution Architect** | [File][EPAM-Cert-05]        |
-|              |              Oct 2022<br>Sep 2021<br>Nov 2020 | **Code of Ethical Conduct**                              | [File][EPAM-Cert-04]        |
-|              |                                      Oct 2021 | **CloudX: Foundations for Tech**                         | [File][EPAM-Cert-03]        |
-|              |                          Jul 2021<br>Feb 2021 | **Vulnerability Management**                             | [File][EPAM-Cert-02]        |
-|              |                                      Apr 2021 | **How to Be Diplomatic and Concise**                     | [File][EPAM-Cert-01]        |
+| Provider     |                                    Completed | Title                                                    | Certificate                 |
+|--------------|---------------------------------------------:|----------------------------------------------------------|-----------------------------|
+|              |                                              |                                                          |                             |
+| GlobalLogic  |                                     May 2024 | **IT Security in the Workplace**                         | [File][GlobalLogic-Cert-10] |
+|              |                                     May 2024 | **Security Awareness**                                   | [File][GlobalLogic-Cert-09] |
+|              |                                     Mar 2024 | **Introduction to Data Protection**                      | [File][GlobalLogic-Cert-08] |
+|              |                                     Nov 2023 | **GQMS: Ochibo-Hiroi**                                   | [File][GlobalLogic-Cert-07] |
+|              |                                     Nov 2023 | **GQMS: Critical Incident Management**                   | [File][GlobalLogic-Cert-06] |
+|              |                                     Nov 2023 | **GQMS(Global Quality Management System): Overview**     | [File][GlobalLogic-Cert-05] |
+|              |                                     Nov 2023 | **Non-Technical Security**                               | [File][GlobalLogic-Cert-04] |
+|              |                                     Nov 2023 | **Internet Security and You**                            | [File][GlobalLogic-Cert-03] |
+|              |                                     Nov 2023 | **AI Chatbots: Use, Risks, and Limitations**             | [File][GlobalLogic-Cert-02] |
+|              |                                     Nov 2023 | **Information Protection**                               | [File][GlobalLogic-Cert-01] |
+|              |                                              |                                                          |                             |
+| EPAM Systems |                                     Sep 2023 | **Becoming a Tech Mentor**                               | [File][EPAM-Cert-15]        |
+|              | Jul 2023<br>Jun 2022<br>May 2021<br>Sep 2020 | **5 Steps to Cyber Security Success**                    | [File][EPAM-Cert-14]        |
+|              | Jul 2023<br>Jun 2022<br>Jul 2021<br>Oct 2020 | **Health, Safety and Fire Prevention**                   | [File][EPAM-Cert-13]        |
+|              |                         Jul 2023<br>Oct 2020 | **QMS(Quality Management System) Induction**             | [File][EPAM-Cert-12]        |
+|              | Jul 2023<br>Jul 2022<br>Jul 2021<br>Oct 2020 | **Data Privacy and Awareness**                           | [File][EPAM-Cert-11]        |
+|              | Jul 2023<br>Jun 2022<br>Jun 2021<br>Sep 2020 | **Working from Home**                                    | [File][EPAM-Cert-10]        |
+|              |                                     Jul 2023 | **Social Engineering Defense**                           | [File][EPAM-Cert-09]        |
+|              | Jul 2023<br>Jun 2022<br>Jul 2021<br>Oct 2020 | **IT Security and Awareness**                            | [File][EPAM-Cert-08]        |
+|              |                                     Mar 2023 | **Career Journeys: Project Manager, Solution Architect** | [File][EPAM-Cert-07]        |
+|              |                                     Mar 2023 | **Assessment Preparation: Getting Ready**                | [File][EPAM-Cert-06]        |                                                                                                                                                      | Quiz            |
+|              |             Oct 2022<br>Sep 2021<br>Nov 2020 | **Code of Ethical Conduct**                              | [File][EPAM-Cert-05]        |
+|              |                                     May 2022 | **Assessment Preparation: Self-Presentation**            | [File][EPAM-Cert-04]        |                                                                                                                                                      | Quiz            |
+|              |                                     Oct 2021 | **CloudX: Foundations for Tech**                         | [File][EPAM-Cert-03]        |
+|              |                         Jul 2021<br>Feb 2021 | **Vulnerability Management**                             | [File][EPAM-Cert-02]        |
+|              |                                     Apr 2021 | **How to Be Diplomatic and Concise**                     | [File][EPAM-Cert-01]        |
 
 [GlobalLogic-Cert-01]: resources/certificates/GlobalLogic/01%20-%202023-11-10%20-%20Information%20Protection.pdf
 [GlobalLogic-Cert-02]: resources/certificates/GlobalLogic/02%20-%202023-11-10%20-%20AI%20Chatbots%20-%20Understanding%20Their%20Use,%20Risks,%20and%20Limitations%20in%20the%20Workplace.pdf
@@ -400,15 +401,18 @@ Working on my hard and soft skills, have next achievements so far:
 [EPAM-Cert-01]: resources/certificates/EPAM/01%20-%202021-04-06%20-%20How%20to%20Be%20Diplomatic%20and%20Concise.PNG
 [EPAM-Cert-02]: resources/certificates/EPAM/02%20-%202021-07-30,%202021-02-03%20-%20Vulnerability%20Management.PNG
 [EPAM-Cert-03]: resources/certificates/EPAM/03%20-%202021-10-01%20-%20CloudX%20-%20Foundations%20for%20Tech.PNG
-[EPAM-Cert-04]: resources/certificates/EPAM/04%20-%202022-10-28,%202021-09-17,%202020-11-03.%20Code%20of%20Ethical%20Conduct.PNG
-[EPAM-Cert-05]: resources/certificates/EPAM/05%20-%202023-03-23.%20Lectures.%20Career%20Journeys%20-%20Project%20Manager,%20Solution%20Architect.PNG
-[EPAM-Cert-06]: resources/certificates/EPAM/06%20-%202023-07-17,%202022-06-27,%202021-07-22,%202020-10-02.%201-hour%20Trainings%20with%20Quiz%20assessment.%20IT%20Security%20and%20Awareness.PNG
-[EPAM-Cert-07]: resources/certificates/EPAM/02%20-%202021-07-30,%202021-02-03%20-%20Vulnerability%20Management.PNG
-[EPAM-Cert-08]: resources/certificates/EPAM/08%20-%202023-07-19,%202022-06-20,%202021-06-04,%202020-09-30.%201-hour%20Trainings%20with%20Quiz%20assessment.%20Working%20from%20Home.PNG
-[EPAM-Cert-09]: resources/certificates/EPAM/09%20-%202023-07-24,%202022-07-18,%202021-07-22,%202020-10-09.%201-hour%20Trainings%20with%20Quiz%20assessment.%20Data%20Privacy%20and%20Awareness.PNG
-[EPAM-Cert-10]: resources/certificates/EPAM/10%20-%202023-07-31,%202020-10-02.%201-hour%20Trainings%20with%20Quiz%20assessment.%20Quality%20Management%20System%20Induction.PNG
-[EPAM-Cert-11]: resources/certificates/EPAM/11%20-%202023-07-31,%202022-06-07,%202021-07-22,%202020-10-09.%201-hour%20Trainings%20with%20Quiz%20assessment.%20Health,%20Safety%20and%20Fire%20Prevention.PNG
-[EPAM-Cert-12]: resources/certificates/EPAM/12%20-%202023-07-31,%202022-06-20,%202021-05-21,%202020-09-30.%201-hour%20Trainings%20with%20Quiz%20assessment.%205%20Steps%20to%20Cyber%20Security%20Success.PNG
+[EPAM-Cert-04]: resources/certificates/EPAM/04%20-%202022-03-11%20-%20Software%20Engineering%20Assessment%20Preparation%20-%20Self-Presentation.PNG
+[EPAM-Cert-05]: resources/certificates/EPAM/05%20-%202022-10-28,%202021-09-17,%202020-11-03.%20Code%20of%20Ethical%20Conduct.PNG
+[EPAM-Cert-06]: resources/certificates/EPAM/06%20-%202023-03-08%20-%20Software%20Engineering%20Assessment%20Preparation%20-%20Getting%20Ready.PNG
+[EPAM-Cert-07]: resources/certificates/EPAM/07%20-%202023-03-23.%20Lectures.%20Career%20Journeys%20-%20Project%20Manager,%20Solution%20Architect.PNG
+[EPAM-Cert-08]: resources/certificates/EPAM/08%20-%202023-07-17,%202022-06-27,%202021-07-22,%202020-10-02.%201-hour%20Trainings%20with%20Quiz%20assessment.%20IT%20Security%20and%20Awareness.PNG
+[EPAM-Cert-09]: resources/certificates/EPAM/09%20-%202023-07-17.%201-hour%20Training%20with%20Quiz%20assessment.%20Social%20Engineering%20Defense.PNG
+[EPAM-Cert-10]: resources/certificates/EPAM/10%20-%202023-07-19,%202022-06-20,%202021-06-04,%202020-09-30.%201-hour%20Trainings%20with%20Quiz%20assessment.%20Working%20from%20Home.PNG
+[EPAM-Cert-11]: resources/certificates/EPAM/11%20-%202023-07-24,%202022-07-18,%202021-07-22,%202020-10-09.%201-hour%20Trainings%20with%20Quiz%20assessment.%20Data%20Privacy%20and%20Awareness.PNG
+[EPAM-Cert-12]: resources/certificates/EPAM/12%20-%202023-07-31,%202020-10-02.%201-hour%20Trainings%20with%20Quiz%20assessment.%20Quality%20Management%20System%20Induction.PNG
+[EPAM-Cert-13]: resources/certificates/EPAM/13%20-%202023-07-31,%202022-06-07,%202021-07-22,%202020-10-09.%201-hour%20Trainings%20with%20Quiz%20assessment.%20Health,%20Safety%20and%20Fire%20Prevention.PNG
+[EPAM-Cert-14]: resources/certificates/EPAM/14%20-%202023-07-31,%202022-06-20,%202021-05-21,%202020-09-30.%201-hour%20Trainings%20with%20Quiz%20assessment.%205%20Steps%20to%20Cyber%20Security%20Success.PNG
+[EPAM-Cert-15]: resources/certificates/EPAM/15%20-%202023-09-26%20-%20Becoming%20a%20Tech%20Mentor.PNG
 
 #### Books Reading:
 
