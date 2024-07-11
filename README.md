@@ -455,7 +455,7 @@ Working on my hard and soft skills, have next achievements so far:
   and after 1 month of C/C++ onsite practicing, 
   I was trusted to implement simple but production application.
  
-  <br>&ast;_RINANU_ is [Ukrainian Product Department](http://rian.kharkov.ua/index.php/en/ 'http://rian.kharkov.ua/index.php/en/')
+  &ast;_RINANU_ is [Ukrainian Product Department](http://rian.kharkov.ua/index.php/en/ 'http://rian.kharkov.ua/index.php/en/')
   that produces Radar Station Prototypes including scientific research, hardware and software implementation.
 
 #### Software Engineer
