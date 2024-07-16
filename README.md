@@ -448,6 +448,8 @@ Working on my hard and soft skills, have next achievements so far:
 
 ![](resources/pictures/memes/Meme-Promotions.jpg)
 
+I'm going to tell my Career story in chronological order:
+
 #### Junior Software Engineer
 
 - In April 2018 I started my IT Career as a **Junior Developer** at RINANU&ast;.
@@ -467,7 +469,7 @@ so in September 2018, I got promoted to **Software Engineer**.
 
 #### English B1-
 
-- When I joined EPAM company, my English was not enough to work with foreign colleagues.
+- When I joined EPAM company, my English was not enough for efficient work with foreign colleagues.
 I decided to attend English classes and for that reason I had to pass English assessment.
 As a result of speaking assessment in Nov 2020, my English was evaluated as **B1- (low intermediate)** 
 
@@ -507,6 +509,10 @@ So, next I completed PDP plan and had other session with my direct Managers.
 Finally, in Mar 2023 I [got promoted](resources/pictures/promotions/2023-03.%20Software%20Engineering%20Level%20Promotion.PNG)
 to **Senior** level in Java area.
 
+#### Senior Software Engineer
+
+- In November 2023 I joined GlobalLogic company, where I was recognized as a **Senior** in Java area.
+Engineering Level was evaluated by passing Company and Project interviews including technical and behavioural ones.
 
 # Project Changing
 
