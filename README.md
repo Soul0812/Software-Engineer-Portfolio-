@@ -505,7 +505,7 @@ In October 2022, there was assessment session where my Manager,
 foreign Committee Representative and I had discussion about my experience.
 I conducted short presentation about my Career, and then we talked about Java theory and use cases in backend area. 
 I showed quite impressive experience, but there were some gaps in my theoretical knowledge.
-So, next I completed PDP plan and had other session with my direct Managers.
+So, next I completed PDP plan and had second session with my direct Managers.
 Finally, in Mar 2023 I [got promoted](resources/pictures/promotions/2023-03.%20Software%20Engineering%20Level%20Promotion.PNG)
 to **Senior** level in Java area.
 
