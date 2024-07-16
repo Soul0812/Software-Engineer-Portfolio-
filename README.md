@@ -448,7 +448,7 @@ Working on my hard and soft skills, have next achievements so far:
 
 ![](resources/pictures/memes/Meme-Promotions.jpg)
 
-I'm going to tell my Career story in chronological order:
+I'm going to tell about my Career achievements in chronological order:
 
 #### Junior Software Engineer
 
