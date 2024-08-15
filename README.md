@@ -16,14 +16,14 @@ Even if you have my CV, it's a good idea to review the following topics for more
 - [**Career Promotions**](#career-promotions)
 - [**Project Changing**](#project-changing)
 
-#### Updated June 2024
+#### Updated Aug 2024
 
 # About
 
 ![picture](resources/pictures/memes/Meme-Software-Engineer.PNG)
 
 Having **Java** as a primary skill, I've been doing commercial development for **6 years** so far.
-During this time I've come across different apps such as _Backend_, _Cloud_, _Frontend_, _Desktop_.
+During this time I've mastered _Backend_ and come across different apps such as _Web_, _Cloud_, _Frontend_, _Desktop_.
 Working on these apps, I've got considerable experience with _Java 8-17_, _JavaEE_, _Spring_, _AWS_, _SQL_, _NoSQL_, _JavaFX_, _Git_.
 
 Regarding responsibilities, I'm familiar with all the main stages of engineering.
@@ -250,22 +250,23 @@ It includes help with homework, clarification of difficult points, exam preparat
 
 Working on my hard and soft skills, have next achievements so far:
 
-#### Business English. Completed 12 live trainings:
+#### Business English. Completed 13 live trainings:
 
-|     Date | Name                               | Level       |    Efforts | Duration | Provider     |
-|---------:|:-----------------------------------|:------------|-----------:|---------:|--------------|
-| Jun 2024 | **Business Communication**         | B1+/B2/B2+  | 10 lessons | 2 months | GlobalLogic  |
-| Oct 2023 | **IT Communication**               | B2/B2+      | 17 lessons | 2 months | EPAM Systems |
-| Sep 2023 | **Presenting and Public Speaking** | B1+/B2/B2+  | 20 lessons | 3 months | EPAM Systems |
-| Jul 2023 | **Virtual Communication**          | B1+/B2/B2+  | 26 lessons | 4 months | EPAM Systems |
-| Apr 2023 | **Business Communication**         | B1+/B2      | 41 lessons | 7 months | EPAM Systems |
-| Nov 2022 | **IT Grammar**                     | B1+/B2      | 17 lessons | 3 months | EPAM Systems |
-| Jul 2022 | **Small Talks**                    | B1/B1+      |  8 lessons | 2 months | EPAM Systems |
-| Jul 2022 | **IT Grammar**                     | A2+/B1      | 17 lessons | 4 months | EPAM Systems |
-| May 2022 | **Speaking Club**                  | B1/B2/C1/C2 | 10 lessons | 3 months | EPAM Systems |
-| Feb 2022 | **Project Interviews**             | A2+/B1/B1+  | 10 lessons | 2 months | EPAM Systems |
-| Dec 2021 | **Breaking the Language Barrier**  | A2+/B1      | 11 lessons | 2 months | EPAM Systems |
-| Oct 2021 | **Business Communication**         | A2+/B1      | 40 lessons | 7 months | EPAM Systems |
+|     Date | Name                               | Level       |    Efforts | Duration | Provider                   |
+|---------:|:-----------------------------------|:------------|-----------:|---------:|----------------------------|
+| Aug 2024 | **Speaking Clubs**                 | B1+/B2/B2+  | 12 lessons | 2 months | SpeakWell.UA, AP Education |
+| Aug 2024 | **Business Communication**         | B1+/B2/B2+  | 24 lessons | 3 months | GlobalLogic                |
+| Oct 2023 | **IT Communication**               | B2/B2+      | 17 lessons | 2 months | EPAM Systems               |
+| Sep 2023 | **Presenting and Public Speaking** | B1+/B2/B2+  | 20 lessons | 3 months | EPAM Systems               |
+| Jul 2023 | **Virtual Communication**          | B1+/B2/B2+  | 26 lessons | 4 months | EPAM Systems               |
+| Apr 2023 | **Business Communication**         | B1+/B2      | 41 lessons | 7 months | EPAM Systems               |
+| Nov 2022 | **IT Grammar**                     | B1+/B2      | 17 lessons | 3 months | EPAM Systems               |
+| Jul 2022 | **Small Talks**                    | B1/B1+      |  8 lessons | 2 months | EPAM Systems               |
+| Jul 2022 | **IT Grammar**                     | A2+/B1      | 17 lessons | 4 months | EPAM Systems               |
+| May 2022 | **Speaking Club**                  | B1/B2/C1/C2 | 10 lessons | 3 months | EPAM Systems               |
+| Feb 2022 | **Project Interviews**             | A2+/B1/B1+  | 10 lessons | 2 months | EPAM Systems               |
+| Dec 2021 | **Breaking the Language Barrier**  | A2+/B1      | 11 lessons | 2 months | EPAM Systems               |
+| Oct 2021 | **Business Communication**         | A2+/B1      | 40 lessons | 7 months | EPAM Systems               |
 
 #### Software Engineering. Completed 3 educational programs:
 
