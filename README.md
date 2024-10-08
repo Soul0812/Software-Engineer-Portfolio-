@@ -109,7 +109,7 @@ that produces Radar Station Prototypes including scientific research, hardware a
 |                       | **JavaScript**           |    entry     |   2 month    |
 |                       | **Kotlin**               | theoretical  |              |
 |                       |                          |              |              |
-| **Development Areas** | **Backend**              |   advanced   |   3 years    |
+| **Development Areas** | **Backend**              |   advanced   |   4 years    |
 |                       | **Desktop**              |   advanced   |   2 years    |
 |                       | **Cloud**                | intermediate |  1.5 years   |
 |                       | **Microservices**        | intermediate |  1.5 years   |
@@ -125,6 +125,7 @@ that produces Radar Station Prototypes including scientific research, hardware a
 |                       | **Spring Data**          |    entry     |   6 months   |
 |                       | **Spring Web**           |    entry     |   6 months   |
 |                       | **Apache Kafka**         |    entry     |   4 months   |
+|                       | **Spring Security**      | theoretical  |              |
 |                       |                          |              |              |
 | **Databases**         | **SQL**                  |   advanced   |  2.5 years   |
 |                       | **OracleDB**             | intermediate |  1.5 years   |
@@ -252,21 +253,21 @@ Working on my hard and soft skills, have next achievements so far:
 
 #### Business English. Completed 13 live trainings:
 
-|     Date | Name                               | Level       |    Efforts | Duration | Provider                   |
-|---------:|:-----------------------------------|:------------|-----------:|---------:|----------------------------|
-| Aug 2024 | **Speaking Clubs**                 | B1+/B2/B2+  | 12 lessons | 2 months | SpeakWell.UA, AP Education |
-| Aug 2024 | **Business Communication**         | B1+/B2/B2+  | 24 lessons | 3 months | GlobalLogic                |
-| Oct 2023 | **IT Communication**               | B2/B2+      | 17 lessons | 2 months | EPAM Systems               |
-| Sep 2023 | **Presenting and Public Speaking** | B1+/B2/B2+  | 20 lessons | 3 months | EPAM Systems               |
-| Jul 2023 | **Virtual Communication**          | B1+/B2/B2+  | 26 lessons | 4 months | EPAM Systems               |
-| Apr 2023 | **Business Communication**         | B1+/B2      | 41 lessons | 7 months | EPAM Systems               |
-| Nov 2022 | **IT Grammar**                     | B1+/B2      | 17 lessons | 3 months | EPAM Systems               |
-| Jul 2022 | **Small Talks**                    | B1/B1+      |  8 lessons | 2 months | EPAM Systems               |
-| Jul 2022 | **IT Grammar**                     | A2+/B1      | 17 lessons | 4 months | EPAM Systems               |
-| May 2022 | **Speaking Club**                  | B1/B2/C1/C2 | 10 lessons | 3 months | EPAM Systems               |
-| Feb 2022 | **Project Interviews**             | A2+/B1/B1+  | 10 lessons | 2 months | EPAM Systems               |
-| Dec 2021 | **Breaking the Language Barrier**  | A2+/B1      | 11 lessons | 2 months | EPAM Systems               |
-| Oct 2021 | **Business Communication**         | A2+/B1      | 40 lessons | 7 months | EPAM Systems               |
+|     Date | Name                               | Level       |    Efforts | Duration | Provider     |
+|---------:|:-----------------------------------|:------------|-----------:|---------:|--------------|
+| Oct 2024 | **Business Communication**         | B1+/B2/B2+  | 40 lessons | 5 months | GlobalLogic  |
+| Aug 2024 | **Speaking Clubs**                 | B1+/B2/B2+  | 12 lessons | 2 months | AP Education |
+| Oct 2023 | **IT Communication**               | B2/B2+      | 17 lessons | 2 months | EPAM Systems |
+| Sep 2023 | **Presenting and Public Speaking** | B1+/B2/B2+  | 20 lessons | 3 months | EPAM Systems |
+| Jul 2023 | **Virtual Communication**          | B1+/B2/B2+  | 26 lessons | 4 months | EPAM Systems |
+| Apr 2023 | **Business Communication**         | B1+/B2      | 41 lessons | 7 months | EPAM Systems |
+| Nov 2022 | **IT Grammar**                     | B1+/B2      | 17 lessons | 3 months | EPAM Systems |
+| Jul 2022 | **Small Talks**                    | B1/B1+      |  8 lessons | 2 months | EPAM Systems |
+| Jul 2022 | **IT Grammar**                     | A2+/B1      | 17 lessons | 4 months | EPAM Systems |
+| May 2022 | **Speaking Club**                  | B1/B2/C1/C2 | 10 lessons | 3 months | EPAM Systems |
+| Feb 2022 | **Project Interviews**             | A2+/B1/B1+  | 10 lessons | 2 months | EPAM Systems |
+| Dec 2021 | **Breaking the Language Barrier**  | A2+/B1      | 11 lessons | 2 months | EPAM Systems |
+| Oct 2021 | **Business Communication**         | A2+/B1      | 40 lessons | 7 months | EPAM Systems |
 
 #### Software Engineering. Completed 3 educational programs:
 
@@ -276,7 +277,7 @@ Working on my hard and soft skills, have next achievements so far:
 | Nov 2023 | [**AWS&nbsp;Certified&nbsp;Developer - Associate**](https://learn.acloud.guru/course/aws-certified-developer-associate/dashboard 'https://learn.acloud.guru/course/aws-certified-developer-associate/dashboard') | A&nbsp;Cloud&nbsp;Guru | Intermediate | Self&#8209;study&nbsp;course | 42&nbsp;hours | 14&nbsp;Labs&nbsp;in&nbsp;Playground, 4&nbsp;Exams                                                                                                    | 10&nbsp;Quizzes |
 | Aug 2022 | **CloudX&nbsp;Associate: AWS&nbsp;Developer**                                                                                                                                                                    | EPAM&nbsp;Systems      | Beginner     | Educational&nbsp;program     | 30&nbsp;hours | 5&nbsp;Labs&nbsp;in AWS&nbsp;Free&nbsp;Tier&nbsp;account                                                                                              | Mentor review   |
 
-#### LinkedIn Learning. Completed 40 self-study courses:
+#### LinkedIn Learning. Completed 41 self-study courses:
 
 | Category             |            Completed | Title                                                                                                                                                                                                                                                                      | Practice                                                                                                                                                                                        |    Level     |       Certificate        |
 |----------------------|---------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------:|:------------------------:|
@@ -296,13 +297,14 @@ Working on my hard and soft skills, have next achievements so far:
 |                      |             Nov 2023 | [**Ethics in the Age of Generative AI**](https://www.linkedin.com/learning/ethics-in-the-age-of-generative-ai 'https://www.linkedin.com/learning/ethics-in-the-age-of-generative-ai')                                                                                      |                                                                                                                                                                                                 |   Beginner   | [File][LinkedIn-Cert-35] |
 |                      |             Nov 2023 | [**What Is Generative AI?**](https://www.linkedin.com/learning/what-is-generative-ai 'https://www.linkedin.com/learning/what-is-generative-ai')                                                                                                                            |                                                                                                                                                                                                 |   Beginner   | [File][LinkedIn-Cert-34] |
 |                      |                      |                                                                                                                                                                                                                                                                            |                                                                                                                                                                                                 |              |                          |
-| **Spring Framework** |             Sep 2023 | [**Extending, Securing, and Dockerizing Spring Boot Microservices**](https://www.linkedin.com/learning/extending-securing-and-dockerizing-spring-boot-microservices 'https://www.linkedin.com/learning/extending-securing-and-dockerizing-spring-boot-microservices')      |                                                                                                                                                                                                 |   Advanced   | [File][LinkedIn-Cert-30] |
+| **Spring Framework** |             Aug 2024 | [**Spring Security**](https://www.linkedin.com/learning/spring-spring-security-15832928 'https://www.linkedin.com/learning/spring-spring-security-15832928')                                                                                                               | [Repository](https://github.com/Yevhen-Tkachenko-1/Spring-Boot-Demo/tree/main/Marketplace-Spring-Security-App 'https://github.com/Yevhen-Tkachenko-1/Spring-Boot-Demo/tree/main/Marketplace-Spring-Security-App')                                           | Intermediate | [File][LinkedIn-Cert-41] |
+|                      |             Sep 2023 | [**Extending, Securing, and Dockerizing Spring Boot Microservices**](https://www.linkedin.com/learning/extending-securing-and-dockerizing-spring-boot-microservices 'https://www.linkedin.com/learning/extending-securing-and-dockerizing-spring-boot-microservices')      |                                                                                                                                                                                                 |   Advanced   | [File][LinkedIn-Cert-30] |
 |                      |             Sep 2023 | [**Spring 5.0 and Spring Boot 2.0 New Features**](https://www.linkedin.com/learning/spring-5-0-and-spring-boot-2-0-new-features 'https://www.linkedin.com/learning/spring-5-0-and-spring-boot-2-0-new-features')                                                           |                                                                                                                                                                                                 | Intermediate | [File][LinkedIn-Cert-26] |
 |                      |             Sep 2023 | [**Spring: Spring Data 2**](https://www.linkedin.com/learning/spring-spring-data-2-2017 'https://www.linkedin.com/learning/spring-spring-data-2-2017')                                                                                                                     |                                                                                                                                                                                                 | Intermediate | [File][LinkedIn-Cert-25] |
 |                      |             Sep 2023 | [**Advanced Spring: Effective Integration Testing with Spring Boot**](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot 'https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot') |                                                                                                                                                                                                 |   Advanced   | [File][LinkedIn-Cert-23] |
 |                      |             Aug 2023 | [**Creating Your First Spring Boot Microservice**](https://www.linkedin.com/learning/creating-your-first-spring-boot-microservice)                                                                                                                                         | [Repository](https://github.com/Yevhen-Tkachenko-1/Spring-Boot-Demo-Microservice-with-MongoDB 'https://github.com/Yevhen-Tkachenko-1/Spring-Boot-Demo-Microservice-with-MongoDB')               | Intermediate | [File][LinkedIn-Cert-18] |
 |                      |             Sep 2022 | [**Spring Boot 2.0 Essential Training**](https://www.linkedin.com/learning/spring-boot-2-0-essential-training-2)                                                                                                                                                           |                                                                                                                                                                                                 | Intermediate | [File][LinkedIn-Cert-15] |
-|                      | Sep 2022<br>Aug 2021 | [**Learning Spring with Spring Boot**](https://www.linkedin.com/learning/learning-spring-with-spring-boot-13886371)                                                                                                                                                        | [Repository](https://github.com/Yevhen-Tkachenko-1/Spring-Boot-Demo-Application 'https://github.com/Yevhen-Tkachenko-1/Spring-Boot-Demo-Application')                                           |   Beginner   | [File][LinkedIn-Cert-14] |
+|                      | Sep 2022<br>Aug 2021 | [**Learning Spring with Spring Boot**](https://www.linkedin.com/learning/learning-spring-with-spring-boot-13886371)                                                                                                                                                        | [Repository](https://github.com/Yevhen-Tkachenko-1/Spring-Boot-Demo/tree/main/Hotel-Spring-Boot-App 'https://github.com/Yevhen-Tkachenko-1/Spring-Boot-Demo/tree/main/Hotel-Spring-Boot-App')                                           |   Beginner   | [File][LinkedIn-Cert-14] |
 |                      |             Oct 2021 | [**Building Full-Stack Apps with React and Spring**](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring)                                                                                                                                     | [Repository](https://github.com/Yevhen-Tkachenko-1/Full-Stack-Demo-Application-with-Spring-and-React 'https://github.com/Yevhen-Tkachenko-1/Full-Stack-Demo-Application-with-Spring-and-React') | Intermediate | [File][LinkedIn-Cert-08] |
 |                      |             Aug 2021 | [**Spring: Framework in Depth**](https://www.linkedin.com/learning/spring-framework-in-depth-2)                                                                                                                                                                            | [Repository](https://github.com/Yevhen-Tkachenko-1/Spring-Demo-Application 'https://github.com/Yevhen-Tkachenko-1/Spring-Demo-Application')                                                     | Intermediate | [File][LinkedIn-Cert-06] |
 |                      |             Aug 2021 | [**Spring: Test-Driven Development with JUnit**](https://www.linkedin.com/learning/spring-test-driven-development-with-junit)                                                                                                                                              |                                                                                                                                                                                                 | Intermediate | [File][LinkedIn-Cert-05] |
@@ -368,6 +370,7 @@ Working on my hard and soft skills, have next achievements so far:
 [LinkedIn-Cert-38]: resources/certificates/LinkedIn/38-CertificateOfCompletion_Practical%20GitHub%20Copilot.pdf
 [LinkedIn-Cert-39]: resources/certificates/LinkedIn/39-CertificateOfCompletion_GitHub%20Copilot%20First%20Look.pdf
 [LinkedIn-Cert-40]: resources/certificates/LinkedIn/40-CertificateOfCompletion_Complete%20Guide%20to%20Apache%20Kafka%20for%20Beginners.pdf
+[LinkedIn-Cert-41]: resources/certificates/LinkedIn/41-CertificateOfCompletion_Spring%20Spring%20Security.pdf
 
 #### Business Process Awareness. Completed 44 self-study trainings:
 
