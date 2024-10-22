@@ -278,7 +278,7 @@ Working on my hard and soft skills, have next achievements so far:
 | Nov 2023 | [**AWS&nbsp;Certified&nbsp;Developer - Associate**](https://learn.acloud.guru/course/aws-certified-developer-associate/dashboard 'https://learn.acloud.guru/course/aws-certified-developer-associate/dashboard') | A&nbsp;Cloud&nbsp;Guru | Intermediate | Self&#8209;study&nbsp;course | 42&nbsp;hours | 14&nbsp;Labs&nbsp;in&nbsp;Playground, 4&nbsp;Exams                                                                                                    | 10&nbsp;Quizzes |
 | Aug 2022 | **CloudX&nbsp;Associate: AWS&nbsp;Developer**                                                                                                                                                                    | EPAM&nbsp;Systems      | Beginner     | Educational&nbsp;program     | 30&nbsp;hours | 5&nbsp;Labs&nbsp;in AWS&nbsp;Free&nbsp;Tier&nbsp;account                                                                                              | Mentor review   |
 
-#### LinkedIn Learning. Completed 41 self-study courses:
+#### LinkedIn Learning. Completed 42 self-study courses:
 
 | Category             |            Completed | Title                                                                                                                                                                                                                                                                      | Practice                                                                                                                                                                                                          |    Level     |       Certificate        |
 |----------------------|---------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------:|:------------------------:|
@@ -455,7 +455,7 @@ Working on my hard and soft skills, have next achievements so far:
 
 ![](resources/pictures/memes/Meme-Promotions.jpg)
 
-I'm going to tell about my Career achievements in chronological order:
+In this section you will see the main stages of my career in chronological order:
 
 #### Junior Software Engineer
 
@@ -478,48 +478,49 @@ so in September 2018, I got promoted to **Software Engineer**.
 
 - When I joined EPAM company, my English was not enough for efficient work with foreign colleagues.
 I decided to attend English classes and for that reason I had to pass English assessment.
-As a result of speaking assessment in Nov 2020, my English was evaluated as **B1- (low intermediate)** 
+As a result of speaking assessment conducted by EPAM company in Nov 2020, my English was evaluated as **B1- (low intermediate)** 
 
 #### English B1
 
 - Working with foreign colleagues and learning English in live classes, I felt real progress in communication.
 So, in about 1 year, it was time to reevaluate my English level.
-As a result of [speaking assessment](resources/pictures/promotions/2021-10%20-%20English%20Level%20Promotion%20-%20B1.PNG)
+As a result of [speaking assessment](resources/pictures/promotions/2021-10%20-%20English%20Level%20Promotion%20-%20B1.PNG) conducted by EPAM company
 in Oct 2021, my English was promoted to **B1 (intermediate)**
 
 #### English B1+
 
 - Over time, my English became even better. 
 I targeted to attend more advanced English classes, and finally proved readiness.
-As a result of [speaking assessment](resources/pictures/promotions/2022-05%20-%20English%20Level%20Promotion%20-%20B1+.PNG)
+As a result of [speaking assessment](resources/pictures/promotions/2022-05%20-%20English%20Level%20Promotion%20-%20B1+.PNG) conducted by EPAM company
 in May 2022, my English was promoted to **B1+ (strong intermediate)**
 
 #### English B2
 
 - English as a soft skill has direct impact on Engineering Level promotion.
 In order to get Senior level, I took one more English evaluation.
-As a result of [speaking assessment](resources/pictures/promotions/2023-02%20-%20English%20Level%20Promotion%20-%20B2.PNG)
+As a result of [speaking assessment](resources/pictures/promotions/2023-02%20-%20English%20Level%20Promotion%20-%20B2.PNG) conducted by EPAM company
 in Feb 2023, my English was promoted to **B2 (upper intermediate)**
 
 #### Senior Software Engineer
 
 - When I had 4 years of experience in IT, I began to feel readiness for the Senior level.
-At that time I was at EPAM, so in order to get promotion, I had to pass the Competency Evaluation process.
-Along with self-preparation I completed trainings designed by EPAM: 
+In order to get promotion, I had to pass the EPAM Competency Evaluation process.
+I started with self-preparation and completed trainings 
 [Getting Ready](resources/pictures/promotions/2023-03.%20%20Software%20Engineering%20Assessment%20Preparation%20-%20Getting%20Ready.PNG)
 and [Self-Presentation](resources/pictures/promotions/2022-03.%20Software%20Engineering%20Assessment%20Preparation%20-%20Self-Presentation.PNG).
-In October 2022, there was assessment session where my Manager, 
+In October 2022, there was EPAM assessment, where my Manager, 
 foreign Committee Representative and I had discussion about my experience.
 I conducted short presentation about my Career, and then we talked about Java theory and use cases in backend area. 
 I showed quite impressive experience, but there were some gaps in my theoretical knowledge.
 So, next I completed PDP plan and had second session with my direct Managers.
-Finally, in Mar 2023 I [got promoted](resources/pictures/promotions/2023-03.%20Software%20Engineering%20Level%20Promotion.PNG)
+Finally, in Mar 2023 I [got promoted](resources/pictures/promotions/2023-03.%20Software%20Engineering%20Level%20Promotion.PNG) by EPAM
 to **Senior** level in Java area.
 
 #### Senior Software Engineer
 
 - In November 2023 I joined GlobalLogic company, where I was recognized as a **Senior** in Java area.
-Engineering Level was evaluated by passing Company and Project interviews including technical and behavioural ones.
+Engineering Level was evaluated by a series of Company and Project interviews 
+including technical and behavioural ones.
 
 # Project Changing
 
