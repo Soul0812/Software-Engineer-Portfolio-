@@ -257,7 +257,7 @@ Working on my hard and soft skills, have next achievements so far:
 |     Date | Name                               | Level       |    Efforts | Duration | Provider     |
 |---------:|:-----------------------------------|:------------|-----------:|---------:|--------------|
 | Oct 2024 | **Business Communication**         | B1+/B2/B2+  | 40 lessons | 5 months | GlobalLogic  |
-| Aug 2024 | **Speaking Clubs**                 | B1+/B2/B2+  | 12 lessons | 2 months | AP Education |
+| Aug 2024 | **Speaking Club**                  | B1+/B2/B2+  | 12 lessons | 2 months | AP Education |
 | Oct 2023 | **IT Communication**               | B2/B2+      | 17 lessons | 2 months | EPAM Systems |
 | Sep 2023 | **Presenting and Public Speaking** | B1+/B2/B2+  | 20 lessons | 3 months | EPAM Systems |
 | Jul 2023 | **Virtual Communication**          | B1+/B2/B2+  | 26 lessons | 4 months | EPAM Systems |
