@@ -375,12 +375,13 @@ Working on my hard and soft skills, have next achievements so far:
 [LinkedIn-Cert-41]: resources/certificates/LinkedIn/41-CertificateOfCompletion_Spring%20Spring%20Security.pdf
 [LinkedIn-Cert-42]: resources/certificates/LinkedIn/42-CertificateOfCompletion_Docker%20Your%20First%20Project.pdf
 
-#### Business Process Awareness. Completed 44 self-study trainings:
+#### Business Process Awareness. Completed 45 self-study trainings:
 
 | Provider         |                                    Completed | Title                                                    | Certificate                 |
 |------------------|---------------------------------------------:|----------------------------------------------------------|-----------------------------|
 |                  |                                              |                                                          |                             |
-| **GlobalLogic**  |                                     May 2024 | **IT Security in the Workplace**                         | [File][GlobalLogic-Cert-10] |
+| **GlobalLogic**  |                                     Oct 2024 | **Code of Ethical Conduct**                              | [File][GlobalLogic-Cert-11] |
+|                  |                                     May 2024 | **IT Security in the Workplace**                         | [File][GlobalLogic-Cert-10] |
 |                  |                                     May 2024 | **Security Awareness**                                   | [File][GlobalLogic-Cert-09] |
 |                  |                                     Mar 2024 | **Introduction to Data Protection**                      | [File][GlobalLogic-Cert-08] |
 |                  |                                     Nov 2023 | **GQMS: Ochibo-Hiroi**                                   | [File][GlobalLogic-Cert-07] |
@@ -417,6 +418,7 @@ Working on my hard and soft skills, have next achievements so far:
 [GlobalLogic-Cert-08]: resources/certificates/GlobalLogic/08%20-%202024-03-27%20-%20Introduction%20to%20Data%20Protection.pdf
 [GlobalLogic-Cert-09]: resources/certificates/GlobalLogic/09%20-%202024-05-09%20-%20Security%20Awareness.pdf
 [GlobalLogic-Cert-10]: resources/certificates/GlobalLogic/10%20-%202024-05-09%20-%20IT%20Security%20in%20the%20Workplace.pdf
+[GlobalLogic-Cert-11]: resources/certificates/GlobalLogic/11%20-%202024-10-25%20-%20Code%20of%20Conduct.pdf
 
 [EPAM-Cert-01]: resources/certificates/EPAM/01%20-%202021-04-06%20-%20How%20to%20Be%20Diplomatic%20and%20Concise.PNG
 [EPAM-Cert-02]: resources/certificates/EPAM/02%20-%202021-07-30,%202021-02-03%20-%20Vulnerability%20Management.PNG
