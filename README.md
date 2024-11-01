@@ -114,17 +114,17 @@ Details about my **hard skills**:
 |                       |                         |              |              |
 | **Development Areas** | **Backend**             |   advanced   |   4 years    |
 |                       | **Desktop**             |   advanced   |   2 years    |
-|                       | **Cloud**               | intermediate |  1.5 years   |
-|                       | **Microservices**       | intermediate |  1.5 years   |
+|                       | **Microservices**       | intermediate |   2 years    |
+|                       | **Cloud**               | intermediate |   2 years    |
+|                       | **Monoliths**           | intermediate |  1.5 years   |
 |                       | **REST API**            | intermediate |  1.5 years   |
-|                       | **Monoliths**           | intermediate |    1 year    |
-|                       | **Databases**           | intermediate |    1 year    |
+|                       | **Databases**           | intermediate |   2 years    |
 |                       | **Fullstack**           |    entry     |    1 year    |
 |                       | **Frontend**            |    entry     |   6 months   |
 |                       |                         |              |              |
-| **Backend**           | **Spring Core**         |   advanced   |   2 years    |
-|                       | **Spring Boot**         | intermediate |    1 year    |
-|                       | **Java EE**             | intermediate |    1 year    |
+| **Backend**           | **Spring Core**         |   advanced   |   3 years    |
+|                       | **Spring Boot**         | intermediate |   2 years    |
+|                       | **Java EE**             | intermediate |  1.5 years   |
 |                       | **Spring Data**         |    entry     |   6 months   |
 |                       | **Spring Web**          |    entry     |   6 months   |
 |                       | **Hibernate**           |    entry     |   6 month    |
