@@ -99,6 +99,8 @@ that produces Radar Station Prototypes including scientific research, hardware a
 
 ![picture](resources/pictures/memes/Meme-Skills.jpg)
 
+Details about my **hard skills**:
+
 | Category              | Skill                   |  Level&ast;  | Project work |
 |:----------------------|:------------------------|:------------:|:------------:|
 |                       |                         |              |              |
