@@ -459,7 +459,7 @@ Working on my hard and soft skills, have next achievements so far:
 
 ![](resources/pictures/memes/Meme-Promotions.jpg)
 
-In this section you will see the main stages of my career in chronological order:
+There are the main stages of my career in chronological order:
 
 #### Junior Software Engineer
 
