@@ -99,113 +99,113 @@ that produces Radar Station Prototypes including scientific research, hardware a
 
 ![picture](resources/pictures/memes/Meme-Skills.jpg)
 
-| Category              | Skill                    |  Level&ast;  | Project work |
-|:----------------------|:-------------------------|:------------:|:------------:|
-|                       |                          |              |              |
-| **Core Languages**    | **Java 8**               |    expert    |   6 years    |
-|                       | **Java 9-17**            | intermediate |    1 year    |
-|                       | **C#**                   |    entry     |   1 month    |
-|                       | **C/C++**                |    entry     |   6 months   |
-|                       | **TypeScript**           |    entry     |   6 months   |
-|                       | **JavaScript**           |    entry     |   2 month    |
-|                       | **Kotlin**               | theoretical  |              |
-|                       |                          |              |              |
-| **Development Areas** | **Backend**              |   advanced   |   4 years    |
-|                       | **Desktop**              |   advanced   |   2 years    |
-|                       | **Cloud**                | intermediate |  1.5 years   |
-|                       | **Microservices**        | intermediate |  1.5 years   |
-|                       | **REST API**             | intermediate |  1.5 years   |
-|                       | **Monoliths**            | intermediate |    1 year    |
-|                       | **Databases**            | intermediate |    1 year    |
-|                       | **Fullstack**            |    entry     |    1 year    |
-|                       | **Frontend**             |    entry     |   6 months   |
-|                       |                          |              |              |
-| **Backend**           | **Spring Core**          |   advanced   |   2 years    |
-|                       | **Spring Boot**          | intermediate |    1 year    |
-|                       | **Java EE**              | intermediate |    1 year    |
-|                       | **Spring Data**          |    entry     |   6 months   |
-|                       | **Spring Web**           |    entry     |   6 months   |
-|                       | **Apache Kafka**         |    entry     |   4 months   |
-|                       | **Spring Security**      | theoretical  |              |
-|                       |                          |              |              |
-| **Databases**         | **SQL**                  |   advanced   |  2.5 years   |
-|                       | **OracleDB**             | intermediate |  1.5 years   |
-|                       | **NoSQL**                | intermediate |    1 year    |
-|                       | **PostgreSQL**           | intermediate |   6 months   |
-|                       | **InfluxDB**             |    entry     |   6 months   |
-|                       | **DynamoDB**             |    entry     |   3 months   |
-|                       | **Hibernate**            |    entry     |   1 month    |
-|                       |                          |              |              |
-| **Clouds**            | **AWS Platform**         | intermediate |  1.5 years   |
-|                       | **AWS Java SDK**         | intermediate |    1 year    |
-|                       | **AWS Lambda**           | intermediate |    1 year    |
-|                       | **AWS DynamoDB**         |    entry     |   3 months   |
-|                       | **AWS SES**              |    entry     |   2 months   |
-|                       | **AWS SQS**              |    entry     |   2 months   |
-|                       | **AWS SNS**              |    entry     |   1 month    |
-|                       | **AWS CloudWatch**       |    entry     |   1 month    |
-|                       | **AWS EC2**              |    entry     |   1 month    |
-|                       | **AWS S3**               |    entry     |   1 month    |
-|                       | **AWS ECS**              | theoretical  |              |
-|                       | **AWS EKS**              | theoretical  |              |
-|                       |                          |              |              |
-| **Frontend**          | **JavaFX**               |   advanced   |   2 years    |
-|                       | **UI/UX**                | intermediate |  1.5 years   |
-|                       | **2D/3D graphics**       | intermediate |    1 year    |
-|                       | **JSON/XML**             | intermediate |    1 year    |
-|                       | **HTML/CSS**             |    entry     |   6 months   |
-|                       | **AngularJS 2**          |    entry     |   6 months   |
-|                       | **Vue.js**               |    entry     |   2 months   |
-|                       |                          |              |              |
-| **Testing**           | **JUnit**                |   advanced   |   3 years    |
-|                       | **Postman**              | intermediate |    1 year    |
-|                       | **JMockit**              |    entry     |   6 months   |
-|                       | **Mockito**              |    entry     |   5 months   |
-|                       | **JProfiler**            |    entry     |   1 month    |
-|                       | **OpenTelemetry**        |    entry     |   1 month    |
-|                       | **Jaeger**               |    entry     |   1 month    |
-|                       |                          |              |              |
-| **CI/CD**             | **Git**                  |   advanced   |   3 years    |
-|                       | **GitLab**               | intermediate |   2 years    |
-|                       | **JBoss**                | intermediate |   2 years    |
-|                       | **Gradle**               | intermediate |   2 years    |
-|                       | **Maven**                | intermediate |  1.5 years   |
-|                       | **GitHub**               | intermediate |   8 months   |
-|                       | **Docker**               |    entry     |   8 months   |
-|                       | **Kubernetes**           |    entry     |   6 months   |
-|                       | **Terraform**            |    entry     |   6 months   |
-|                       | **Azure DevOps**         |    entry     |   6 months   |
-|                       |                          |              |              |
-| **Software & Tools**  | **Windows**              |   advanced   |  5.5 years   |
-|                       | **IntelliJ IDEA**        |   advanced   |  3.5 years   |
-|                       | **Eclipse IDE**          |   advanced   |  2.5 years   |
-|                       | **Jira**                 |   advanced   |  2.5 years   |
-|                       | **SQL Developer**        | intermediate |   2 years    |
-|                       | **Command Line**         | intermediate |   2 years    |
-|                       | **Confluence**           | intermediate |   2 years    |
-|                       | **Linux**                | intermediate |   9 months   |
-|                       | **Tilt Dev**             | intermediate |   6 months   |
-|                       | **pgAdmin**              |    entry     |   4 months   |
-|                       | **VS Code**              |    entry     |   4 months   |
-|                       | **Node-RED**             |    entry     |   2 months   |
-|                       | **GitHub Copilot**       | non-project  |              |
-|                       |                          |              |              |
-| **General**           | **OOP**                  |    expert    |   5 years    |
-|                       | **Clean Code**           |    expert    |   4 years    |
-|                       | **Mathematics**          |    expert    |   3 years    |
-|                       | **Design Patterns**      |   advanced   |   3 years    |
-|                       | **Scrum**                |   advanced   |  2.5 years   |
-|                       | **Product Development**  |   advanced   |  2.5 years   |
-|                       | **Kanban**               | intermediate |   2 years    |
-|                       | **Outstaffing**          | intermediate |   2 years    |
-|                       | **Outsourcing**          | intermediate |  1.5 years   |
-|                       | **Waterfall**            | intermediate |    1 year    |
-|                       | **Multithreading**       | intermediate |    1 year    |
-|                       |                          |              |              |
-| **Domains**           | **Radar Stations**       |   advanced   |  2.5 years   |
-|                       | **Banking System**       | intermediate |   2 years    |
-|                       | **Performance Analysis** | intermediate |    1 year    |
-|                       | **Asset Management**     | intermediate |   8 months   |
+| Category              | Skill                   |  Level&ast;  | Project work |
+|:----------------------|:------------------------|:------------:|:------------:|
+|                       |                         |              |              |
+| **Core Languages**    | **Java 8**              |    expert    |   6 years    |
+|                       | **Java 9-17**           | intermediate |    1 year    |
+|                       | **C#**                  |    entry     |   1 month    |
+|                       | **C/C++**               |    entry     |   6 months   |
+|                       | **TypeScript**          |    entry     |   6 months   |
+|                       | **JavaScript**          |    entry     |   2 month    |
+|                       | **Kotlin**              | theoretical  |              |
+|                       |                         |              |              |
+| **Development Areas** | **Backend**             |   advanced   |   4 years    |
+|                       | **Desktop**             |   advanced   |   2 years    |
+|                       | **Cloud**               | intermediate |  1.5 years   |
+|                       | **Microservices**       | intermediate |  1.5 years   |
+|                       | **REST API**            | intermediate |  1.5 years   |
+|                       | **Monoliths**           | intermediate |    1 year    |
+|                       | **Databases**           | intermediate |    1 year    |
+|                       | **Fullstack**           |    entry     |    1 year    |
+|                       | **Frontend**            |    entry     |   6 months   |
+|                       |                         |              |              |
+| **Backend**           | **Spring Core**         |   advanced   |   2 years    |
+|                       | **Spring Boot**         | intermediate |    1 year    |
+|                       | **Java EE**             | intermediate |    1 year    |
+|                       | **Spring Data**         |    entry     |   6 months   |
+|                       | **Spring Web**          |    entry     |   6 months   |
+|                       | **Hibernate**           |    entry     |   6 month    |
+|                       | **Apache Kafka**        |    entry     |   4 months   |
+|                       | **Spring Security**     | theoretical  |              |
+|                       |                         |              |              |
+| **Databases**         | **SQL**                 |   advanced   |   3 years    |
+|                       | **PostgreSQL**          | intermediate |  1.5 years   |
+|                       | **OracleDB**            | intermediate |  1.5 years   |
+|                       | **NoSQL**               | intermediate |    1 year    |
+|                       | **InfluxDB**            |    entry     |   6 months   |
+|                       | **DynamoDB**            |    entry     |   5 months   |
+|                       |                         |              |              |
+| **Clouds**            | **AWS Platform**        | intermediate |   2 years    |
+|                       | **AWS Java SDK**        | intermediate |    1 year    |
+|                       | **AWS Lambda**          | intermediate |    1 year    |
+|                       | **AWS DynamoDB**        |    entry     |   3 months   |
+|                       | **AWS SES**             |    entry     |   2 months   |
+|                       | **AWS SQS**             |    entry     |   2 months   |
+|                       | **AWS SNS**             |    entry     |   1 month    |
+|                       | **AWS CloudWatch**      |    entry     |   1 month    |
+|                       | **AWS EC2**             |    entry     |   1 month    |
+|                       | **AWS S3**              |    entry     |   1 month    |
+|                       | **AWS ECS**             | theoretical  |              |
+|                       | **AWS EKS**             | theoretical  |              |
+|                       |                         |              |              |
+| **Frontend**          | **JavaFX**              |   advanced   |   2 years    |
+|                       | **UI/UX**               | intermediate |  1.5 years   |
+|                       | **2D/3D graphics**      | intermediate |    1 year    |
+|                       | **JSON/XML**            | intermediate |    1 year    |
+|                       | **HTML/CSS**            |    entry     |   6 months   |
+|                       | **AngularJS 2**         |    entry     |   6 months   |
+|                       | **Vue.js**              |    entry     |   2 months   |
+|                       |                         |              |              |
+| **Testing**           | **JUnit**               |   advanced   |   3 years    |
+|                       | **Postman**             | intermediate |    1 year    |
+|                       | **JMockit**             |    entry     |   6 months   |
+|                       | **Mockito**             |    entry     |   5 months   |
+|                       | **JProfiler**           |    entry     |   1 month    |
+|                       | **OpenTelemetry**       |    entry     |   1 month    |
+|                       | **Jaeger**              |    entry     |   1 month    |
+|                       |                         |              |              |
+| **CI/CD**             | **Git**                 |   advanced   |   4 years    |
+|                       | **GitLab**              | intermediate |   2 years    |
+|                       | **JBoss**               | intermediate |   2 years    |
+|                       | **Gradle**              | intermediate |   2 years    |
+|                       | **Maven**               | intermediate |   2 years    |
+|                       | **GitHub**              | intermediate |    1 year    |
+|                       | **Azure DevOps**        | intermediate |    1 year    |
+|                       | **Docker**              |    entry     |   8 months   |
+|                       | **Kubernetes**          |    entry     |   6 months   |
+|                       | **Terraform**           |    entry     |   6 months   |
+|                       |                         |              |              |
+| **Software & Tools**  | **Windows**             |   advanced   |  5.5 years   |
+|                       | **IntelliJ IDEA**       |   advanced   |   4 years    |
+|                       | **Jira**                |   advanced   |   3 years    |
+|                       | **Eclipse IDE**         |   advanced   |  2.5 years   |
+|                       | **SQL Developer**       | intermediate |   2 years    |
+|                       | **Command Line**        | intermediate |   2 years    |
+|                       | **Confluence**          | intermediate |   2 years    |
+|                       | **pgAdmin**             | intermediate |    1 year    |
+|                       | **Linux**               | intermediate |    1 year    |
+|                       | **Tilt Dev**            | intermediate |  10 months   |
+|                       | **Node-RED**            |    entry     |   5 months   |
+|                       | **VS Code**             |    entry     |   4 months   |
+|                       | **GitHub Copilot**      | non-project  |              |
+|                       |                         |              |              |
+| **General**           | **OOP**                 |    expert    |   6 years    |
+|                       | **Clean Code**          |    expert    |   5 years    |
+|                       | **Design Patterns**     |   advanced   |   4 years    |
+|                       | **Scrum**               |   advanced   |  3.5 years   |
+|                       | **Mathematics**         |    expert    |   3 years    |
+|                       | **Product Development** |   advanced   |  2.5 years   |
+|                       | **Outsourcing**         | intermediate |   2 years    |
+|                       | **Outstaffing**         | intermediate |   2 years    |
+|                       | **Kanban**              | intermediate |   2 years    |
+|                       | **Waterfall**           | intermediate |    1 year    |
+|                       | **Multithreading**      | intermediate |    1 year    |
+|                       |                         |              |              |
+| **Domains**           | **Radar Stations**      |   advanced   |  2.5 years   |
+|                       | **Banking System**      | intermediate |   2 years    |
+|                       | **Asset Management**    | intermediate |    1 year    |
+|                       | **AWS Consulting**      | intermediate |    1 year    |
 
 &ast;used next levels:
 - **theoretical** or **non-project** - limited by self-education and pet project work.
