@@ -274,15 +274,16 @@ Working on my hard and soft skills, have next achievements so far:
 
 #### Software Engineering. Completed 3 educational programs:
 
-|     Date | Name                                                                                                                                                                                                             | Provider               | Certificate                         | Level        | Type                         |       Efforts | Practice                                                 | Acceptance      |
-|---------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|-------------------------------------|--------------|:-----------------------------|--------------:|----------------------------------------------------------|:----------------|
-| May 2024 | **GenAI:&nbsp;Assisted&nbsp;Programming with&nbsp;GitHub&nbsp;Copilot**                                                                                                                                          | GlobalLogic            | [Global Logic][GlobalLogic-Cert-11] | Beginner     | Mixed&nbsp;training          | 10&nbsp;hours | [Repository][GitHub-Repo-01]                             | Quiz            | 
-| Nov 2023 | [**AWS&nbsp;Certified&nbsp;Developer - Associate**](https://learn.acloud.guru/course/aws-certified-developer-associate/dashboard 'https://learn.acloud.guru/course/aws-certified-developer-associate/dashboard') | A&nbsp;Cloud&nbsp;Guru | [AWS][AWS-Cert-01]                  | Intermediate | Self&#8209;study&nbsp;course | 42&nbsp;hours | 14&nbsp;Labs&nbsp;in&nbsp;Playground, 4&nbsp;Exams       | 10&nbsp;Quizzes |
-| Aug 2022 | **CloudX&nbsp;Associate: AWS&nbsp;Developer**                                                                                                                                                                    | EPAM&nbsp;Systems      |                                     | Beginner     | Educational&nbsp;program     | 30&nbsp;hours | 5&nbsp;Labs&nbsp;in AWS&nbsp;Free&nbsp;Tier&nbsp;account | Mentor review   |
+|     Date | Name                                                                      | Provider               | Certificate                         | Level        | Type                         |       Efforts | Practice                                                 | Acceptance      |
+|---------:|:--------------------------------------------------------------------------|------------------------|-------------------------------------|--------------|:-----------------------------|--------------:|----------------------------------------------------------|:----------------|
+| May 2024 | **GenAI:&nbsp;Assisted&nbsp;Programming with&nbsp;GitHub&nbsp;Copilot**   | GlobalLogic            | [Global Logic][GlobalLogic-Cert-11] | Beginner     | Mixed&nbsp;training          | 10&nbsp;hours | [Repository][GitHub-Repo-01]                             | Quiz            | 
+| Nov 2023 | [**AWS&nbsp;Certified&nbsp;Developer - Associate**][ACloudGuru-Course-01] | A&nbsp;Cloud&nbsp;Guru | [AWS][AWS-Cert-01]                  | Intermediate | Self&#8209;study&nbsp;course | 42&nbsp;hours | 14&nbsp;Labs&nbsp;in&nbsp;Playground, 4&nbsp;Exams       | 10&nbsp;Quizzes |
+| Aug 2022 | **CloudX&nbsp;Associate: AWS&nbsp;Developer**                             | EPAM&nbsp;Systems      |                                     | Beginner     | Educational&nbsp;program     | 30&nbsp;hours | 5&nbsp;Labs&nbsp;in AWS&nbsp;Free&nbsp;Tier&nbsp;account | Mentor review   |
 
-[AWS-Cert-01]: resources/certificates/AWS/01_2023-12-06_AWS-Certified-Developer-Associate.pdf
 [GlobalLogic-Cert-11]: resources/certificates/GlobalLogic/11_2024-05-27_Assisted-programming-with-GitHub-Copilot.pdf
 [GitHub-Repo-01]: https://github.com/Yevhen-Tkachenko-1/GitHub-Copilot-for-Java-Demo 'https://github.com/Yevhen-Tkachenko-1/GitHub-Copilot-for-Java-Demo'
+[ACloudGuru-Course-01]: https://learn.acloud.guru/course/aws-certified-developer-associate/dashboard 'https://learn.acloud.guru/course/aws-certified-developer-associate/dashboard'
+[AWS-Cert-01]: resources/certificates/AWS/01_2023-12-06_AWS-Certified-Developer-Associate.pdf
 
 #### LinkedIn Learning. Completed 43 self-study courses:
 
