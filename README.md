@@ -280,17 +280,21 @@ Working on my hard and soft skills, have next achievements so far:
 | Nov 2023 | [**AWS&nbsp;Certified&nbsp;Developer - Associate**][ACloudGuru-Course-01] | A&nbsp;Cloud&nbsp;Guru | [AWS][AWS-Cert-01]                  | Intermediate | Self&#8209;study&nbsp;course | 42&nbsp;hours | 14&nbsp;Labs&nbsp;in&nbsp;Playground, 4&nbsp;Exams       | 10&nbsp;Quizzes |
 | Aug 2022 | **CloudX&nbsp;Associate: AWS&nbsp;Developer**                             | EPAM&nbsp;Systems      |                                     | Beginner     | Educational&nbsp;program     | 30&nbsp;hours | 5&nbsp;Labs&nbsp;in AWS&nbsp;Free&nbsp;Tier&nbsp;account | Mentor review   |
 
-[GlobalLogic-Cert-11]: resources/certificates/GlobalLogic/11_2024-05-27_Assisted-programming-with-GitHub-Copilot.pdf
-[GitHub-Repo-01]: https://github.com/Yevhen-Tkachenko-1/GitHub-Copilot-for-Java-Demo 'https://github.com/Yevhen-Tkachenko-1/GitHub-Copilot-for-Java-Demo'
 [ACloudGuru-Course-01]: https://learn.acloud.guru/course/aws-certified-developer-associate/dashboard 'https://learn.acloud.guru/course/aws-certified-developer-associate/dashboard'
-[AWS-Cert-01]: resources/certificates/AWS/01_2023-12-06_AWS-Certified-Developer-Associate.pdf
+
+[GlobalLogic-Cert-11]: resources/certificates/GlobalLogic/11_2024-05-27_Assisted-programming-with-GitHub-Copilot.pdf `Assisted-programming-with-GitHub-Copilot.pdf`
+[AWS-Cert-01]: resources/certificates/AWS/01_2023-12-06_AWS-Certified-Developer-Associate.pdf `AWS-Certified-Developer-Associate.pdf`
+
+[GitHub-Repo-01]: https://github.com/Yevhen-Tkachenko-1/GitHub-Copilot-for-Java-Demo 'https://github.com/Yevhen-Tkachenko-1/GitHub-Copilot-for-Java-Demo'
+
 
 #### LinkedIn Learning. Completed 43 self-study courses:
 
 | Category             |            Completed | Title                                                                                    | Practice                                      |    Level     |       Certificate        |
 |----------------------|---------------------:|:-----------------------------------------------------------------------------------------|:----------------------------------------------|:------------:|:------------------------:|
 |                      |                      |                                                                                          |                                               |              |                          |
-| **Backend**          |             Jul 2024 | [**Complete Guide to Apache Kafka**][LinkedIn-Course-40]                                 | [Repository][GitHub-Repo-Kafka]               |   Beginner   | [File][LinkedIn-Cert-40] |
+| **Backend**          |             Dec 2024 | [**JPA and Hibernate**][LinkedIn-Course-44]                                              | [Repository][GitHub-Repo-Hibernate]           | Intermediate | [File][LinkedIn-Cert-44] |
+|                      |             Jul 2024 | [**Complete Guide to Apache Kafka**][LinkedIn-Course-40]                                 | [Repository][GitHub-Repo-Kafka]               |   Beginner   | [File][LinkedIn-Cert-40] |
 |                      |             Oct 2023 | [**Microservices: Security**][LinkedIn-Course-33]                                        |                                               |   Advanced   | [File][LinkedIn-Cert-33] |
 |                      |             Oct 2023 | [**Microservices: Design Patterns**][LinkedIn-Course-32]                                 |                                               |   Advanced   | [File][LinkedIn-Cert-32] |
 |                      |             Oct 2023 | [**Microservices: Foundations**][LinkedIn-Course-31]                                     |                                               |   Advanced   | [File][LinkedIn-Cert-31] |
@@ -383,9 +387,11 @@ Working on my hard and soft skills, have next achievements so far:
 [LinkedIn-Course-41]: https://www.linkedin.com/learning/spring-spring-security-15832928 'https://www.linkedin.com/learning/spring-spring-security-15832928'
 [LinkedIn-Course-42]: https://www.linkedin.com/learning/docker-your-first-project 'https://www.linkedin.com/learning/docker-your-first-project'
 [LinkedIn-Course-43]: https://www.linkedin.com/learning/postgresql-essential-training-22611610 'https://www.linkedin.com/learning/postgresql-essential-training-22611610'
+[LinkedIn-Course-44]: https://www.linkedin.com/learning/java-persistence-with-jpa-and-hibernate 'https://www.linkedin.com/learning/java-persistence-with-jpa-and-hibernate'
 
 [GitHub-Repo-Copilot]: https://github.com/Yevhen-Tkachenko-1/GitHub-Copilot-for-Java-Demo 'https://github.com/Yevhen-Tkachenko-1/GitHub-Copilot-for-Java-Demo'
 [GitHub-Repo-Docker]: https://github.com/Yevhen-Tkachenko-1/Docker-Containerization-Demo 'https://github.com/Yevhen-Tkachenko-1/Docker-Containerization-Demo'
+[GitHub-Repo-Hibernate]: https://github.com/Yevhen-Tkachenko-1/Hibernate-ORM-Demo 'https://github.com/Yevhen-Tkachenko-1/Hibernate-ORM-Demo'
 [GitHub-Repo-Java]: https://github.com/Yevhen-Tkachenko-1/Java-SDK-Research-and-Play 'https://github.com/Yevhen-Tkachenko-1/Java-SDK-Research-and-Play'
 [GitHub-Repo-Java-Multithreading]: https://github.com/Yevhen-Tkachenko-1/Java-SDK-Research-and-Play/blob/main/Multithreading-Demo/README.md 'https://github.com/Yevhen-Tkachenko-1/Java-SDK-Research-and-Play/blob/main/Multithreading-Demo/README.md'
 [GitHub-Repo-Kafka]: https://github.com/Yevhen-Tkachenko-1/Apache-Kafka-Demo 'https://github.com/Yevhen-Tkachenko-1/Apache-Kafka-Demo'
@@ -440,6 +446,7 @@ Working on my hard and soft skills, have next achievements so far:
 [LinkedIn-Cert-41]: resources/certificates/LinkedIn/41-CertificateOfCompletion_Spring%20Spring%20Security.pdf
 [LinkedIn-Cert-42]: resources/certificates/LinkedIn/42-CertificateOfCompletion_Docker%20Your%20First%20Project.pdf
 [LinkedIn-Cert-43]: resources/certificates/LinkedIn/43-CertificateOfCompletion_PostgreSQL%20Essential%20Training.pdf
+[LinkedIn-Cert-44]: resources/certificates/LinkedIn/44-CertificateOfCompletion_Java-Persistence-with-JPA-and-Hibernate.pdf
 
 #### Business Process Awareness. Completed 45 self-study trainings:
 
