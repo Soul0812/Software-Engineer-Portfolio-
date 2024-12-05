@@ -282,11 +282,10 @@ Working on my hard and soft skills, have next achievements so far:
 
 [ACloudGuru-Course-01]: https://learn.acloud.guru/course/aws-certified-developer-associate/dashboard 'https://learn.acloud.guru/course/aws-certified-developer-associate/dashboard'
 
-[GlobalLogic-Cert-11]: resources/certificates/GlobalLogic/11_2024-05-27_Assisted-programming-with-GitHub-Copilot.pdf `Assisted-programming-with-GitHub-Copilot.pdf`
-[AWS-Cert-01]: resources/certificates/AWS/01_2023-12-06_AWS-Certified-Developer-Associate.pdf `AWS-Certified-Developer-Associate.pdf`
+[GlobalLogic-Cert-11]: resources/certificates/GlobalLogic/11_2024-05-27_Assisted-programming-with-GitHub-Copilot.pdf
+[AWS-Cert-01]: resources/certificates/AWS/01_2023-12-06_AWS-Certified-Developer-Associate.pdf
 
 [GitHub-Repo-01]: https://github.com/Yevhen-Tkachenko-1/GitHub-Copilot-for-Java-Demo 'https://github.com/Yevhen-Tkachenko-1/GitHub-Copilot-for-Java-Demo'
-
 
 #### LinkedIn Learning. Completed 43 self-study courses:
 
