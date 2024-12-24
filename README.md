@@ -157,6 +157,7 @@ Details about my **hard skills**:
 |                       | **JSON/XML**            | intermediate |    1 year    |
 |                       | **HTML/CSS**            |    entry     |   6 months   |
 |                       | **AngularJS 2**         |    entry     |   6 months   |
+|                       | **docx4j/xlsx4j**       |    entry     |   5 months   |
 |                       | **Vue.js**              |    entry     |   2 months   |
 |                       |                         |              |              |
 | **Testing**           | **JUnit**               |   advanced   |   3 years    |
