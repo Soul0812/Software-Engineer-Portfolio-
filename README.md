@@ -453,13 +453,14 @@ Working on my hard and soft skills, have next achievements so far:
 | Provider         |                                    Completed | Title                                                    | Certificate                                                |
 |------------------|---------------------------------------------:|----------------------------------------------------------|------------------------------------------------------------|
 |                  |                                              |                                                          |                                                            |
-| **GlobalLogic**  |                                     Jan 2025 | **Diversity, Equity and Inclusion**                      | [File][GlobalLogic-Cert-15]                                |
+| **GlobalLogic**  |                                     Mar 2025 | **Putting Data Protection into Practice**                | [File][GlobalLogic-Cert-17]                                |
+|                  |                         Mar 2025<br>Mar 2024 | **Introduction to Data Protection**                      | [File][GlobalLogic-Cert-16]<br>[File][GlobalLogic-Cert-08] |
+|                  |                                     Jan 2025 | **Diversity, Equity and Inclusion**                      | [File][GlobalLogic-Cert-15]                                |
 |                  |                         Nov 2024<br>Nov 2023 | **Internet Security and You**                            | [File][GlobalLogic-Cert-14]<br>[File][GlobalLogic-Cert-03] |
 |                  |                                     Nov 2024 | **Social Engineering Red Flags**                         | [File][GlobalLogic-Cert-13]                                |
 |                  |                                     Oct 2024 | **Code of Ethical Conduct**                              | [File][GlobalLogic-Cert-12]                                |
 |                  |                                     May 2024 | **IT Security in the Workplace**                         | [File][GlobalLogic-Cert-10]                                |
 |                  |                                     May 2024 | **Security Awareness**                                   | [File][GlobalLogic-Cert-09]                                |
-|                  |                                     Mar 2024 | **Introduction to Data Protection**                      | [File][GlobalLogic-Cert-08]                                |
 |                  |                                     Nov 2023 | **GQMS: Ochibo-Hiroi**                                   | [File][GlobalLogic-Cert-07]                                |
 |                  |                                     Nov 2023 | **GQMS: Critical Incident Management**                   | [File][GlobalLogic-Cert-06]                                |
 |                  |                                     Nov 2023 | **GQMS(Global Quality Management System): Overview**     | [File][GlobalLogic-Cert-05]                                |
@@ -497,6 +498,8 @@ Working on my hard and soft skills, have next achievements so far:
 [GlobalLogic-Cert-13]: resources/certificates/GlobalLogic/13_2024-11-19_Social-Engineering-Red-Flags.pdf
 [GlobalLogic-Cert-14]: resources/certificates/GlobalLogic/14_2024-11-19_Internet-Security-and-You.pdf
 [GlobalLogic-Cert-15]: resources/certificates/GlobalLogic/15_2025-01-29_Diversity-Equity-Inclusion.pdf
+[GlobalLogic-Cert-16]: resources/certificates/GlobalLogic/16_2025-03-19_Introduction-to-Data-Protection.pdf
+[GlobalLogic-Cert-17]: resources/certificates/GlobalLogic/17_2025-03-20_Putting-Data-Protection-Into-Practice.pdf
 
 [EPAM-Cert-01]: resources/certificates/EPAM/01%20-%202021-04-06%20-%20How%20to%20Be%20Diplomatic%20and%20Concise.PNG
 [EPAM-Cert-02]: resources/certificates/EPAM/02%20-%202021-07-30,%202021-02-03%20-%20Vulnerability%20Management.PNG
