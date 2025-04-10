@@ -519,6 +519,13 @@ Working on my hard and soft skills, have next achievements so far:
 [EPAM-Cert-14]: resources/certificates/EPAM/14%20-%202023-07-31,%202022-06-20,%202021-05-21,%202020-09-30.%201-hour%20Trainings%20with%20Quiz%20assessment.%205%20Steps%20to%20Cyber%20Security%20Success.PNG
 [EPAM-Cert-15]: resources/certificates/EPAM/15%20-%202023-09-26%20-%20Becoming%20a%20Tech%20Mentor.PNG
 
+#### Japanese project integration studies:
+
+|     Date | Type                          | Level    |                Efforts | Duration | Provider                                |
+|---------:|:------------------------------|:---------|-----------------------:|---------:|-----------------------------------------|
+| Jan 2025 | **Japanese Language Courses** | Beginner |  24 lessons by 2 hours | 3 months | [ACJ](https://acj.edu.pl/), GlobalLogic |
+| Jan 2025 | **Japanese Cultural Events**  | Beginner | 12 lectures by 2 hours | 3 months | [ACJ](https://acj.edu.pl/), GlobalLogic |
+
 #### Books Reading:
 
 | Reading | Title                                                                 | Authorship                            |
