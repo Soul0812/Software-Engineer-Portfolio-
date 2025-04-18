@@ -519,7 +519,13 @@ Working on my hard and soft skills, have next achievements so far:
 [EPAM-Cert-14]: resources/certificates/EPAM/14%20-%202023-07-31,%202022-06-20,%202021-05-21,%202020-09-30.%201-hour%20Trainings%20with%20Quiz%20assessment.%205%20Steps%20to%20Cyber%20Security%20Success.PNG
 [EPAM-Cert-15]: resources/certificates/EPAM/15%20-%202023-09-26%20-%20Becoming%20a%20Tech%20Mentor.PNG
 
-#### Japanese project integration studies:
+#### Japanese studies
+
+There were courses that helped GlobalLogic employees to integrate into the Japanese project.
+Working with Japanese stakeholders implies additional attention to the communication, 
+and it was important to show respect by learning Japanese language.
+It was fascinating to meet Japan at work.
+I'm grateful for such an opportunity that the Customers provided for free.
 
 |     Date | Type                          | Level    |                Efforts | Duration | Provider                                |
 |---------:|:------------------------------|:---------|-----------------------:|---------:|-----------------------------------------|
