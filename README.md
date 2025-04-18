@@ -622,7 +622,7 @@ My thoughts and actual history of project changes:
 
 - [**When** is the right time to look for new opportunities?](#when-is-the-right-time-to-look-for-new-opportunities)
 - [**What** to check to find the best fit?](#what-to-check-to-find-the-best-fit)
-- [**Why** did I actually change projects?](#why-did-i-actually-change-projects)
+- [**Why** did I actually work on different projects?](#why-did-i-actually-work-on-different-projects)
 
 #### When is the right time to look for new opportunities?
 
@@ -680,10 +680,11 @@ So, I have some points to check when applying for new projects:
 - Compensation Range for the position.
 - Compensation Review: What to do to get it? How often? Regular or by asking? Which amount is it possible to have in 2 years?
 
-#### Why did I actually change projects?
+#### Why did I actually work on different projects?
 
 |        Left         |     Company     |         Project         | Leaving Reason                                                                                                                                                                                                                                                                                                       |
 |:-------------------:|:---------------:|:-----------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| &nbsp;Oct&nbsp;2024 |   GlobalLogic   | **Enterprise&nbsp;Web** | Driven by Customer. It was the end of the contract and the Clients decided to suspend active product development. A large amount of work was successfully completed and almost all of GlobalLogic employees finished working on the project.                                                                         |
 | &nbsp;Oct&nbsp;2023 | EPAM<br>Systems | **Enterprise&nbsp;Web** | Driven by Customer. As part of *Cost Saving* program, almost all EPAM employees were ramped down. As stated by the Customer Top Management, there were internal processes that are not related to EPAM performance. In fact, Customer Middle Management appreciated our contribution and it was a big loss for them. |
 | &nbsp;Sep&nbsp;2021 | EPAM<br>Systems | **Cloud&nbsp;Pipeline** | Driven by Customer. Our team successfully finished active phase of development by releasing stable version of app. Finally, we organized knowledge transfer and passed app to support team.                                                                                                                          |
 | &nbsp;Dec&nbsp;2020 | EPAM<br>Systems |   **Java&nbsp;Tool**    | Driven by Customer. It was short project with fixed term assignment. Our team successfully implemented pilot version of application and it was enough for the Customers at that moment.                                                                                                                              |
