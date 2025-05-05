@@ -288,7 +288,7 @@ Working on my hard and soft skills, have next achievements so far:
 
 [GitHub-Repo-01]: https://github.com/Yevhen-Tkachenko-1/GitHub-Copilot-for-Java-Demo 'https://github.com/Yevhen-Tkachenko-1/GitHub-Copilot-for-Java-Demo'
 
-#### LinkedIn Learning. Completed 43 self-study courses:
+#### LinkedIn Learning. Completed 45 self-study courses:
 
 | Category             |            Completed | Title                                                                                    | Practice                                      |    Level     |       Certificate        |
 |----------------------|---------------------:|:-----------------------------------------------------------------------------------------|:----------------------------------------------|:------------:|:------------------------:|
@@ -334,7 +334,8 @@ Working on my hard and soft skills, have next achievements so far:
 |                      |             Aug 2021 | [**Programming Foundations: Algorithms**][LinkedIn-Course-03]                            |                                               |   Beginner   | [File][LinkedIn-Cert-03] |
 |                      |             Aug 2021 | [**Practical Test-Driven Development for Java Programmers**][LinkedIn-Course-02]         |                                               | Intermediate | [File][LinkedIn-Cert-02] |
 |                      |                      |                                                                                          |                                               |              |                          |
-| **Cloud**            |             Sep 2023 | [**AWS for Developers: SNS, SQS, and SWF**][LinkedIn-Course-24]                          |                                               |   Advanced   | [File][LinkedIn-Cert-24] |
+| **Cloud**            |             May 2025 | [**GCP Load Balancing**][LinkedIn-Course-45]                                             |                                               |   Advanced   | [File][LinkedIn-Cert-45] |
+|                      |             Sep 2023 | [**AWS for Developers: SNS, SQS, and SWF**][LinkedIn-Course-24]                          |                                               |   Advanced   | [File][LinkedIn-Cert-24] |
 |                      |             Sep 2023 | [**Exam Prep: Microsoft Azure Fundamentals**][LinkedIn-Course-22]                        |                                               |   Beginner   | [File][LinkedIn-Cert-22] |
 |                      |             Aug 2022 | [**AWS Essential Training for Developers**][LinkedIn-Course-12]                          |                                               |   Beginner   | [File][LinkedIn-Cert-12] |
 |                      | Jul 2021<br>May 2021 | [**Learning Cloud Computing: Core Concepts**][LinkedIn-Course-01]                        |                                               |   Beginner   | [File][LinkedIn-Cert-01] |
@@ -388,6 +389,7 @@ Working on my hard and soft skills, have next achievements so far:
 [LinkedIn-Course-42]: https://www.linkedin.com/learning/docker-your-first-project 'https://www.linkedin.com/learning/docker-your-first-project'
 [LinkedIn-Course-43]: https://www.linkedin.com/learning/postgresql-essential-training-22611610 'https://www.linkedin.com/learning/postgresql-essential-training-22611610'
 [LinkedIn-Course-44]: https://www.linkedin.com/learning/java-persistence-with-jpa-and-hibernate 'https://www.linkedin.com/learning/java-persistence-with-jpa-and-hibernate'
+[LinkedIn-Course-45]: https://www.linkedin.com/learning/spring-cloud-load-balancing 'https://www.linkedin.com/learning/spring-cloud-load-balancing'
 
 [GitHub-Repo-Copilot]: https://github.com/Yevhen-Tkachenko-1/GitHub-Copilot-for-Java-Demo 'https://github.com/Yevhen-Tkachenko-1/GitHub-Copilot-for-Java-Demo'
 [GitHub-Repo-Docker]: https://github.com/Yevhen-Tkachenko-1/Docker-Containerization-Demo 'https://github.com/Yevhen-Tkachenko-1/Docker-Containerization-Demo'
@@ -447,6 +449,7 @@ Working on my hard and soft skills, have next achievements so far:
 [LinkedIn-Cert-42]: resources/certificates/LinkedIn/42-CertificateOfCompletion_Docker%20Your%20First%20Project.pdf
 [LinkedIn-Cert-43]: resources/certificates/LinkedIn/43-CertificateOfCompletion_PostgreSQL%20Essential%20Training.pdf
 [LinkedIn-Cert-44]: resources/certificates/LinkedIn/44-CertificateOfCompletion_Java-Persistence-with-JPA-and-Hibernate.pdf
+[LinkedIn-Cert-45]: resources/certificates/LinkedIn/45-CertificateOfCompletion_Spring%20Cloud%20Load%20Balancing.pdf
 
 #### Business Process Awareness. Completed 53 self-study trainings:
 
