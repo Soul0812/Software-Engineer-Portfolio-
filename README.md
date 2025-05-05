@@ -191,6 +191,7 @@ Details about my **hard skills**:
 |                       | **Tilt Dev**            | intermediate |  10 months   |
 |                       | **Node-RED**            |    entry     |   5 months   |
 |                       | **VS Code**             |    entry     |   4 months   |
+|                       | **Mermaid**             |    entry     |   3 months   |
 |                       | **GitHub Copilot**      | non-project  |              |
 |                       |                         |              |              |
 | **General**           | **OOP**                 |    expert    |   6 years    |
