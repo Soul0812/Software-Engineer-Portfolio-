@@ -706,8 +706,6 @@ Changing projects is not typical for Java engineers, so let me share details abo
 &ast;_RINANU_ is [Ukrainian Product Department](http://rian.kharkov.ua/index.php/en/ 'http://rian.kharkov.ua/index.php/en/')
 that produces Radar Station Prototypes including scientific research, hardware and software implementation.
 
-[//]: <> (| Nov&nbsp;2023&nbsp;-&nbsp;June&nbsp;2024 |   GlobalLogic   |   **Enterprise&nbsp;Web**    | Driven by Customer. As part of *Cost Saving* program, almost all GlobalLogic employees were ramped down. As highlighted by the Customer Management, our engineers made great impact on the project quality. A lot of bugs were fixed and development processes became more efficient.                                |)
-
 # Programming Habits
 
 Some tips and approaches for programmers that I noticed and personally found useful:
